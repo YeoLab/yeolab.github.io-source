@@ -24,3 +24,4 @@ Enching Luo received her master's degree in Physiology from National Taiwan Univ
 
 **Luo, E.-C.**, Chang, Y.-C., Sher, Y.-P., Huang, W.-Y., Chuang, L.-L., Chiu, Y.-C., et al. (2014).  MicroRNA-769-3p down-regulates NDRG1 and enhances apoptosis in MCF-7 cells during reoxygenation. Scientific Reports, 4, 5908. <br>  
 Liu, Y.-J., Lin, Y.-F., Chen, Y.-F., **Luo, E.-C.**, Sher, Y.-P., Tsai, M.-H., et al. (2013). MicroRNA-449a enhances radiosensitivity in CL1-0 lung adenocarcinoma cells. PloS One, 8(4), e62383. <br>
+
