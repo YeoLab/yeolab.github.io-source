@@ -252,6 +252,7 @@ Nature Genetics
    <a href="http://f1000.com/prime/718170823"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>  
   [[Identification of RNA bridges](/papers/2013/RNA_bridge_som.pdf)]
 
+
 * [**Coordinate Nodal and BMP inhibition directs Baf60c-dependent cardiomyocyte commitment**](/papers/2013/Genes_Dev_2013.pdf)  
   Cai W, Albini S, Wei K, Willems E, Guzzo RM, Tsuda M, Giordani L, Spiering S, Kurian L, **Yeo GW**, Puri PL, and Mercola M.  
   *Genes & Development*  
@@ -320,6 +321,7 @@ Nature Genetics
   [[News&Views](/papers/2012/Gitler_newsandviews_Nat_Neurosc_2012.pdf)]
   <a href="http://f1000.com/prime/717961255"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a> 
 
+
 * [**LIN28 binds messenger RNAs at GGAGA motifs and regulates splicing factor abundance**](/papers/2012/wilbert2012.pdf)  
   Wilbert MW, Huelga SC, Kapeli K, Stark TJ, Liang TY, Chen SX, Yan BY, Nathanson JL, Hutt KR, Lovci MT, Kazan H,
   Vu AQ, Massirer KB, Morris Q, Hoon S, and **Yeo GW**.   
@@ -335,6 +337,7 @@ Nature Genetics
   Huelga SC, Vu AQ, Arnold JD, Liang TY, Liu PP, Yan BY, Donohue JP, Shiue L, Hoon S, Brenner S, Ares M, and **Yeo GW**.    
   *Cell Reports*     
   [[RNAbind](http://rnabind.ucsd.edu)]
+
 
 * [**High-resolution profiling and analysis of viral and host small RNAs during human cytomegalovirus infection**](/papers/2012/JVirol_2012_Stark.pdf)  
   Stark TJ, Arnold JD, Spector DH, and **Yeo GW**.    
@@ -527,4 +530,3 @@ Nature Genetics
 * [**Regularized least-squares classification**](/papers/2003/10.1.1.7.3463.pdf)  
   Rifkin R, **Yeo GW**, and Poggio, T.   
   *Advances in Learning Theory: Methods, Model and Applications, NATO Science Series III:  Computer and System Sciences, Vol. 190, ISO Press, Amsterdam*     
-
