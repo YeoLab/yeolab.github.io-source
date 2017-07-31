@@ -8,8 +8,6 @@ icon: mdi mdi-file-multiple
 Kapeli K, Martinez FJ, **Yeo GW**   
 Human Genetics
 
-
-
 * [**Single-Cell Alternative Splicing Analysis with Expedition Reveals Splicing Dynamics during Neuron Differentiation**](/papers/2017/Olga_Yan_MolecularCell_2017.pdf)  
 Song Y, Botvinnik OB, Lovci MT, Kakaradov B, Liu PL, Xu JL,**Yeo GW**     
 Molecular Cell

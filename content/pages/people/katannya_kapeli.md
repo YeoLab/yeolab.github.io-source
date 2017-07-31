@@ -21,6 +21,9 @@ RNA binding proteins in translational control and seeks to understand how disrup
 
 
 ## Publications
+**Kapeli K**, Martinez FJ, Yeo GW. Genetic mutations in RNA‐binding proteins and their roles in ALS [[Human Genetics](/papers/2017/Kapeli_Human_Genetics_2017.pdf)]. 2017 
+
+
 **Kapeli K** and Yeo GW. Genome-wide approaches to dissect the roles of RNA binding proteins in translational control: implications for neurological diseases Frontiers in Neuroscience, 2012.
 
 Wilbert MW, Huelga SC, **Kapeli K**, Stark TJ, Liang TY, Chen SX, Yan BY, Nathanson JL, Hutt KR, Lovci MT, Kazan H, Vu AQ, Massirer KB, Morris Q, Hoon S, Yeo GW. LIN28 binds messenger RNAs at GGAGA motifs and regulates splicing factor abundance. Molecular Cell, 2012. [[Mol Cell](http://www.cell.com/molecular-cell/abstract/S1097-2765(12)00690-9)]
