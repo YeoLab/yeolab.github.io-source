@@ -4,6 +4,12 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ### 2017
+* [**Genetic mutations in RNA‐binding proteins and their roles in ALS**](/papers/2017/Kapeli_Human_Genetics_2017.pdf)   
+Kapeli K, Martinez FJ, **Yeo GW**   
+Human Genetics
+
+
+
 * [**Single-Cell Alternative Splicing Analysis with Expedition Reveals Splicing Dynamics during Neuron Differentiation**](/papers/2017/Olga_Yan_MolecularCell_2017.pdf)  
 Song Y, Botvinnik OB, Lovci MT, Kakaradov B, Liu PL, Xu JL,**Yeo GW**     
 Molecular Cell
