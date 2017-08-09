@@ -4,6 +4,10 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ### 2017
+* [**Robust, Cost-Effective Profiling of RNA Binding Protein Targets with Single-end Enhanced Crosslinking and Immunoprecipitation (seCLIP).**](/papers/2017/Eric_Methods_Mol Biol_2017.pdf)  
+Van Nostrand EL, Nguyen TB, Gelboin-Burkhart C, Wang R, Blue SM, Pratt GA, Louie AL, **Yeo GW**.  
+Methods Mol Biol.
+
 * [**Genetic mutations in RNA‐binding proteins and their roles in ALS**](/papers/2017/Kapeli_Human_Genetics_2017.pdf)   
 Kapeli K, Martinez FJ, **Yeo GW**   
 Human Genetics
