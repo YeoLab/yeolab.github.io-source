@@ -6,7 +6,9 @@ icon: mdi mdi-file-multiple
 ### 2017
 * [**Elimination of Toxic Microsatellite Repeat Expansion RNA by RNA-Targeting Cas9**](/papers/2017/Ron_cell_2017.pdf)   
 Batra R, Nelles DA, Pirie E, Blue SM, Marina RJ, Wang H, Chaim IA, Thomas JD, Zhang N, Nguygen V, Aigner S, Markmiller S, Xia G, Corbett KD, Swanson MS, **Yeo GW**.   
-Cell
+Cell  
+[[UCSD News](http://ucsdnews.ucsd.edu/pressrelease/new_version_of_dna_editing_system_corrects_underlying_defects_in_rna_based)]
+
 
 * [**Robust, Cost-Effective Profiling of RNA Binding Protein Targets with Single-end Enhanced Crosslinking and Immunoprecipitation (seCLIP).**](/papers/2017/Eric_Methods_MolBiol_2017.pdf)  
 Van Nostrand EL, Nguyen TB, Gelboin-Burkhart C, Wang R, Blue SM, Pratt GA, Louie AL, **Yeo GW**.  
