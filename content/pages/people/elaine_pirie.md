@@ -21,17 +21,20 @@ Elaine began her career as an undergraduate using electrogretiograms to study re
 CRISPR/Cas9 based technologies for the treatment of human genetic disorders.
 
 ## Publications
-1: Nakamura T, Prikhodko OA, **Pirie E**, Nagar S, Akhtar MW, Oh CK, McKercher SR, Ambasudhan R, Okamoto S, Lipton SA. Aberrant protein S-nitrosylation contributes to the pathophysiology of neurodegenerative diseases. Neurobiol Dis. 2015 Dec;84:99-108. doi: 10.1016/j.nbd.2015.03.017
+Batra R, Nelles DA, **Pirie E**, Blue SM, Marina RJ, Wang H, Chaim IA, Thomas JD, Zhang N, Nguyen V, Aigner S, Markmiller S, Xia G, Corbett KD, Swanson MS, Yeo GW. Elimination of Toxic Microsatellite Repeat Expansion RNA by RNA-Targeting Cas9. Cell. 2017 Aug 10. 
 
-2: Park HJ, Stokes JA, **Pirie E**, Skahen J, Shtaerman Y, Yaksh TL. Persistent hyperalgesia in the cisplatin-treated mouse as defined by threshold measures, the
+
+Nakamura T, Prikhodko OA, **Pirie E**, Nagar S, Akhtar MW, Oh CK, McKercher SR, Ambasudhan R, Okamoto S, Lipton SA. Aberrant protein S-nitrosylation contributes to the pathophysiology of neurodegenerative diseases. Neurobiol Dis. 2015 Dec;84:99-108. doi: 10.1016/j.nbd.2015.03.017
+
+Park HJ, Stokes JA, **Pirie E**, Skahen J, Shtaerman Y, Yaksh TL. Persistent hyperalgesia in the cisplatin-treated mouse as defined by threshold measures, the
 conditioned place preference paradigm, and changes in dorsal root ganglia activated transcription factor 3: the effects of gabapentin, ketorolac, and etanercept. Anesth Analg. 2013 Jan;116(1):224-31. doi:10.1213/ANE.0b013e31826e1007. 
 
-3: Brandl K, Tomisato W, Li X, Neppl C, **Pirie E**, Falk W, Xia Y, Moresco EM, Baccala R, Theofilopoulos AN, Schnabl B, Beutler B. Yip1 domain family, member 6 
+Brandl K, Tomisato W, Li X, Neppl C, **Pirie E**, Falk W, Xia Y, Moresco EM, Baccala R, Theofilopoulos AN, Schnabl B, Beutler B. Yip1 domain family, member 6 
 (Yipf6) mutation induces spontaneous intestinal inflammation in mice. Proc Natl Acad Sci U S A. 2012 Jul 31;109(31):12650-5. doi: 10.1073/pnas.1210366109. 
 
-4: Arnold CN, **Pirie E**, Dosenovic P, McInerney GM, Xia Y, Wang N, Li X, Siggs OM, Karlsson Hedestam GB, Beutler B. A forward genetic screen reveals roles for
+Arnold CN, **Pirie E**, Dosenovic P, McInerney GM, Xia Y, Wang N, Li X, Siggs OM, Karlsson Hedestam GB, Beutler B. A forward genetic screen reveals roles for
 Nfkbid, Zeb1, and Ruvbl2 in humoral immunity. Proc Natl Acad Sci U S A. 2012 Jul 31;109(31):12286-93. doi: 10.1073/pnas.1209134109. 
 
-5: Siggs OM, Arnold CN, Huber C, **Pirie E**, Xia Y, Lin P, Nemazee D, Beutler B. The P4-type ATPase ATP11C is essential for B lymphopoiesis in adult bone marrow. Nat Immunol. 2011 May;12(5):434-40. doi: 10.1038/ni.2012. 
+Siggs OM, Arnold CN, Huber C, **Pirie E**, Xia Y, Lin P, Nemazee D, Beutler B. The P4-type ATPase ATP11C is essential for B lymphopoiesis in adult bone marrow. Nat Immunol. 2011 May;12(5):434-40. doi: 10.1038/ni.2012. 
 
-6: Siggs OM, Berger M, Krebs P, Arnold CN, Eidenschenk C, Huber C, **Pirie E**, Smart NG, Khovananth K, Xia Y, McInerney G, Karlsson Hedestam GB, Nemazee D, Beutler B. A mutation of Ikbkg causes immune deficiency without impairing degradation of IkappaB alpha. Proc Natl Acad Sci U S A. 2010 Feb 16;107(7):3046-51. doi: 10.1073/pnas.0915098107. 
+Siggs OM, Berger M, Krebs P, Arnold CN, Eidenschenk C, Huber C, **Pirie E**, Smart NG, Khovananth K, Xia Y, McInerney G, Karlsson Hedestam GB, Nemazee D, Beutler B. A mutation of Ikbkg causes immune deficiency without impairing degradation of IkappaB alpha. Proc Natl Acad Sci U S A. 2010 Feb 16;107(7):3046-51. doi: 10.1073/pnas.0915098107. 

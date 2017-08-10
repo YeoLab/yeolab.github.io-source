@@ -21,4 +21,4 @@ Sebastian received his B.S. in Molecular Biotechnology in 2004 and his M.S. in M
 
 ## Publications
 
-Coming Soon!
+1.	Batra R, Nelles DA, Pirie E, Blue SM, Marina RJ, Wang H, Chaim IA, Thomas JD, Zhang N, Nguyen V, Aigner S, **Markmiller S**, Xia G, Corbett KD, Swanson MS, Yeo GW. Elimination of Toxic Microsatellite Repeat Expansion RNA by RNA-Targeting Cas9. Cell. 2017. 

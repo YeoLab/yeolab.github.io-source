@@ -22,9 +22,10 @@ David Nelles received his B.S. in Engineering Physics from the University of Pit
 
 ## Publications
 
+Elimination of Toxic Microsatellite Repeat Expansion RNA by RNA-Targeting Cas9 Batra R, **Nelles DA**, Pirie E, Blue SM, Marina RJ, Wang H, Chaim IA, Thomas JD, Zhang N, Nguygen V, Aigner S, Markmiller S, Xia G, Corbett KD, Swanson MS, Yeo GW. Cell. [[PDF](/papers/2017/Ron_cell_2017.pdf)]  
+
 Programmable RNA tracking in Live Cells with CRISPR/Cas9.**  
-**Nelles DA**, Fang M, O’Connell MR, Xu JL, Markmiller SJ, Doudna JA, Yeo GW  
-Cell, 2016. [[PDF](/papers/2016/nelles_rcas9_2016.pdf)] 
+**Nelles DA**, Fang M, O’Connell MR, Xu JL, Markmiller SJ, Doudna JA, Yeo GW Cell, 2016. [[PDF](/papers/2016/nelles_rcas9_2016.pdf)] 
 
 Applications of Cas9 as an RNA-programmed RNA-binding protein. Nelles DA, Fang MY, Aigner S, Yeo GW
 Bioessays, 2015. [[PDF](http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002/bies.201500001)]
