@@ -21,7 +21,9 @@ Emily is a PhD student in the Biomedical Science Department at UCSD and a member
 Emily is now working in collaboration with Dr. Rafael Bejar to understand the role of splicing factor mutations that commonly occur in patients with myelodysplastic syndrome (MDS). Although her background is in wet lab, molecular biology, Emily is also learning computational methods to study how these mutations affect the RNA landscape in patients. In her free time, Emily loves to be outdoors enjoying the beautiful San Diego weather. She enjoys running, soccer, swimming, hiking, camping, and in the winter making her way north to the mountains for downhill skiing.
 
 ## Publications
-**Wheeler E**, Washburn M, Major F, Rusch D, Hundley H. “Noncoding regions of C. elegans mRNA undergo selective adenosine to inosine deamination and contain a small number of editing sites per transcript.” RNA Biology 2015;12(2):162-74.
+ Carter H, Marty R, Hofree M, Gross AM, Jensen J, Fisch KM, Wu X, DeBoever C, Van Nostrand EL, Song Y, **Wheeler E**, Kreisberg JF, Lippman SM, Yeo GW, Gutkind JS, and Ideker T. Interaction landscape of inherited polymorphisms with somatic events in cancer. Cancer Discovery. 2017.
+
+**Wheeler E**, Washburn M, Major F, Rusch D, Hundley H. “Noncoding regions of C. elegans mRNA undergo selective adenosine to inosine deamination and contain a small number of editing sites per transcript. RNA Biology 2015;12(2):162-74.
 
 Washburn M, Kakaradov B, Sundararaman B, **Wheeler E**, Hoon S, Yeo G, Hundley H. “The dsRBP and inactive editor ADR-1 utilizes dsRNA binding to regulate A-to-I RNA editing across the C. elegans transcriptome.” Cell Reports 2014 Feb 27;6(4):599-607.
 
