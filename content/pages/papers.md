@@ -67,8 +67,7 @@ Nature Genetics
 
 
 * [**RNA-binding protein CPEB1 remodels host and viral RNA landscapes**](/papers/2016/ron_NatureStructural_2016.pdf)  
-  Batra R, Stark TJ, Clark E, Belzile JP, Wheeler EC, Yee BA, Huang H,
-  Gelboin-Burkhart C, Huelga SC, Aigner S, Roberts BT, Bos TJ, Sathe S, Donohue JP, Rigo F, Ares M Jr, Spector DH, and **Yeo GW**.  
+  Batra R, Stark TJ, Clark E, Belzile JP, Wheeler EC, Yee BA, Huang H, Gelboin-Burkhart C, Huelga SC, Aigner S, Roberts BT, Bos TJ, Sathe S, Donohue JP, Rigo F, Ares M Jr, Spector DH, and **Yeo GW**.  
   Nature Structural and Molecular Biology  
   [[UCSD News](https://health.ucsd.edu/news/releases/Pages/2016-10-24-CMV-infection-relies-on-human-RNA-binding-protein.aspx)]
   [[Quanta Magazine](https://www.quantamagazine.org/20161206-how-cmv-hijacks-cells-cpeb1/)]

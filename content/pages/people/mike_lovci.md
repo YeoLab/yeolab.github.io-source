@@ -24,6 +24,8 @@ Michael Lovci is a graduate student in the Biomedical Sciences program at UCSD. 
 
 
 ## Publications
+Song Y *, Botvinnik OB *, **Lovci MT**, Kakaradov B, Liu PL, Xu JL,Yeo GW. Single-Cell Alternative Splicing Analysis with Expedition Reveals Splicing Dynamics during Neuron Differentiation. Molecular Cell 2017 July. [[PDF](/papers/2017/Olga_Yan_MolecularCell_2017.pdf)]     
+
 Rbfox proteins regulate alternative mRNA splicing through evolutionarily conserved RNA bridges. **Lovci MT**, Ghanem D, Marr H, Arnold J, Gee S, Parra M, Liang TY, Stark TJ, Gehman LT, Hoon S, Massirer KB, Pratt GA, Black DL, Gray JW, Conboy JG, Yeo GW. Nature Structural and Molecular Biology, 2013
 
 Functional Genomic Analysis of the let-7 Regulatory Network in Caenorhabditis elegans. Hunter SE, Finnegan EF, Zisoulis DG, **Lovci MT**, Melnik-Martinez KV, Yeo GW, Pasquinelli AE. PLoS Genetics, 2013 [[PMID: 23516374](http://www.ncbi.nlm.nih.gov/pubmed/23516374)]

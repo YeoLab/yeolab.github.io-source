@@ -21,7 +21,12 @@ Chelsea began her scientific journey far far away at the Salk Institute for Biol
 In her free time, Chelsea enjoys salsa dancing, playing with her furry children (Lilah and Oliver - canine and feline respectively), singing loudly while driving, and refusing to pay her parking tickets. 
 
 ##Publications
+
 Van Nostrand EL *, Nguyen TB *, **Gelboin-Burkhart C**, Wang R, Blue SM, Pratt GA, Louie AL, Yeo GW. Robust, Cost-Effective Profiling of RNA Binding Protein Targets
 with Single-end Enhanced Crosslinking and Immunoprecipitation (seCLIP). Methods Mol Biol. 2017  *Co-authorship.
+
+Van Nostrand EL, **Gelboin-Burkhart C**, Wang R, Pratt GA, Blue SM, and Yeo GW. CRISPR/Cas9-mediated integration enables TAG-eCLIP of endogenously tagged RNA binding proteins. Special issue “Protein-RNA: Structure function and recognition. Methods. 2016. [[PDF](/papers/2016/VanNostrand_Methods2016.pdf)]  
+   
+  
 
 Modelling schizophrenia using human induced pluripotent stem cells. Brennand KJ, Simone A * , Jou J * , **Gelboin-Burkhart C** *, Gage FH, et al. Nature. 2011 Oct 19. doi: 10.1038/nature10603  *These authors contributed equally to this work
