@@ -8,7 +8,7 @@ Fellowship:
 Headshot: /images/people/elaine_pirie.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: 
+Current_position: PostDoc, Ionis Pharmaceuticals, CA
 End_date: 2017-05-10
 <!-- Status: draft -->
 
