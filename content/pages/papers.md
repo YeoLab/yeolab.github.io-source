@@ -4,6 +4,12 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ### 2017
+* [**Variation in single-nucleotide sensitivity of eCLIP derived from reverse transcription conditions**](/papers/2017/Eric_singel_nucelotide_Methods_2017.pdf)  
+Van Nostrand EL, Shishkin AA, Pratt GA, Nguyen TB, **Yeo GW**   
+Methods
+
+
+
 * [**Elimination of Toxic Microsatellite Repeat Expansion RNA by RNA-Targeting Cas9**](/papers/2017/Ron_cell_2017.pdf)   
 Batra R, Nelles DA, Pirie E, Blue SM, Marina RJ, Wang H, Chaim IA, Thomas JD, Zhang N, Nguygen V, Aigner S, Markmiller S, Xia G, Corbett KD, Swanson MS, **Yeo GW**.   
 Cell  
