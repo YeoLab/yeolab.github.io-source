@@ -549,4 +549,6 @@ Nature Genetics
 
 * [**Regularized least-squares classification**](/papers/2003/10.1.1.7.3463.pdf)  
   Rifkin R, **Yeo GW**, and Poggio, T.   
-  *Advances in Learning Theory: Methods, Model and Applications, NATO Science Series III:  Computer and System Sciences, Vol. 190, ISO Press, Amsterdam*     
+  *Advances in Learning Theory: Methods, Model and Applications, NATO Science Series III:  Computer and System Sciences, Vol. 190, ISO Press, Amsterdam*   
+  
+* [test](https://storage.googleapis.com/yeolab_ucsd_edu/Old%20Group%20Photos%20-%203.jpg)
