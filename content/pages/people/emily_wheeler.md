@@ -21,6 +21,9 @@ Emily is a PhD student in the Biomedical Science Department at UCSD and a member
 Emily is now working in collaboration with Dr. Rafael Bejar to understand the role of splicing factor mutations that commonly occur in patients with myelodysplastic syndrome (MDS). Although her background is in wet lab, molecular biology, Emily is also learning computational methods to study how these mutations affect the RNA landscape in patients. In her free time, Emily loves to be outdoors enjoying the beautiful San Diego weather. She enjoys running, soccer, swimming, hiking, camping, and in the winter making her way north to the mountains for downhill skiing.
 
 ## Publications
+**Wheeler EC**, Van Nostrand EL, Yeo GW
+Advances and challenges in the detection of transcriptome-wide protein–RNA interactions WILEY INTERDISCIPLINARY REVIEWS: RNA. 2017
+
  Carter H, Marty R, Hofree M, Gross AM, Jensen J, Fisch KM, Wu X, DeBoever C, Van Nostrand EL, Song Y, **Wheeler E**, Kreisberg JF, Lippman SM, Yeo GW, Gutkind JS, and Ideker T. Interaction landscape of inherited polymorphisms with somatic events in cancer. Cancer Discovery. 2017.
  
 Batra R, Stark TJ, Clark E, Belzile JP, **Wheeler EC**, Yee BA, Huang H, Gelboin-Burkhart C, Huelga SC, Aigner S, Roberts BT, Bos TJ, Sathe S, Donohue JP, Rigo F, Ares M Jr, Spector DH, Yeo GW. RNA-binding protein CPEB1 remodels host and viral RNA landscapes. Nat Struct Mol Biol. 2016 Dec;23(12):1101-1110. 
