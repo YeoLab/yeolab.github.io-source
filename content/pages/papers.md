@@ -16,7 +16,8 @@ Methods
 Batra R, Nelles DA, Pirie E, Blue SM, Marina RJ, Wang H, Chaim IA, Thomas JD, Zhang N, Nguygen V, Aigner S, Markmiller S, Xia G, Corbett KD, Swanson MS, **Yeo GW**.   
 Cell  
 [[UCSD News](http://ucsdnews.ucsd.edu/pressrelease/new_version_of_dna_editing_system_corrects_underlying_defects_in_rna_based)] [[The Scientist News](http://www.the-scientist.com/?articles.view/articleNo/50064/title/CRISPR-Corrects-RNA-based-Disease-Defects/&utm_content=buffere5e7f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)][[KPBS](http://www.kpbs.org/news/2017/aug/10/san-diego-scientists-tweak-gene-editing-tool-targe/)][[PHYS.Org News](https://phys.org/news/2017-08-version-dna-underlying-defects-rna-based.html)]   
-[[The San Diego Union-Tribune News](http://www.sandiegouniontribune.com/business/biotech/sd-me-crispr-rna-20170810-story.html)][[FierceBiotech](http://www.fiercebiotech.com/research/rna-targeting-crispr-could-mean-a-treatment-for-huntington-s-als)]
+[[The San Diego Union-Tribune News](http://www.sandiegouniontribune.com/business/biotech/sd-me-crispr-rna-20170810-story.html)][[FierceBiotech](http://www.fiercebiotech.com/research/rna-targeting-crispr-could-mean-a-treatment-for-huntington-s-als)]  
+ <a href="http://f1000.com/prime/728639308?bd=1" target="_blank"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>  
 
 
 * [**Robust, Cost-Effective Profiling of RNA Binding Protein Targets with Single-end Enhanced Crosslinking and Immunoprecipitation (seCLIP).**](/papers/2017/Eric_Methods_MolBiol_2017.pdf)  
