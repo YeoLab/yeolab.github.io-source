@@ -1,11 +1,11 @@
-Title: Archu Shankar
+Title: Archana Shankar
 Date: 2017-09-07
 Position: Staff
 Position_suffix: Research Associate I
 Affiliation:
 Email: kserver@ucsd.edu
 Fellowship:
-Headshot: /images/people/archu_shankar.jpg
+Headshot: /images/people/archana_shankar.jpg
 Template: person
 Alumni_or_current: Current
 Current_position: UCSD, CA
