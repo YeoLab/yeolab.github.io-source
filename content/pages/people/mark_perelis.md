@@ -5,7 +5,7 @@ Position_suffix:
 Affiliation: Cellular and Molecular Medicine
 Email: perelis@gmail.com
 Fellowship: 
-Headshot: /images/people/mstile-310x310.png
+Headshot: /images/people/monkey.JPG
 Template: person
 alumni_or_current: Current
 
