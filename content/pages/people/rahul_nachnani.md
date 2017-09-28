@@ -7,9 +7,9 @@ Email: email@ucsd.edu
 Fellowship:
 Headshot: /images/people/rahul_nachnani.jpg
 Template: person
-Alumni_or_current: Current
+Alumni_or_current: Alumni
 Current_position: UCSD, CA
-End_date: 
+End_date:2017-09-01
 <!-- Status: draft -->
 
 ## Degrees

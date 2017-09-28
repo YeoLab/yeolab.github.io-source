@@ -7,9 +7,9 @@ Email: email@ucsd.edu
 Fellowship:
 Headshot: /images/people/chau_le.jpg
 Template: person
-Alumni_or_current: current
+Alumni_or_current: Alumni
 Current_position: 
-End_date: 
+End_date: 2017-08-31
 <!-- Status: draft -->
 
 ## Degrees

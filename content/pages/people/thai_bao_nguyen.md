@@ -7,9 +7,9 @@ Email: tbn006@ucsd.edu
 Fellowship:
 Headshot: /images/people/thai_bao_nguyen_1.JPG
 Template: person
-Alumni_or_current: Current
-Current_position: UCSD, CA
-End_date: 
+Alumni_or_current: Alumni
+Current_position: UCI, CA
+End_date: 2017-08-27
 <!-- Status: draft -->
 
 ## Degrees

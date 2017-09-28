@@ -7,9 +7,9 @@ Email: email@ucsd.edu
 Fellowship:
 Headshot: /images/people/headshot_placeholder.png
 Template: person
-Alumni_or_current: Software Enginneer, Illumina (Contract)
-Current_position: UCSD, CA
-End_date: 2014
+Alumni_or_current: Alumni
+Current_position: Software Enginneer, Illumina (Contract)
+End_date:2014-07-01
 <!-- Status: draft -->
 
 ## Degrees

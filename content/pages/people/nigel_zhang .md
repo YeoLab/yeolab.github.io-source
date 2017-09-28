@@ -7,9 +7,9 @@ Email: nigel.zhang3@gmail.com
 Fellowship:
 Headshot: /images/people/nigel_zhang.jpg
 Template: person
-Alumni_or_current: Current
+Alumni_or_current: Alumni
 Current_position: UCSD, CA
-End_date: 
+End_date: 2017-08-01
 <!-- Status: draft -->
 
 ## Degrees
