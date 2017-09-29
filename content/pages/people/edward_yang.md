@@ -5,7 +5,7 @@ Position_suffix: Research Associate I
 Affiliation:
 Email: edward.yang022@gmail.com
 Fellowship:
-Headshot: /images/people/penguin.JPG
+Headshot: /images/people/monkey.JPG
 Template: person
 Alumni_or_current: Current
 Current_position: UCSD, CA
