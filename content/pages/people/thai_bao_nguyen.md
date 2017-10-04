@@ -8,7 +8,7 @@ Fellowship:
 Headshot: /images/people/thai_bao_nguyen_1.JPG
 Template: person
 Alumni_or_current: Alumni
-Current_position: UCI, CA
+Current_position: UCI Neuroscience PhD student, CA
 End_date: 2017-08-27
 <!-- Status: draft -->
 
