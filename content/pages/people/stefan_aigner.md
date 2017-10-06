@@ -20,6 +20,8 @@ Stefan received his PhD in Chemistry and Biochemistry from the University of Col
 
 
 ## Publications
+ Kathuria A, Nowosiad P, Jagasia R, **Aigner S**, Taylor RD, Andreae LC, Gatford NJF, Lucchesi W, Srivastava DP, Price J. Stem cell-derived neurons from autistic individuals with SHANK3 mutation show morphogenetic abnormalities during early development. Mol Psychiatry. 2017 Sep 26. doi: 10.1038/mp.2017.185.
+
 Batra R, Nelles DA, Pirie E, Blue SM, Marina RJ, Wang H, Chaim IA, Thomas JD, Zhang N, Nguyen V, **Aigner S**, Markmiller S, Xia G, Corbett KD, Swanson MS, Yeo GW. Elimination of Toxic Microsatellite Repeat Expansion RNA by RNA-Targeting Cas9. Cell. 2017 Aug 10. doi: 10.1016/j.cell.2017.07.010.
 
 Gündner AL, Meyer CA, **Aigner S**, Christensen K, Patsch C, Jagasia R, Baumann K, Burcin M. Generation of a homozygous GBA deletion human embryonic stem cell line. Stem Cell Research. 2017 Jul 11. doi: 10.1016/j.scr.2017.07.009. 
