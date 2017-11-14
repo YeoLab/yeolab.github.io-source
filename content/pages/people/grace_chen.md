@@ -3,7 +3,7 @@ Date: 2014-09-01
 Position: Undergraduate Student
 Position_suffix:
 Affiliation:
-Email: email@ucsd.edu
+Email: 
 Fellowship:
 Headshot: /images/people/grace_chen.jpg
 Template: person

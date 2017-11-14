@@ -3,7 +3,7 @@ Date: 2013-06-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Bioinformatics and Systems Biology
-Email: obotvinn@ucsd.edu
+Email: obotvinn at ucsd.edu
 Fellowship: NDSEG
 Template: person
 Alumni_or_current: Alumni

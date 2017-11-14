@@ -3,7 +3,7 @@ Date: 2015-06-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Bioengineering
-Email: e1luo@ucsd.edu
+Email: e1luo at ucsd.edu
 Fellowship: Taiwanese Government
 Headshot: /images/people/enching.jpg
 Template: person

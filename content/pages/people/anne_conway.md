@@ -3,7 +3,7 @@ Date: 2008-06-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Biomedical Sciences
-Email: email@ucsd.edu
+Email: 
 Fellowship:
 Alumni_or_current: Alumni
 Headshot: /images/people/anne_conway.jpg

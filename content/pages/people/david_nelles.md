@@ -3,7 +3,7 @@ Date: 2010-06-01
 Position: Post-Doctoral Fellow
 Position_suffix: (Ph.D.)
 Affiliation: Material Science and Engineering
-Email: dnelles@ucsd.edu
+Email: dnelles at ucsd.edu
 Fellowship:  NSF Fellow
 Headshot: /images/people/david_nelles.jpg
 Template: person

@@ -3,7 +3,7 @@ Date: 2014-06-01
 Position: Undergraduate Student
 Position_suffix: (Thai Nguyen)
 Affiliation: Psychology
-Email: email@ucsd.edu
+Email: 
 Fellowship:
 Headshot: /images/people/ashleylouie.jpg
 Template: person

@@ -3,7 +3,7 @@ Date: 2014-08-05
 Position: Project Scientist
 Position_suffix:
 Affiliation: Cellular and Molecular Medicine
-Email: saigner@ucsd.edu
+Email: saigner at ucsd.edu
 Fellowship:
 Headshot: /images/people/Stefan_Aigner.jpg
 Template: person

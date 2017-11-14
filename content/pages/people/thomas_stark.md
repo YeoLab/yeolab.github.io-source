@@ -3,7 +3,7 @@ Date: 2008-06-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Biological Sciences
-Email: tstark@ucsd.edu
+Email: tstark at ucsd.edu
 Fellowship: 
 Alumni_or_current: Alumni
 Headshot: /images/people/thomas_stark.jpg

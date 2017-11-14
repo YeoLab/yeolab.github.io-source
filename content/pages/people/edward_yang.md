@@ -3,7 +3,7 @@ Date: 2017-09-07
 Position: Staff
 Position_suffix: Research Associate I
 Affiliation:
-Email: edy001@ucsd.edu
+Email: edy001 at ucsd.edu
 Fellowship:
 Headshot: /images/people/monkey.JPG
 Template: person

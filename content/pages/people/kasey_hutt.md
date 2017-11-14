@@ -2,7 +2,7 @@ Title: Kasey Hutt
 Date: 2008-10-05
 Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
-Email: khutt@ucsd.edu
+Email: khutt at ucsd.edu
 Fellowship:
 Headshot:/images/people/kasey_hutt.png
 Template: person

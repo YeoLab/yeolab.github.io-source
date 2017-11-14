@@ -3,7 +3,7 @@ Date: 2011-09-05
 Position: Post-Doctoral Fellow
 Position_suffix: 
 Affiliation: Cellular and Molecular Medicine
-Email: smarkmiller@ucsd.edu
+Email: smarkmiller at ucsd.edu
 Fellowship: 
 Headshot: /images/people/sebastian_markmiller.jpg
 Template: person

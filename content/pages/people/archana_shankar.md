@@ -3,7 +3,7 @@ Date: 2017-09-07
 Position: Staff
 Position_suffix: Research Associate I
 Affiliation:
-Email: archu.shankar@gmail.com
+Email: archu.shankar at gmail.com
 Fellowship:
 Headshot: /images/people/archana_shankar.jpg
 Template: person

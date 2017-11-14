@@ -3,7 +3,7 @@ Date: 2009-06-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Biomedical Sciences
-Email: mlovci@ucsd.edu
+Email: mlovci at ucsd.edu
 Fellowship:
 Alumni_or_current: Alumni
 Headshot: /images/people/mike_lovci.jpg

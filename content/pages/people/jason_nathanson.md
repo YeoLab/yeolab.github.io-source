@@ -2,7 +2,7 @@ Title: Jason Nathanson
 Date: 2009-10-05
 Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
-Email: nathanson@ucsd.edu
+Email: nathanson at ucsd.edu
 Fellowship:
 Headshot: /images/people/jason_nathanson.jpg
 Template: person

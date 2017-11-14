@@ -3,7 +3,7 @@ Date: 2016-06-01
 Position: Staff
 Position_suffix: Software Engineer 
 Affiliation:
-Email: alaindomissy@gmail.com 
+Email: adomissy at ucsd.edu
 Fellowship:
 Headshot: /images/people/alain_domissy.jpg
 Template: person

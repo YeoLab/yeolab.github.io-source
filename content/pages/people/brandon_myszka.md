@@ -3,7 +3,7 @@ Date: 2015-7
 Position: Undergraduate Student
 Position_suffix: (Stefan Aigner)
 Affiliation: STARS Program Canisius College
-Email: email@ucsd.edu
+Email: 
 Fellowship:
 Headshot: /images/people/headshot_placeholder.png
 Template: person

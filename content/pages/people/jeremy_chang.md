@@ -3,7 +3,7 @@ Date: 2011-06-01
 Position: Undergraduate Student
 Position_suffix: (Anthony Vu & Katannya Kapeli)
 Affiliation: Biology
-Email: email@ucsd.edu
+Email: 
 Fellowship:
 Headshot: /images/people/jeremy_chang.jpg
 Template: person

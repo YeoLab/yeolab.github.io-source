@@ -3,7 +3,7 @@ Date: 2015-06-01
 Position: Undergraduate Student
 Position_suffix: (Thai Nguyen)
 Affiliation:Biology
-Email: email@ucsd.edu
+Email: 
 Fellowship:
 Headshot: /images/people/kyle_del_valle.jpg
 Template: person

@@ -3,7 +3,7 @@ Date: 2013-06-01
 Position: Staff
 Position_suffix: Research Associate II
 Affiliation:
-Email: rstanton@ucsd.edu
+Email: rstanton at ucsd.edu
 Fellowship:
 Headshot: /images/people/rebecca_stanton.jpg
 Template: person

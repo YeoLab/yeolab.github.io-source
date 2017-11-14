@@ -2,7 +2,7 @@ Title: Meredith Corley
 Date: 2017-07-07
 Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
-Email: meracorley@gmail.com
+Email: mecorley at ucsd.edu
 Fellowship:
 Headshot: /images/people/meredith_corley.jpg
 Template: person

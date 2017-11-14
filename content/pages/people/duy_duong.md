@@ -3,7 +3,7 @@ Date: 2013
 Position: Undergraduate Student
 Position_suffix: (Jason Nathanson & Katannya Kapeli)
 Affiliation: Biology
-Email: email@ucsd.edu
+Email: 
 Fellowship:
 Headshot: /images/people/headshot_placeholder.png
 Template: person

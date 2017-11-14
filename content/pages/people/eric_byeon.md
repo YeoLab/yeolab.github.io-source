@@ -3,7 +3,7 @@ Date: 2013-06-01
 Position: Undergraduate Student
 Position_suffix:
 Affiliation:
-Email: email@ucsd.edu
+Email: 
 Fellowship:
 Headshot: 
 Template: person

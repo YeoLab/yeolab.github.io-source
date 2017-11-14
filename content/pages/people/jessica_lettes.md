@@ -3,7 +3,7 @@ Date: 2015-06-01
 Position: Undergraduate Student
 Position_suffix: (Olga Botvinnik)
 Affiliation: Computer Science
-Email: email@ucsd.edu
+Email: 
 Fellowship:
 Headshot: /images/people/jessica_lettes.jpg
 Template: person

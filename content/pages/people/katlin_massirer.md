@@ -2,7 +2,7 @@ Title: Katlin Massirer
 Date: 2009-10-05
 Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
-Email: kmassire@ucsd.edu
+Email: kmassire at ucsd.edu
 Fellowship: 
 Headshot: /images/people/katlin_massirer.jpg
 Template: person

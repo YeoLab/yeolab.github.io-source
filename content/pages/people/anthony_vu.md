@@ -3,7 +3,7 @@ Date: 2016-06-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Biomedical Sciences
-Email: aqvu@ucsd.edu
+Email: aqvu at ucsd.edu
 Fellowship: NSF GRFP
 Headshot: /images/people/anthony_vu.jpg
 Template: person

@@ -3,7 +3,7 @@ Date: 2014-09-05
 Position: Post-Doctoral Fellow
 Position_suffix: Post-Doc
 Affiliation: Cellular and Molecular Medicine
-Email: kbrannan@ucsd.edu
+Email: kbrannan at ucsd.edu
 Fellowship:
 Headshot: /images/people/kris_brannan.jpg
 Template: person

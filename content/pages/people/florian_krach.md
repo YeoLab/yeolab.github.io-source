@@ -3,7 +3,7 @@ Date: 2015-09-01
 Position: Visiting Graduate Student
 Position_suffix: 
 Affiliation:
-Email: mail@ucsd.edu
+Email: fkrach at ucsd.edu 
 Fellowship:
 Headshot: /images/people/florian_krach.jpg
 Template: person

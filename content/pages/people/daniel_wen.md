@@ -3,7 +3,7 @@ Date: 2014
 Position: Undergraduate Student
 Position_suffix: (Katannya Kapeli & Kristopher Brannan)
 Affiliation: Biology
-Email: email@ucsd.edu
+Email: 
 Fellowship:
 Headshot: /images/people/headshot_placeholder.png
 Template: person

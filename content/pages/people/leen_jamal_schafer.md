@@ -3,7 +3,7 @@ Date: 2013-06-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Bioinformatics and Systems Biology
-Email: ljamal@ucsd.edu
+Email: ljamal at ucsd.edu
 Fellowship: NSF Fellow
 Alumni_or_current: Current
 Headshot: /images/people/leen_jamal_schafer.jpg

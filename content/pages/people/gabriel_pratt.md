@@ -3,7 +3,7 @@ Date: 2012-06-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Bioinformatics and Systems Biology
-Email: gpratt@ucsd.edu
+Email: gpratt at ucsd.edu
 Fellowship: NSF 
 Alumni_or_current: Current
 Headshot: /images/people/gabriel_pratt.jpg

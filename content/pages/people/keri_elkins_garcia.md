@@ -3,7 +3,7 @@ Date: 2012-06-01
 Position: Staff
 Position_suffix: Research Associate II
 Affiliation:
-Email: ppli@ucsd.edu
+Email: 
 Fellowship:
 Headshot: /images/people/keri_elkins_garcia.jpg
 Template: person

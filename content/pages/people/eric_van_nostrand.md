@@ -2,7 +2,7 @@ Title: Eric Van Nostrand
 Date: 2012-10-05
 Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
-Email: elvannostrand@ucsd.edu
+Email: elvannostrand at ucsd.edu
 Fellowship:
 Headshot: /images/people/eric_van_nostrand.jpg
 Template: person

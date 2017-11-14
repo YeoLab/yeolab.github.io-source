@@ -2,7 +2,7 @@ Title: Leo Kurian
 Date: 2013-10-05
 Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
-Email: l1kurian@ucsd.edu
+Email: l1kurian at ucsd.edu
 Fellowship:
 Headshot: /images/people/leo_kurian.jpg
 Template: person

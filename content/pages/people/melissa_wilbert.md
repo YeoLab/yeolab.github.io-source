@@ -3,7 +3,7 @@ Date: 2008-06-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Biomedical Sciences Program
-Email: @ucsd.edu
+Email: 
 Fellowship:
 Headshot: /images/people/melissa_wilbert.jpg
 Template: person

@@ -3,7 +3,7 @@ Date: 2012-06-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Biomedical Sciences
-Email: jnussbac@ucsd.edu
+Email: jnussbac at ucsd.edu
 Fellowship:
 Alumni_or_current: Current
 Headshot: /images/people/julia_nussbacher.jpg

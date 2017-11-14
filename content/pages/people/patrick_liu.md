@@ -3,7 +3,7 @@ Date: 2011-06-01
 Position: Staff
 Position_suffix: Staff Scientist
 Affiliation:
-Email: ppli@ucsd.edu
+Email: ppli at ucsd.edu
 Fellowship:
 Headshot: /images/people/patrick_liu.jpg
 Template: person

@@ -3,7 +3,7 @@ Date: 2015-09-05
 Position: Post-Doctoral Fellow
 Position_suffix: Post-Doc
 Affiliation: Cellular and Molecular Medicine
-Email: robatra@ucsd.edu
+Email: robatra at ucsd.edu
 Fellowship: Myotnonic Dystrophy Foundation (MDF) postdoctoral fellowship 
 Headshot: /images/people/ron_batra.jpg
 Template: person

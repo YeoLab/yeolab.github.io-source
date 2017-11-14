@@ -3,7 +3,7 @@ Date: 2013-10-05
 Position: Post-Doctoral Fellow
 Position_suffix: (Ph.D.)
 Affiliation: Cellular and Molecular Medicine
-Email: l1kurian@ucsd.edu
+Email: l1kurian at ucsd.edu
 Fellowship:
 Template: person
 Alumni_or_current: Alumni

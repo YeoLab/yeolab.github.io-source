@@ -3,7 +3,7 @@ Date: 2012-06-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Bioinformatics and Systems Biology
-Email: boyko@ucsd.edu
+Email: boyko at ucsd.edu
 Fellowship: 
 Alumni_or_current: Alumni
 Headshot: /images/people/boyko_kakaradov.jpg

@@ -3,7 +3,7 @@ Date: 2015
 Position: Undergraduate Student
 Position_suffix: (Eric van Nostrand)
 Affiliation: Biology
-Email: email@ucsd.edu
+Email: 
 Fellowship:
 Headshot: /images/people/headshot_placeholder.png
 Template: person

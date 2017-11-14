@@ -3,7 +3,7 @@ Date: 2010-06-01
 Position: Undergraduate Student
 Position_suffix: (Anthony Vu)
 Affiliation:Biology
-Email: email@ucsd.edu
+Email: 
 Fellowship:
 Headshot: /images/people/bernice_yan.jpg
 Template: person

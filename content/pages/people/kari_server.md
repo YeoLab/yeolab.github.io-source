@@ -3,7 +3,7 @@ Date: 2016-06-01
 Position: Staff
 Position_suffix: Research Associate I
 Affiliation:
-Email: kserver@ucsd.edu
+Email: kserver at ucsd.edu
 Fellowship:
 Headshot: /images/people/kari_server.jpg
 Template: person

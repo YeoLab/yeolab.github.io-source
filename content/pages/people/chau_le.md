@@ -3,7 +3,7 @@ Date: 2016-09-01
 Position: Undergraduate Student
 Position_suffix:
 Affiliation: Biochemistry - Biology
-Email: email@ucsd.edu
+Email: 
 Fellowship:
 Headshot: /images/people/chau_le.jpg
 Template: person

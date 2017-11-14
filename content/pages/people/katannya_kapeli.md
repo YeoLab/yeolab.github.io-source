@@ -2,7 +2,7 @@ Title: Katannya Kapeli
 Date: 2012-10-05
 Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
-Email: kkapeli@ucsd.edu
+Email: kkapeli at ucsd.edu
 Fellowship:
 Headshot: /images/people/katannya_kapeli.png
 Template: person

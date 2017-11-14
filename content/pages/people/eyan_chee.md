@@ -3,7 +3,7 @@ Date: 2013
 Position: Undergraduate Student
 Position_suffix: (Dave Nelles)
 Affiliation: Bioengineering
-Email: email@ucsd.edu
+Email:  
 Fellowship:
 Headshot: /images/people/headshot_placeholder.png
 Template: person

@@ -3,7 +3,7 @@ Date: 2015-09-05
 Position: Project Scientist
 Position_suffix: 
 Affiliation: Cellular and Molecular Medicine
-Email: mail@ucsd.edu
+Email: yasong at mail.ucsd.edu
 Fellowship: 
 Headshot: /images/people/yan_song.jpg
 Template: person

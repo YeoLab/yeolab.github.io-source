@@ -3,7 +3,7 @@ Date: 2013-06-01
 Position: Graduate Student
 Position_suffix: (M.D.Ph.D.)
 Affiliation: UCSD School of Medicine       
-Email: mfang@ucsd.edu
+Email: mfang at ucsd.edu
 Fellowship:
 Alumni_or_current: Current
 Headshot: /images/people/mark_fang.jpg

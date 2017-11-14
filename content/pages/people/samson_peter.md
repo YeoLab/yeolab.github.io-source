@@ -3,7 +3,7 @@ Date: 2015-9
 Position: Undergraduate Student
 Position_suffix: (Fred Tan)
 Affiliation: Biology
-Email: email@ucsd.edu
+Email: 
 Fellowship:
 Headshot: 
 Template: person

@@ -3,7 +3,7 @@ Date: 2013-06-01
 Position: Masters Student
 Position_suffix: (M.S.)
 Affiliation: Biomedical Sciences
-Email: lfijany@ucsd.edu
+Email: lfijany at ucsd.edu
 Fellowship: 
 Alumni_or_current: Alumni
 Headshot: /images/people/layla_fijany.jpg

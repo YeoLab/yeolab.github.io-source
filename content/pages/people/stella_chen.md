@@ -3,7 +3,7 @@ Date: 2011-06-01
 Position: Undergraduate Student
 Position_suffix: (Melissa Wilbert)
 Affiliation: Biology
-Email: email@ucsd.edu
+Email: 
 Fellowship:
 Headshot: /images/people/stella_chen.png
 Template: person

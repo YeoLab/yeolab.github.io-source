@@ -3,7 +3,7 @@ Date: 2013-06-01
 Position: Staff
 Position_suffix: Research Associate II
 Affiliation:
-Email: sblue@ucsd.edu
+Email: sblue at ucsd.edu
 Fellowship:
 Headshot: /images/people/steven_blue.jpg
 Template: person

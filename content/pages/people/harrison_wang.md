@@ -3,7 +3,7 @@ Date: 2013-06-01
 Position: Staff
 Position_suffix: Research Associate I
 Affiliation:
-Email: email@ucsd.edu
+Email: 
 Fellowship:
 Headshot: /images/people/harrison_wang.jpg
 Template: person

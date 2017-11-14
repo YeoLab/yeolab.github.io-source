@@ -3,7 +3,7 @@ Date: 2010-06-01
 Position: Undergraduate Student
 Position_suffix: (David Nelles)
 Affiliation: Electrical Engineering
-Email: email@ucsd.edu
+Email: 
 Fellowship:
 Headshot: /images/people/yiu_cheung_wang.jpg
 Template: person

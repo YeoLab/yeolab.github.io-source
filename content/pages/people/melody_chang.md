@@ -3,7 +3,7 @@ Date: 2009-06-01
 Position: Masters Student
 Position_suffix: (M.S.)
 Affiliation:
-Email: email@ucsd.edu
+Email: 
 Fellowship:
 Headshot: /images/people/melody_chang.jpg
 Template: person

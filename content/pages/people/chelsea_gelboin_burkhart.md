@@ -3,7 +3,7 @@ Date: 2013-06-01
 Position: Staff
 Position_suffix: Research Associate I
 Affiliation:
-Email: cgelboinburkhart@ucsd.edu
+Email: cgelboinburkhart at ucsd.edu
 Fellowship:
 Headshot: /images/people/chelsea_gelboin_burkhart.jpg
 Template: person

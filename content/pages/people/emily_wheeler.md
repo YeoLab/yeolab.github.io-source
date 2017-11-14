@@ -3,7 +3,7 @@ Date: 2015-06-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Biomedical Sciences
-Email: ecwheele@ucsd.edu
+Email: ecwheele at ucsd.edu
 Fellowship: NSF GRFP
 Alumni_or_current: Current
 Headshot: /images/people/emily_wheeler.jpg

@@ -3,7 +3,7 @@ Date: 2010-06-01
 Position: Undergraduate Student
 Position_suffix: (Thomas Stark)
 Affiliation: Bioengineering
-Email: email@ucsd.edu
+Email: 
 Fellowship: 
 Headshot: /images/people/brett_roberts.png
 Template: person

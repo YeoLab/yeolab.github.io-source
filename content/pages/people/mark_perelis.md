@@ -3,7 +3,7 @@ Date: 2017-04-15
 Position: Post-Doctoral Fellow
 Position_suffix: 
 Affiliation: Cellular and Molecular Medicine
-Email: perelis@gmail.com
+Email: mperelis at ucsd.edu
 Fellowship: 
 Headshot: /images/people/mark_perelis.JPG
 Template: person

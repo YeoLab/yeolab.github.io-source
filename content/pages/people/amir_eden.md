@@ -3,7 +3,7 @@ Date: 2016-10-05
 Position: Visiting Scientists
 Position_suffix: 
 Affiliation: 
-Email: mail@ucsd.edu
+Email: 
 Fellowship: 
 Headshot: /images/people/mstile-310x310.png
 Template: person

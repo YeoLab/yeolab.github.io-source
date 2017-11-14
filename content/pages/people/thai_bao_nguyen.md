@@ -3,7 +3,7 @@ Date: 2013-06-01
 Position: Staff
 Position_suffix: Research Associate II
 Affiliation:
-Email: tbn006@ucsd.edu
+Email: tbn006 at ucsd.edu
 Fellowship:
 Headshot: /images/people/thai_bao_nguyen_1.JPG
 Template: person

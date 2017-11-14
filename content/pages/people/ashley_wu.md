@@ -3,7 +3,7 @@ Date: 2012
 Position: Undergraduate Student
 Position_suffix: (Jason Nathanson & Sebastian Markmiller)
 Affiliation: Biology
-Email: email@ucsd.edu
+Email: 
 Fellowship:
 Headshot: /images/people/headshot_placeholder.png
 Template: person

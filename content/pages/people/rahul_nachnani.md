@@ -3,7 +3,7 @@ Date: 2015-06-01
 Position: Undergraduate Student
 Position_suffix: (Ashleigh Schaffer)
 Affiliation: Biology
-Email: email@ucsd.edu
+Email: 
 Fellowship:
 Headshot: /images/people/rahul_nachnani.jpg
 Template: person

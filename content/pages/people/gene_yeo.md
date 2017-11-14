@@ -2,7 +2,7 @@ Title: Gene Yeo
 Date: 2015-07-29 11:46
 Position: Principal Investigator
 Affiliation: Professor (w/ tenure), UCSD
-Email: geneyeo@ucsd.edu
+Email: geneyeo at ucsd.edu
 Template: person
 Alumni_or_current: Current
 Headshot: /images/people/gene_yeo.png

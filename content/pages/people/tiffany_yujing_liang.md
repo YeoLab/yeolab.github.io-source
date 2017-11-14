@@ -3,7 +3,7 @@ Date: 2008-06-01
 Position: Staff
 Position_suffix: Staff Research Associate II, Lab Manarger
 Affiliation:
-Email: yuliang@ucsd.edu
+Email: yuliang at ucsd.edu
 Fellowship:
 Headshot: /images/people/tiffany_yujing_liang.jpg
 Template: person

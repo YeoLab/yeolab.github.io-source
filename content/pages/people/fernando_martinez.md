@@ -3,7 +3,7 @@ Date: 2012-06-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Biomedical Sciences
-Email: f8martin@ucsd.edu
+Email: f8martin at ucsd.edu
 Fellowship: 
 Alumni_or_current: Alumni
 Headshot: /images/people/fernando_martinez.jpg

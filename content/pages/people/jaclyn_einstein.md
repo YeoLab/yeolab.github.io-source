@@ -3,7 +3,7 @@ Date: 2015-06-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Bioengineering
-Email: jeinstei@ucsd.edu
+Email: jeinstei at ucsd.edu
 Fellowship:
 Alumni_or_current: Current
 Headshot: /images/people/jaclyn_einstein.jpg
