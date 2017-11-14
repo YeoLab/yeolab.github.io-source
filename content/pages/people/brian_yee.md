@@ -3,7 +3,7 @@ Date: 2015-10-01
 Position: Staff
 Position_suffix: Bioinformatics Analyst
 Affiliation:
-Email: mail@ucsd.edu
+Email: bay001 at ucsd.edu
 Fellowship:
 Headshot: /images/people/brian_yee.jpg
 Template: person
