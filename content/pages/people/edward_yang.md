@@ -3,7 +3,7 @@ Date: 2017-09-07
 Position: Staff
 Position_suffix: Research Associate I
 Affiliation:
-Email: edward.yang022@gmail.com
+Email: edy001@ucsd.edu
 Fellowship:
 Headshot: /images/people/monkey.JPG
 Template: person

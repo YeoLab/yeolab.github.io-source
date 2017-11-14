@@ -3,7 +3,7 @@ Date: 2017-10-01
 Position: Staff
 Position_suffix: Research Associate I
 Affiliation:
-Email: assael93@gmail.com
+Email: aamidrig@ucsd.edu
 Fellowship:
 Headshot: /images/people/monkey.JPG
 Template: person

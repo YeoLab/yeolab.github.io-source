@@ -4,9 +4,29 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ### 2017
+
+* [**Short poly(A) tails are a conserved feature of highly expressed genes**](/papers/2017/polyA_AmyP_NatStruct_2017.pdf)  
+Lima SA, Chipman LB, Nicholson AL, Chen YH, Yee BA, **Yeo GW**, Coller J, Pasquinelli AE.  
+Nat Struct Mol Biol
+
+* [**Nol12 is a multifunctional RNA binding protein at the nexus of RNA and DNA metabolism**](/papers/2017/nol12_Nucleicacid_2017.pdf)  
+Scott DD, Trahan C, Zindy PJ, Aguilar LC, Delubac MY, Van Nostrand EL, Adivarahan S, Wei KE, **Yeo GW**, Zenklusen D, Oeffinger M.  
+Nucleic Acids Res
+
+
+* [**The C. elegans neural editome reveals an ADAR target mRNA required for proper chemotaxis**](/papers/2017/celegans_elife_2017.pdf)  
+Deffit SN, Yee BA, Manning AC, Rajendren S, Vadlamani P, Wheeler EC, Domissy A, Washburn MC, **Yeo GW**, Hundley HA.  
+Elife
+
+
 * [**Advances and challenges in the detection of transcriptome-wide protein–RNA interactions**](/papers/2017/Wheeler_Reviews__2017.pdf)   
 Wheeler EC, Van Nostrand EL, **Yeo GW**   
 WILEY INTERDISCIPLINARY REVIEWS: RNA
+
+* [**NEAT1 scaffolds RNA-binding proteins and the Microprocessor to globally enhance pri-miRNA processing**](/papers/2017/NEAT1_Nature_Stru_2017.pdf)  
+Jiang L, Shao C, Wu QJ, Chen G, Zhou J, Yang B, Li H, Gou LT, Zhang Y, Wang Y, **Yeo GW**, Zhou Y, Fu XD.  
+Nat Struct Mol Biol
+
  
 * [**Variation in single-nucleotide sensitivity of eCLIP derived from reverse transcription conditions**](/papers/2017/Eric_singel_nucelotide_Methods_2017.pdf)  
 Van Nostrand EL, Shishkin AA, Pratt GA, Nguyen TB, **Yeo GW**   
@@ -36,6 +56,10 @@ Molecular Cell
 * [**Pseudotemporal ordering of single cells reveals metabolic control of postnatal beta-cell proliferation**](/papers/2017/Zeng_C_Cell_Metabolism_2017.pdf)  
   Zeng C, Mulas F, Sui Y, Guan T, Miller N, Tan Y, Liu F, Jin W, Carrano AC, Huising MO, Shirihai OS, **Yeo GW**, and Sander M.   
 Cell Metabolism
+
+* [**High-Throughput and Cost-Effective Characterization of Induced Pluripotent Stem Cells**](/papers/2017/StemcellReport_2017.pdf)  
+D'Antonio M, Woodruff G, Nathanson JL, D'Antonio-Chronowska A, Arias A, Matsui H, Williams R, Herrera C, Reyna SM, **Yeo GW**, Goldstein LSB, Panopoulos AD, Frazer KA.  
+Stem Cell Reports.
 
 *  [**iPSCORE: A resource of 222 iPSC lines enabling functional characterization of genetic variation across a variety of cell types**](/papers/2017/Panopoulos_stemcellReports_2017.pdf)   
   Panopoulos AD, D’Antonio M, Benaglio P, Williams R, Hashem SI, Schuldt BM, DeBoever C, Arias AD, Garcia M, Nelson B, Harismendy O, Grinstein JD, Drees F, Okubo J, Diffenderfer KE, Hishida Y, Modesto V, Dargitz CT, Feiring R, Zhao C, McGarry TJ, Matsui H, Reyna J, Aguirre A, Rao F, O’Connor DT, **Yeo GW**, Evans SM, Chi NC, Jepsen K, Nariai N, Müller F-J, Goldstein LSB, Izpisua Belmonte JC, Adler E, Loring JF, Berggren WT, D’Antonio-Chronowska A, Smith EN, and Frazer KA.   
