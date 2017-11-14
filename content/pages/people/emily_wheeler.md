@@ -21,6 +21,9 @@ Emily is a PhD student in the Biomedical Science Department at UCSD and a member
 Emily is now working in collaboration with Dr. Rafael Bejar to understand the role of splicing factor mutations that commonly occur in patients with myelodysplastic syndrome (MDS). Although her background is in wet lab, molecular biology, Emily is also learning computational methods to study how these mutations affect the RNA landscape in patients. In her free time, Emily loves to be outdoors enjoying the beautiful San Diego weather. She enjoys running, soccer, swimming, hiking, camping, and in the winter making her way north to the mountains for downhill skiing.
 
 ## Publications
+
+* The C. elegans neural editome reveals an ADAR target mRNA required for proper chemotaxis. Deffit SN, Yee BA, Manning AC, Rajendren S, Vadlamani P, **Wheeler EC**, Domissy A, Washburn MC, Yeo GW, Hundley HA. Elife. 2017 Sep 19.
+
 **Wheeler EC**, Van Nostrand EL, Yeo GW
 Advances and challenges in the detection of transcriptome-wide protein–RNA interactions WILEY INTERDISCIPLINARY REVIEWS: RNA. 2017
 
