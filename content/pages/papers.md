@@ -18,7 +18,6 @@ Nucleic Acids Res
 Deffit SN, Yee BA, Manning AC, Rajendren S, Vadlamani P, Wheeler EC, Domissy A, Washburn MC, **Yeo GW**, Hundley HA.  
 Elife
 
-
 * [**Advances and challenges in the detection of transcriptome-wide protein–RNA interactions**](/papers/2017/Wheeler_Reviews__2017.pdf)   
 Wheeler EC, Van Nostrand EL, **Yeo GW**   
 WILEY INTERDISCIPLINARY REVIEWS: RNA

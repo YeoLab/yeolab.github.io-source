@@ -7,7 +7,9 @@ Email: dnelles@ucsd.edu
 Fellowship:  NSF Fellow
 Headshot: /images/people/david_nelles.jpg
 Template: person
-Alumni_or_current: Current
+Alumni_or_current: Alumni
+Current_position: 
+End_date: 2017-10-27
 <!-- Status: draft -->
 
 ## Degrees

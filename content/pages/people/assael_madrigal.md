@@ -3,9 +3,9 @@ Date: 2017-10-01
 Position: Staff
 Position_suffix: Research Associate I
 Affiliation:
-Email: aamidrig@ucsd.edu
+Email: aamadrig@ucsd.edu
 Fellowship:
-Headshot: /images/people/monkey.JPG
+Headshot: /images/people/assael_madrigal.jpg
 Template: person
 Alumni_or_current: Current
 Current_position: UCSD, CA

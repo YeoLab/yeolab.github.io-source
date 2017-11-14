@@ -27,4 +27,4 @@ Born and raised in Caracas, Venezuela, Alex graduated from the Universidad Simó
 
 *	Nagel ZD, Margulies CM, **Chaim IA**, McRee SK, Mazzucato P, Ahmad A, Abo RP, Butty VL, Forget AL, & Samson LD (2014) Multiplexed DNA repair assays for multiple lesions and multiple doses via transcription inhibition and transcriptional mutagenesis. Proc Natl Acad Sci U S A 111(18):E1823-1832.
 
-* **Chaim IA**, Sabino MA, Mendt M, Muller AJ, & Ajami D (2012) Evaluation of the potential of novel PCL-PPDX biodegradable scaffolds as support materials for cartilage tissue engineering. J Tissue Eng Regen Med 6(4):272-279.•	 
+* **Chaim IA**, Sabino MA, Mendt M, Muller AJ, & Ajami D (2012) Evaluation of the potential of novel PCL-PPDX biodegradable scaffolds as support materials for cartilage tissue engineering. J Tissue Eng Regen Med 6(4):272-279.
