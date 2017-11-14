@@ -8,7 +8,7 @@ Fellowship: Myotnonic Dystrophy Foundation (MDF) postdoctoral fellowship
 Headshot: /images/people/ron_batra.jpg
 Template: person
 alumni_or_current:Alumni
-Current_position: Google Life Sciences
+Current_position: Scientist at Verily Life Sciences
 End_date: 2017-07-31
 
 

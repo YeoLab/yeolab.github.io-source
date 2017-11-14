@@ -12,13 +12,13 @@ Date: 2015-09-21
 [Sanford Consortium for Regenerative Medicine](http://www.sanfordconsortium.org/)
 ([map](https://www.google.com/maps/place/sanford+consortium/data=!4m2!3m1!1s0x0:0x97741ae2ff2bd85a?sa=X&ved=0CCQQrwswAGoVChMIyZ7S3NuuyAIVyTOICh1eCQ1-))<br>
 <p class="tab">
-    Room 3109-13, Wet Lab<br>
+    Room 3805, Wet Lab<br>
     Room 3114/3115, Bioinformatics Lab<br>
     Room 3008, Gene’s Office<br>
 </p>
 ### Mailing Address
 2880 Torrey Pines Scenic Dr.<br>
-Room 3109-13/Yeo Lab <br>
+Room 3805/Yeo Lab <br>
 La Jolla, CA 92037<br>
 
 ### Telephone
