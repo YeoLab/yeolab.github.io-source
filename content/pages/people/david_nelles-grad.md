@@ -9,7 +9,7 @@ Headshot: /images/people/david_nelles.jpg
 Template: person
 Alumni_or_current: Alumni
 Current_position: Chief Technology Officer and Co-founder at Locana, Inc.
-End_date: 2017-10-27
+End_date: 2016-10-27
 <!-- Status: draft -->
 
 ## Degrees
