@@ -1,6 +1,6 @@
 Title: David Nelles
 Date: 2010-06-01
-Position: Post-Doctoral Fellow
+Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Material Science and Engineering
 Email: dnelles at ucsd.edu

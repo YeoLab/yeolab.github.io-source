@@ -6,7 +6,8 @@ Email: Tbos at ucsd.edu
 Fellowship:
 Headshot: /images/people/tomas_bos.jpg
 Template: person
-Alumni_or_current: Current
+Alumni_or_current: Alumni
+End_date: 2017-12-10
 
 ## Degrees
 PhD in Medical Sciences, Vrije Universiteit Brussel, 2010<br>

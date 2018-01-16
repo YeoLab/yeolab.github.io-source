@@ -1,6 +1,6 @@
 Title: Julia Nussbacher
 Date: 2012-06-01
-Position: Graduate Student
+Position: Post-Doctoral Fellow
 Position_suffix: (Ph.D.)
 Affiliation: Biomedical Sciences
 Email: jnussbac at ucsd.edu
