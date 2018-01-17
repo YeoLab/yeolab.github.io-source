@@ -13,8 +13,8 @@ End_date:
 
 ## Degrees
 
-B.A, Biology and Chemistry, Transylvania University, Lexington, KY, 2010
-PhD, Biochemistry and Neurobiology, Johns Hopkins University, Baltimore, MD, 2017 
+B.A, Biology and Chemistry, Transylvania University, Lexington, KY, 2010<br>
+PhD, Biochemistry and Neurobiology, Johns Hopkins University, Baltimore, MD, 2017<br>
 
 ## Summary
 
