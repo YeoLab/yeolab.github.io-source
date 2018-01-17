@@ -12,7 +12,7 @@ alumni_or_current: Current
 ## Degrees
 
 B.A. in Biology and Economics, University of Pennsylvania, 2010<br> 
-Ph.D in Interdepartmental Biological Sciences,Northwestern University, 2016<br>
+Ph.D in Interdepartmental Biological Sciences, Northwestern University, 2016<br>
 
 ## Summary
 
@@ -20,4 +20,12 @@ Mark Perelis received his B.A. in Biology and Economics from the University of P
 
 ## Publications
 
-Coming Soon!
+**Perelis, M.**, Ford, M. L. and Luo, X.  Literature Watch Implications for transplantation. American Journal of Transplantation, 2015
+
+**Perelis, M**, Ramsey, KM, Bass J. 2015. The molecular clock as a metabolic rheostat. Diabetes Obes Metab. 2015 Sep;17 Suppl 1:99-105.
+
+**Perelis, M**§, Marcheva, B§, Ramsey, KM, Schipma, MJ, Hutchison, AL, Taguchi, A, Peek, CB, Hong, HK, Huang, W,Omura, C, Allred, AL, Bradfield, CA, Dinner, AR, Barish, GD, Bass, J. 2015. Pancreatic Beta-Cell Enhancers Regulate Rhythmic Transcription of Genes Controlling Insulin Secretion. Science. 6 November 2015.  § authors contributed equally to this work.
+
+Peek, CB, Ramsey, KM, Levine, DC, Marcheva, B, **Perelis M**, Bass J. 2015. Circadian regulation of cellular physiology. Methods Enzymol. Epub 2015 Jan 5.
+
+**Perelis, M**, Ramsey, KM, Marcheva, B, Bass, J. 2016. Circadian Transcription from Beta Cell Function to Diabetes Pathophysiology. Body Clocks Review Series. J Biol Rhythms. 2016 Aug.
