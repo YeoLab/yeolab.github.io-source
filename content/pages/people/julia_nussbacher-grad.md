@@ -1,4 +1,4 @@
-Title: Julia Nussbacher<br> 
+Title: Julia Nussbacher*<br> 
 Date: 2012-06-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
