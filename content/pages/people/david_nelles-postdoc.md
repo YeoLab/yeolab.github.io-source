@@ -1,7 +1,7 @@
 Title: David Nelle<br> 
 Date: 2016-06-01
 Position: Post-Doctoral Fellow
-Position_suffix: (Ph.D.)
+Position_suffix: Post-Doc
 Affiliation: Material Science and Engineering
 Email: dnelles at ucsd.edu
 Fellowship:  NSF Fellow

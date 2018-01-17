@@ -7,7 +7,7 @@ Email: jnussbac at ucsd.edu
 Fellowship:
 Alumni_or_current: Alumni
 Headshot: /images/people/julia_nussbacher.jpg
-Current_position: UCSD
+Current_position: UCSD, CA
 Template: person
 End_date: 2017-12-27
 <!-- Status: draft -->
