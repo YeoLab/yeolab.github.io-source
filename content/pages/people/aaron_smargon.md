@@ -5,7 +5,7 @@ Position_suffix: Post-Doc
 Affiliation: Cellular and Molecular Medicine
 Email:  at ucsd.edu
 Fellowship: 
-Headshot: /images/people/mstile-310x310.png
+Headshot: /images/people/monkey.JPG
 Template: person
 Current_position: 
 alumni_or_current: Current
