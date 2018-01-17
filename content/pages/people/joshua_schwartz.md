@@ -3,7 +3,7 @@ Date: 2017-12-27
 Position: Post-Doctoral Fellow
 Position_suffix: Post-Doc
 Affiliation: Cellular and Molecular Medicine
-Email: j8schwartz@ucsd.edu at ucsd.edu
+Email: j8schwartz at ucsd.edu
 Fellowship: 
 Headshot: /images/people/joshua_schwartz.jpg
 Template: person
