@@ -1,7 +1,6 @@
 Title: Julia Nussbacher
 Date: 2018-01-01
 Position: Post-Doctoral Fellow
-Position_suffix: Post-Doc
 Affiliation: Cellular and Molecular Medicine
 Email: jnussbac at ucsd.edu
 Fellowship:

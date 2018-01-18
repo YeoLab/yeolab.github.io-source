@@ -1,10 +1,9 @@
 Title: Joshua Schwartz
 Date: 2017-12-27
 Position: Post-Doctoral Fellow
-Position_suffix: Post-Doc
 Affiliation: Cellular and Molecular Medicine
 Email: j8schwartz at ucsd.edu
-Fellowship: 
+Fellowship: NSF GRFP and GROW Fellow 
 Headshot: /images/people/joshua_schwartz.jpg
 Template: person
 Current_position: 
@@ -14,7 +13,7 @@ End_date:
 ## Degrees
 
 B.A, Biology and Chemistry, Transylvania University, Lexington, KY, 2010<br>
-PhD, Biochemistry and Neurobiology, Johns Hopkins University, Baltimore, MD, 2017<br>
+PhD, Biological Chemistry, Johns Hopkins University, Baltimore, MD, 2017<br>
 
 ## Summary
 
@@ -22,4 +21,4 @@ Josh graduated magna cum laude with majors in Biology and Chemistry from Transyl
 
 
 ## Publications
-Coming Soon!!!
+Subramanian M, Timmerman CK, **Schwartz JL**, Pham DL, and Meffert MK. 2015. Characterizing autism spectrum disorders by key biochemical pathways. Front. Neurosci. 9:313.

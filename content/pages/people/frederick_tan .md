@@ -1,7 +1,6 @@
 Title: Frederick Tan
 Date: 2015-09-05
 Position: Post-Doctoral Fellow
-Position_suffix: Post-Doc
 Affiliation: Cellular and Molecular Medicine
 Email: fetan at ucsd.edu
 Fellowship: 
