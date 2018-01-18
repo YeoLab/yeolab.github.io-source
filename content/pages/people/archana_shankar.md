@@ -13,10 +13,10 @@ End_date:
 <!-- Status: draft -->
 
 ## Degrees
-Coming Soon!!!
+B.S Biological Sciences, California State University, Fullerton, 2018
 
 ## Summary
-Coming Soon!!!
+Archana did her undergraduate studies at California State University, Fullerton where she graduated summa cum laude with a Bachelor of Science degree in Biology with a concentration in Molecular Biology and Biotechnology. During her undergraduate studies, she was a part of Dr. Niroshika Keppetipola’s lab in the department of biochemistry where she studied the role of post-translational modifications on the RNA-binding protein PTBP1. During her senior year, she was a part of the CIRM Bridges to Stem Cell Research Program and did a research internship at Stanford University in the lab of Dr. Theo Palmer. She investigated the effects of different types of prenatal immune activation events on neocortical neural stem and progenitor cell proliferation and maintenance in the developing cortex. Following graduation, she joined the Yeo lab as a Staff Research Associate 1 where she is investigating the role of circadian rhythms and RNA binding proteins on gene expression. She is also part of the COPACABANA project in which she is generating NPCs and cortical organoids from various ASD KO iPSC lines. Outside the lab, Archana enjoys travelling, hiking, and baking. 
 
 ##Publications
 Coming Soon!!!
