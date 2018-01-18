@@ -12,12 +12,14 @@ alumni_or_current: Current
 End_date: 
 
 ## Degrees
-A.B., Princeton University, Princeton, NJ, 2011<br>
-PhD, Massachusetts Institute of Technology, Cambridge, MA, 2017<br>
+A.B. Astrophysical Sciences, Princeton University, 2011<br>
+S.M. Electrical Engineering and Computer Science, Massachusetts Institute of Technology, 2016<br>
+Ph.D. Electrical Engineering and Computer Science, Massachusetts Institute of Technology, 2018<br>
 
 ## Summary
 
-Coming soon!
+Aaron Smargon received his A.B. in Astrophysical Sciences from Princeton University. As an undergraduate with Rachel Mandelbaum he studied large-scale intrinsic alignments of galaxy clusters in the Sloan Digital Sky Survey. After working on a startup for two years, he returned to graduate school at the Massachusetts Institute of Technology, where he earned an S.M. and Ph.D. in Electrical Engineering and Computer Science. While researching in the laboratory of Feng Zhang at the Broad Institute of MIT and Harvard, Aaron led the discovery and characterization of Cas13b, a differentially regulated RNA-targeting class 2 CRISPR system. As a postdoctoral scholar in the Yeo Lab, Aaron is interested in combining molecular tools and assays with genomic and transcriptomic data to interrogate the genetic and neurophysiological underpinnings of learning, memory, and psychiatric disorders.
+
  
 
 ## Publications
