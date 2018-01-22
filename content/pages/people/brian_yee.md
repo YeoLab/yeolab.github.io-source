@@ -11,10 +11,10 @@ Alumni_or_current: Current
 <!-- Status: draft -->
 
 ## Degrees
-Coming Soon!!
+B.S. Bioinformatics, UCSDM.S. Bioinformatics, Johns Hopkins University
 
 ## Summary
-Coming soon!!
+Brian is a bioinformatics software developer in the Yeolab focused on building tools for large scale analysis projects such as ENCODE and the U19 metadata database initiative. Initially joining the lab with a background working with non model assemblies, Brian is actively developing software for downstream processing and analysis of CLIP SEQ, bulk and single cell RNA SEQ data.
 
 ## Publications
 * Short poly(A) tails are a conserved feature of highly expressed genes. Lima SA, Chipman LB, Nicholson AL, Chen YH, **Yee BA**, Yeo GW, Coller J, Pasquinelli AE.
