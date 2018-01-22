@@ -22,5 +22,5 @@ Zhaoren (Arthur) He is a Biology Ph.D. student at University of California, San 
 
 ## Publications
 [**Early transcriptional and epigenetic regulation of CD8+ T cell differentiation revealed by single-cell RNA sequencing**](/papers/2017/KakaradovNatureImmunology2017.pdf)  
-Boyko Kakaradov * , Janilyn Arsenio * , Christella E Widjaja * , **Zhaoren He**, Stefan Aigner, Patrick J Metz, Bingfei Yu, Ellen J Wehrens, Justine Lopez, Stephanie H Kim, Elina I Zuniga, Ananda W Goldrath, John T Chang ** ,  Gene W Yeo **   ( ** co-corresponding  )
+Boyko Kakaradov * , Janilyn Arsenio * , Christella E Widjaja * , **Zhaoren He**, Stefan Aigner, Patrick J Metz, Bingfei Yu, Ellen J Wehrens, Justine Lopez, Stephanie H Kim, Elina I Zuniga, Ananda W Goldrath, John T Chang§ ,  Gene W Yeo§ (§ co-corresponding  )
 Nature Immunology
