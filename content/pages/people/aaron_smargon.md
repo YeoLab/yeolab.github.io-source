@@ -4,7 +4,7 @@ Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
 Email:  at ucsd.edu
 Fellowship: 
-Headshot: /images/people/monkey.JPG
+Headshot: /images/people/aaron_smargon.jpg
 Template: person
 Current_position: 
 alumni_or_current: Current
