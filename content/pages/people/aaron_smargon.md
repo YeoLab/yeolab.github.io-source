@@ -2,7 +2,7 @@ Title: Aaron A. Smargon
 Date: 2018-01-17
 Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
-Email:  at ucsd.edu
+Email: asmargon at ucsd.edu
 Fellowship: 
 Headshot: /images/people/aaron_smargon.png
 Template: person
