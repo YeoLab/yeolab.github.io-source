@@ -5,7 +5,7 @@ icon: mdi mdi-file-multiple
 # Papers
 ##2018
 * [**Context-Dependent and Disease-Specific Diversity in Protein Interactions within Stress Granules**](/papers/2018/Sebastian_2018_cell.pdf)  
-Markmiller S, Soltanieh S, Server KL, Mak R, Jin W, Fang MY, Luo EC, Krach F, Yang D, Sen A, Fulzele A, Wozniak JM, Gonzalez DJ, Kankel MW, Gao FB, Bennett EJ, Le'cuyer E, **Yeo GW**.  
+Markmiller S, Soltanieh S, Server KL, Mak R, Jin W, Fang MY, Luo EC, Krach F, Yang D, Sen A, Fulzele A, Wozniak JM, Gonzalez DJ, Kankel MW, Gao FB, Bennett EJ, Lecuyer E, **Yeo GW**.  
 Cell
 
 ### 2017
