@@ -5,7 +5,7 @@ icon: mdi mdi-file-multiple
 # Papers
 ##2018
 * [**Context-Dependent and Disease-Specific Diversity in Protein Interactions within Stress Granules**](/papers/2018/Sebastian_2018_cell.pdf)  
-Markmiller S, Soltanieh S, Server KL, Mak R, Jin W, Fang MY, Luo EC, Krach F, Yang D, Sen A, Fulzele A, Wozniak JM, Gonzalez DJ, Kankel MW, Gao FB, Bennett EJ, Lecuyer E, **Yeo GW**.  
+Markmiller S, Soltanieh S, Server KL, Mak R, Jin W, Fang MY, Luo E-C, Krach F, Yang D, Sen A, Fulzele A, Wozniak J, Gonzalez DJ, Kankel MW, Gao F-B, Bennet EJ, Lecuyer E, **Yeo GW**.  
 Cell
 
 ### 2017
@@ -20,7 +20,7 @@ Nucleic Acids Res
 
 
 * [**The C. elegans neural editome reveals an ADAR target mRNA required for proper chemotaxis**](/papers/2017/celegans_elife_2017.pdf)  
-Deffit SN, Yee BA, Manning AC, Rajendren S, Vadlamani P, Wheeler EC, Domissy A, Washburn MC, **Yeo GW**, Hundley HA.  
+Deffit SN, Yee BA, Manning AC, Rajendren S, Vadlamani P, Wheeler EC, Domissy A, Washburn MC, **Yeo GW**§, Hundley HA§. (§ co-corresponding )     
 Elife
 
 * [**Advances and challenges in the detection of transcriptome-wide protein–RNA interactions**](/papers/2017/Wheeler_Reviews__2017.pdf)   
@@ -45,7 +45,7 @@ Cell
  <a href="http://f1000.com/prime/728639308?bd=1" target="_blank"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>  
 
 
-* [**Robust, Cost-Effective Profiling of RNA Binding Protein Targets with Single-end Enhanced Crosslinking and Immunoprecipitation (seCLIP).**](/papers/2017/Eric_Methods_MolBiol_2017.pdf)  
+* [**Robust Cost-Effective Profiling of RNA Binding Protein Targets with Single-end Enhanced Crosslinking and Immunoprecipitation (seCLIP).**](/papers/2017/Eric_Methods_MolBiol_2017.pdf)  
 Van Nostrand EL, Nguyen TB, Gelboin-Burkhart C, Wang R, Blue SM, Pratt GA, Louie AL, **Yeo GW**.  
 Methods Mol Biol.
 
@@ -61,16 +61,12 @@ Molecular Cell
   Zeng C, Mulas F, Sui Y, Guan T, Miller N, Tan Y, Liu F, Jin W, Carrano AC, Huising MO, Shirihai OS, **Yeo GW**, and Sander M.   
 Cell Metabolism
 
-* [**High-Throughput and Cost-Effective Characterization of Induced Pluripotent Stem Cells**](/papers/2017/StemcellReport_2017.pdf)  
-D'Antonio M, Woodruff G, Nathanson JL, D'Antonio-Chronowska A, Arias A, Matsui H, Williams R, Herrera C, Reyna SM, **Yeo GW**, Goldstein LSB, Panopoulos AD, Frazer KA.  
-Stem Cell Reports.
-
 *  [**iPSCORE: A resource of 222 iPSC lines enabling functional characterization of genetic variation across a variety of cell types**](/papers/2017/Panopoulos_stemcellReports_2017.pdf)   
   Panopoulos AD, D’Antonio M, Benaglio P, Williams R, Hashem SI, Schuldt BM, DeBoever C, Arias AD, Garcia M, Nelson B, Harismendy O, Grinstein JD, Drees F, Okubo J, Diffenderfer KE, Hishida Y, Modesto V, Dargitz CT, Feiring R, Zhao C, McGarry TJ, Matsui H, Reyna J, Aguirre A, Rao F, O’Connor DT, **Yeo GW**, Evans SM, Chi NC, Jepsen K, Nariai N, Müller F-J, Goldstein LSB, Izpisua Belmonte JC, Adler E, Loring JF, Berggren WT, D’Antonio-Chronowska A, Smith EN, and Frazer KA.   
 Stem Cell Reports
 
 *  [**High-throughput and cost-effective characterization of induced pluripotent stem cells**](/papers/2017/D_Antonio_stem_cell_reports_2017.pdf)   
-  D’Antonio M, Woodruff G, Nathanson JL, D’Antonio-Chronowska A, Arias A, Matsui H, Williams R, Herrera C, Reyna SM, **Yeo GW**, Goldstein LSB, Panopoulos AD, and Frazer KA.   
+ D’Antonio M, Woodruff G, Nathanson JL, D’Antonio-Chronowska A, Arias A, Matsui H, Williams R, Herrera C, Reyna SM, **Yeo GW**, Goldstein LSB, Panopoulos AD, and Frazer KA.   
 Stem Cell Reports
 
 * [**Interaction landscape of inherited polymorphisms with somatic events in cancer**](/papers/2017/Carter_Cancer_Discov_2017.pdf)  
@@ -91,13 +87,13 @@ Nature Genetics
 
 ### 2016
 
-* [**CRISPR/Cas9-mediated integration enables TAG-eCLIP of endogenously tagged RNA binding proteins. Special issue “Protein-RNA: Structure function and recognition**](/papers/2016/VanNostrand_Methods2016.pdf)  
-  Van Nostrand EL, Gelboin-Burkhart C, Wang R, Pratt GA, Blue SM, and **Yeo GW**.  
-  Methods
+* [**CRISPR/Cas9-mediated integration enables TAG-eCLIP of endogenously tagged RNA binding proteins. Special issue “Protein-RNA: Structure function and recognition**](/papers/2016/VanNostrand_Methods2016.pdf)    
+Van Nostrand EL, Gelboin-Burkhart C, Wang R, Pratt GA, Blue SM, and **Yeo GW**.  (Edited by Yael Mandel-Gutfreund).   
+  Methods 
 
 
-* [**MicroRNA-101 regulates multiple developmental programs to constrain excitation in adult network networks**](/papers/2016/Lippi_neuron_2016.pdf)  
-   Lippi G§, Fernandes CC, Ewell LA, John D, Romoli B, Curia G, Taylor SR, Frady EP, Jensen AB, Liu JC, Chaabane MM, Belal CC, Nathanson JL, Zoli M, Leutgeb JK, Biagini G, **Yeo GW**, and Berg DK§.  (§ co-corresponding )  
+* [**MicroRNA-101 regulates multiple developmental programs to constrain excitation in adult network networks**](/papers/2016/Lippi_neuron_2016.pdf)    
+	Lippi G§, Fernandes CC, Ewell LA, John D, Romoli B, Curia G, Taylor SR, Frady EP, Jensen AB, Liu JC, Chaabane MM, Belal CC, Nathanson JL, Zoli M, Leutgeb JK, Biagini G, **Yeo GW**, and Berg DK§.  (§ co-corresponding )  
   Neuron 
 
 * [**Making the cut in the dark genome**](/papers/2016/Jaclyn_Science_2016.pdf)  

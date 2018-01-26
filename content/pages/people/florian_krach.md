@@ -18,3 +18,7 @@ B.S., Molecular Medicine, Friedrich-Alexander University of Erlangen-Nürnberg, 
 
 Florian Krach recieved his B.S. and M.S. in Molecular Medicine from the University of Erlangen-Nürnberg, Germany. During his undergraduate studies, Florian gained extensive knowledge in modeling neurological disorders in iPSC in the lab of Dr. Beate Winner and joined the Yeo lab in 2015 as an external Master student for a collaborative project, investigating RBP aggregation and RNA signatures in iPSC-derived neurons from sporadic Amyotrophic Lateral Sclerosis (sALS) patients.
 Beside investigaing the disease mechanisms in sALS, for this further graduate studies, Florian is interested in generating iPSC models for neuropsyciatric and neurodevelopmental disorders by using state-of-the-art genome editing technology. 
+
+##publications
+
+* Markmiller S, Soltanieh S, Server KL, Mak R, Jin W, Fang MY, Luo E-C, **Krach F**, Yang D, Sen A, Fulzele A, Wozniak J, Gonzalez DJ, Kankel MW, Gao F-B, Bennet EJ, Lecuyer E, Yeo GW. Context-dependent and disease-specific diversity in protein interactions within Stress Granules. Cell, 2018

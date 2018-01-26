@@ -23,8 +23,10 @@ Mark is currently designing a high throughput genetic and small molecule screen 
 Mark is very grateful for the opportunity to be in lovely San Diego for 8 years and enjoys running, mountaineering/rock climbing, drawing, and watching the sunset.
 
 ## Publications
-Nelles DA, **Fang MY**, O'Connell MR, Xu JL, Markmiller SJ, Doudna JA, Yeo GW. Programmable RNA Tracking in Live Cells with CRISPR/Cas9. 2016. Cell, S0092-8674(16)30204-5.
+* Markmiller S, Soltanieh S, Server KL, Mak R, Jin W, **Fang MY**, Luo E-C, Krach F, Yang D, Sen A, Fulzele A, Wozniak J, Gonzalez DJ, Kankel MW, Gao F-B, Bennet EJ, Lecuyer E, Yeo GW. Context-dependent and disease-specific diversity in protein interactions within Stress Granules. Cell, 2018
 
-Nelles DA, **Fang MY**, Aigner S, Yeo GW. Applications of Cas9 as an RNA-programmed RNA binding protein. 2015. Bioessays., Jul;37(7):732-9.
+* Nelles DA, **Fang MY**, O'Connell MR, Xu JL, Markmiller SJ, Doudna JA, Yeo GW. Programmable RNA Tracking in Live Cells with CRISPR/Cas9. 2016. Cell, S0092-8674(16)30204-5.
 
-Van Nostrand EL, Pratt GA, Shishkin AA, Gelboin-Burkhart C, **Fang MY**, Sundararaman B, Blue SM, Nguyen TB, Surka C, Elkins K, Stanton R, Rigo F, Guttman M, Yeo GW. 2016. Robust transcriptome-wide discovery of RNA-binding protein binding sites with enhanced CLIP (eCLIP). Nat Methods.
+* Nelles DA, **Fang MY**, Aigner S, Yeo GW. Applications of Cas9 as an RNA-programmed RNA binding protein. 2015. Bioessays., Jul;37(7):732-9.
+
+* Van Nostrand EL, Pratt GA, Shishkin AA, Gelboin-Burkhart C, **Fang MY**, Sundararaman B, Blue SM, Nguyen TB, Surka C, Elkins K, Stanton R, Rigo F, Guttman M, Yeo GW. 2016. Robust transcriptome-wide discovery of RNA-binding protein binding sites with enhanced CLIP (eCLIP). Nat Methods.

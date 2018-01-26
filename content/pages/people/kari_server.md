@@ -19,4 +19,4 @@ B.S. in Human Biology, UCSD, 2013
 Coming Soon!!!
 
 ##Publications
-Coming Soon!!!
+* Markmiller S, Soltanieh S, **Server KL**, Mak R, Jin W, Fang MY, Luo E-C, Krach F, Yang D, Sen A, Fulzele A, Wozniak J, Gonzalez DJ, Kankel MW, Gao F-B, Bennet EJ, Lecuyer E, Yeo GW. Context-dependent and disease-specific diversity in protein interactions within Stress Granules. Cell, 2018
