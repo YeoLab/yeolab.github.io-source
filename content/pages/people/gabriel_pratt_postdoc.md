@@ -1,7 +1,7 @@
 Title: Gabriel Pratt
 Date: 2012-06-01
-Position: Graduate Student
-Position_suffix: (Ph.D.)
+Position: Post-Doctoral Fellow
+Position_suffix: 
 Affiliation: Bioinformatics and Systems Biology
 Email: gpratt at ucsd.edu
 Fellowship: NSF 
