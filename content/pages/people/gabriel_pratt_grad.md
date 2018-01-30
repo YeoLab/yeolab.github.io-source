@@ -8,6 +8,7 @@ Fellowship: NSF
 Alumni_or_current: Alumni
 Headshot: /images/people/gabriel_pratt.jpg
 Template: person
+Current_position: UCSD, CA
 End_date: 2018-01-20
 <!-- Status: draft -->
 
