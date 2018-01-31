@@ -1,4 +1,4 @@
-Title: Gabriel A Pratt
+Title: Gabriel A. Pratt<br>
 Date: 2012-06-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
