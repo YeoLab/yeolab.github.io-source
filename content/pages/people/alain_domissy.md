@@ -7,9 +7,9 @@ Email: adomissy at ucsd.edu
 Fellowship:
 Headshot: /images/people/alain_domissy.jpg
 Template: person
-Alumni_or_current: Current
-Current_position: UCSD, CA
-End_date: 
+Alumni_or_current: Alumni
+Current_position: 
+End_date: 2018-03-09
 <!-- Status: draft -->
 
 ## Degrees

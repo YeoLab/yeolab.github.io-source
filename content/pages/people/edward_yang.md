@@ -7,9 +7,9 @@ Email: edy001 at ucsd.edu
 Fellowship:
 Headshot: /images/people/edward_yang.jpg
 Template: person
-Alumni_or_current: Current
-Current_position: UCSD, CA
-End_date: 
+Alumni_or_current: Alumni
+Current_position: 
+End_date: 2018-03-01
 <!-- Status: draft -->
 
 ## Degrees
