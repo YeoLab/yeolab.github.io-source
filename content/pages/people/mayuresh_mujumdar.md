@@ -3,7 +3,7 @@ Date: 2018-02-01
 Position: Undergraduate Student
 Position_suffix: (Kristopher Brannan)
 Affiliation: Human biology
-Email: g8wu at ucsd.edu
+Email: mmujumda at ucsd.edu
 Fellowship:
 Headshot: /images/people/mayuresh_mujumdar.jpg
 Template: person
