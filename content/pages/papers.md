@@ -4,6 +4,10 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ##2018
+* [**Systematic Discovery of RNA Binding Proteins that Regulate MicroRNA Levels**](papers/2018/Julia_molecularcell_2018.pdf)  
+Nussbacher JK, **Yeo GW**  
+Molecular Cell
+
 * [**Context-Dependent and Disease-Specific Diversity in Protein Interactions within Stress Granules**](/papers/2018/Sebastian_2018_cell.pdf)  
 Markmiller S, Soltanieh S, Server KL, Mak R, Jin W, Fang MY, Luo E-C, Krach F, Yang D, Sen A, Fulzele A, Wozniak J, Gonzalez DJ, Kankel MW, Gao F-B, Bennet EJ, Lecuyer E, **Yeo GW**.  
 Cell   

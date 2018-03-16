@@ -12,8 +12,8 @@ Alumni_or_current: Current
 
 ## Degrees
 
-M.S. National Taiwan University, Taipei, Taiwan 2014<br>
-B.S. National Tsing Hua University, HsinChu, Taiwan 2011<br>
+M.S. National Taiwan University, Taiwan 2014<br>
+B.S. National Tsing Hua University, Taiwan 2011<br>
 
 
 ## Summary
