@@ -8,7 +8,7 @@ Fellowship:
 Headshot: /images/people/leena_latonen.png
 Template: person
 Alumni_or_current: Current
-Current_position: Lecturer, The Hebrew University of Jerusalem, Israel
+Current_position: University of Tampere
 End_date: 
 
 
