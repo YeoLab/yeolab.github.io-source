@@ -5,9 +5,10 @@ Position_suffix: (Ph.D.)
 Affiliation: Bioinformatics and Systems Biology
 Email: ljamal at ucsd.edu
 Fellowship: NSF Fellow
-Alumni_or_current: Current
+Alumni_or_current: Alumni
 Headshot: /images/people/leen_jamal_schafer.jpg
 Template: person
+End DateEnd_date: 2018-03-25
 <!-- Status: draft -->
 
 ## Degrees
