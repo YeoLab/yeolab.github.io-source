@@ -9,7 +9,7 @@ Headshot: /images/people/leena_latonen.png
 Template: person
 Alumni_or_current: Alumni
 Current_position: University of Tampere
-End_date: 2018-03-31
+End_date: 2018-04-01
 <!-- Status: draft -->
 
 
