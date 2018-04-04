@@ -7,8 +7,8 @@ Email: alan.cochrane at utoronto.ca
 Fellowship: 
 Headshot: /images/people/alan_cochrane.jpg
 Template: person
-Alumni_or_current: Alumni
 Current_position: Dept. of Molecular Genetics, University of Toronto
+alumni_or_current: alumni
 End_date: 2018-03-31
 <!-- Status: draft -->
 
