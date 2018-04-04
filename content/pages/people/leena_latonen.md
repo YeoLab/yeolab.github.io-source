@@ -10,6 +10,8 @@ Template: person
 Alumni_or_current: Alumni
 Current_position: University of Tampere
 End_date: 2018-03-31
+<!-- Status: draft -->
+
 
 
 ## Degrees
