@@ -7,8 +7,9 @@ Email: llatonen at ucsd.edu
 Fellowship: 
 Headshot: /images/people/leena_latonen.png
 Template: person
-Alumni_or_current: current
+Alumni_or_current: Alumni
 Current_position: University of Tampere
+End_date: 2018-03-28
 
 <!-- Status: draft -->
 
