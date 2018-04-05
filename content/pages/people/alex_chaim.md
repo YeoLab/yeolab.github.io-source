@@ -8,6 +8,7 @@ Fellowship:
 Headshot: /images/people/alexch.jpg
 Template: person
 alumni_or_current: Current
+End_date: 
 
 ## Degrees
 Ph.D. in Biological Engineering, Massachusetts Institute of Technology, 2016<br>B.S. in Biology Universidad Simón Bolívar, 2008<br>
