@@ -7,9 +7,10 @@ Email: alan.cochrane at utoronto.ca
 Fellowship: 
 Headshot: /images/people/alan_cochrane.jpg
 Template: person
-Alumni_or_current: current
+Alumni_or_current: Alumni
 Current_position: Dept. of Molecular Genetics, University of Toronto
-
+End_date: 2018-03-28
+<!-- Status: draft -->
 
 ## Degrees
 Ph.D., Queen’s University University, 1988 <br>
