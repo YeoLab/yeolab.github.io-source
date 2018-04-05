@@ -8,7 +8,8 @@ Fellowship: NSF Fellow
 Headshot: /images/people/leen_jamal_schafer.jpg
 Current_position:
 Template: person
-Alumni_or_current: current
+Alumni_or_current: Alumni
+End_date: 2018-03-20
 
 <!-- Status: draft -->
 
