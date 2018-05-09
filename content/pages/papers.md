@@ -4,6 +4,15 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ##2018
+* [**Tissue-selective restriction of RNA editing of CaV1.3 by splicing factor SRSF9**](papers/2018/SRSF9_NuclicAcids_2018.pdf)    
+Huang H, Kapeli K, Jin W, Wong YP, Arumugam TV, Koh JH, Srimasorn S, Mallilankaraman K, Chua JJE, **Yeo GW**, Soong TW.  
+Nucleic Acids Res
+
+* [**Integrin Activation Controls Regulatory T Cell-Mediated
+Peripheral Tolerance**](papers/2018/Klann_JIummnol_2018.pdf)  
+Klann JE, Kim SH, Remedios KA, He Z, Metz PJ, Lopez J, Tysl T, Olvera JG, Ablack JN, Cantor JM, Boland BS, **Yeo G**, Zheng Y, Lu LF, Bui JD, Ginsberg MH, Petrich BG, Chang JT.  
+J Immunol
+S
 * [**Systematic Discovery of RNA Binding Proteins that Regulate MicroRNA Levels**](papers/2018/Julia_molecularcell_2018.pdf)  
 Nussbacher JK, **Yeo GW**  
 Molecular Cell
@@ -13,6 +22,10 @@ Markmiller S, Soltanieh S, Server KL, Mak R, Jin W, Fang MY, Luo E-C, Krach F, Y
 Cell   
 [[UCSD News](http://ucsdhealthsciences.tumblr.com/post/170125529485/knowing-how-your-neurons-respond-to-stress-could)]
 [[ALS Association](https://alsadotorg.wordpress.com/2018/03/02/ice-bucket-dollars-at-work-als-stress-granule-components-uncovered/)]
+
+* [**Self-Transfecting Micellar RNA: Modulating Nanoparticle Cell Interactions via High Density Display of Small Molecule Ligands on Micelle Coronas.**](/papers/2018/Roloff_BioconjugChem_2018.pdf)  
+Roloff A, Nelles DA, Thompson MP, **Yeo GW**, Gianneschi NC  
+Bioconjug Chem
 
 ### 2017
 
