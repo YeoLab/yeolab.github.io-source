@@ -3,7 +3,7 @@ Date: 2018-04-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Biomedical Sciences
-Email: bmlewis at ucsd.edu
+Email: noa001 at ucsd.edu
 Fellowship: 
 Headshot: /images/people/noorsher_ahmed.jpg
 Template: person
