@@ -1,7 +1,7 @@
 jsonschema
 pelican
 Markdown
-fabric
+fabric==1.14.0
 typogrify
 mistune
 google-api-python-client
