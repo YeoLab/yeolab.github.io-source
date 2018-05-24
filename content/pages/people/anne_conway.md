@@ -1,4 +1,4 @@
-Title: Anne Gable (Conway)
+Title: Anne Conway Gable
 Date: 2008-06-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
