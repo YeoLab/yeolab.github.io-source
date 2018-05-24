@@ -8,7 +8,7 @@ Fellowship:
 Headshot: /images/people/alain_domissy.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: Scientific Director,Center for Computational Biology and Bioinformatics, The Scripps Research Institute
+Current_position: Scientific Director, Center for Computational Biology and Bioinformatics, The Scripps Research Institute
 End_date: 2018-03-09
 <!-- Status: draft -->
 

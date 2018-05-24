@@ -7,6 +7,7 @@ Email: gpratt at ucsd.edu
 Fellowship: NSF 
 Alumni_or_current: Alumni
 Headshot: /images/people/gabriel_pratt.jpg
+Current_position: TwinStrand, WA
 Template: person
 End_date: 2018-05-15
 <!-- Status: draft -->
