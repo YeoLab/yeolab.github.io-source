@@ -7,7 +7,7 @@ Fellowship:
 Headshot: /images/people/jason_nathanson.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: Senior Translational Scientist, Salk Institute for Biological 
+Current_position: Senior Translational Scientist, Salk Institute for Biological Studies
 End_date: 2014-09-01
 
 ## Degrees
