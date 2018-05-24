@@ -8,7 +8,7 @@ Fellowship:
 Headshot: /images/people/balaji_sundararaman.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: Research Associate, Human Genome Sequencing Center in Baylor College of Medicine
+Current_position: Graduate Student, UC Santa Cruz
 End_date: 2015-10-31
 <!-- Status: draft -->
 

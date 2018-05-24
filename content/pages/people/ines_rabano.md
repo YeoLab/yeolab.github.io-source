@@ -1,4 +1,4 @@
-Title: Ines Rabano
+Title: Ines Rábano Jimenez
 Date: 2015-12-01
 Position: Staff
 Position_suffix: Research Associate I
@@ -8,7 +8,7 @@ Fellowship:
 Headshot: /images/people/ines_rabano.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: Graduate School, Spain
+Current_position: Vaccines Marketing, Pfizer
 End_date: 2017-05-05
 <!-- Status: draft -->
 

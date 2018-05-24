@@ -8,7 +8,7 @@ Fellowship:
 Headshot: /images/people/lucy_xu.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: UCSD, CA
+Current_position: Research Associate, Twist Bioscience
 End_date: 2016-03-01
 <!-- Status: draft -->
 

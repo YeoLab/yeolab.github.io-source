@@ -8,7 +8,7 @@ Fellowship:  NSF Fellow
 Headshot: /images/people/david_nelles.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: Chief Technology Officer and Co-founder at Locana, Inc.
+Current_position: Chief Technology Officer and Co-founder, Locana, Inc.
 End_date: 2017-12-08
 <!-- Status: draft -->
 

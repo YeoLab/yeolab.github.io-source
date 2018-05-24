@@ -7,8 +7,8 @@ Fellowship:
 Headshot: /images/people/jason_nathanson.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: Research Scientist, Sequenom, San Diego
-End_date: 2014-09-01
+Current_position: Senior Translational Scientist,the Salk Institute for Biological 
+StudiesEnd_date: 2014-09-01
 
 ## Degrees
 Ph.D. Bioengineering, University of California, San Diego, 2008 <br>

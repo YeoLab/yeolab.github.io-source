@@ -8,7 +8,7 @@ Fellowship: Myotnonic Dystrophy Foundation (MDF) postdoctoral fellowship
 Headshot: /images/people/ron_batra.jpg
 Template: person
 alumni_or_current:Alumni
-Current_position: Scientist at Verily Life Sciences
+Current_position: Vice President of Research And Development, Locana, Inc.
 End_date: 2017-07-31
 
 

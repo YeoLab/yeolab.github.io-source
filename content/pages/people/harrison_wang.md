@@ -8,7 +8,7 @@ Fellowship:
 Headshot: /images/people/harrison_wang.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: Research Associate, True North Therapeutics, South San Francisco, CA
+Current_position: Research Associate, Sanofi Genzyme
 End_date: 2016-10-01
 <!-- Status: draft -->
 
