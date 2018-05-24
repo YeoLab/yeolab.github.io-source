@@ -4,7 +4,7 @@ Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
 Email: d2lorenz at ucsd.edu
 Fellowship: 
-Headshot: /images/people/dan_lorenz.png
+Headshot: /images/people/dan_lorenz.jpg
 Template: person
 Current_position: 
 alumni_or_current: Current
