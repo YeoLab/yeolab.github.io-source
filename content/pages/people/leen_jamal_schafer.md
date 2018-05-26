@@ -6,7 +6,7 @@ Affiliation: Bioinformatics and Systems Biology
 Email: ljamal at ucsd.edu
 Fellowship: NSF Fellow
 Headshot: /images/people/leen_jamal_schafer.jpg
-Current_position:
+Current_position: Data Scientist, Inova Diagnostics
 Template: person
 Alumni_or_current: Alumni
 End_date: 2018-03-20
