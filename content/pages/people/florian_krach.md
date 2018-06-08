@@ -21,4 +21,6 @@ Beside investigaing the disease mechanisms in sALS, for this further graduate st
 
 ##publications
 
+* **Krach F**, Batra R, Wheeler EC, Vu AQ, Wang R, Hutt K, Rabin SJ, Baughn MW, Libby RT, Diaz‑Garcia S, Stauffer J, Pirie E, Saberi S, Rodriguez M, Madrigal AA, Kohl Z, Winner B, Yeo GW, Ravits J. Transcriptome–pathology correlation identifies interplay between TDP‑43 and the expression of its kinase CK1E in sporadic ALS.  Acta Neuropathologica, 2018. 
+
 * Markmiller S, Soltanieh S, Server KL, Mak R, Jin W, Fang MY, Luo E-C, **Krach F**, Yang D, Sen A, Fulzele A, Wozniak J, Gonzalez DJ, Kankel MW, Gao F-B, Bennet EJ, Lecuyer E, Yeo GW. Context-dependent and disease-specific diversity in protein interactions within Stress Granules. Cell, 2018

@@ -20,6 +20,8 @@ Kasey Hutt received his B.S. in Biochemistry from the [University of New Mexico]
 
 ## Publications
 
+Transcriptome–pathology correlation identifies interplay between TDP‑43 and the expression of its kinase CK1E in sporadic ALS. Krach F, Batra R, Wheeler EC, Vu AQ, Wang R, **Hutt K**, Rabin SJ, Baughn MW, Libby RT, Diaz‑Garcia S, Stauffer J, Pirie E, Saberi S, Rodriguez M, Madrigal AA, Kohl Z, Winner B, Yeo GW, Ravits J. Acta Neuropathologica, 2018.
+
 Nxf1 natural variant E610G is a semi-dominant suppressor of IAP-induced RNA processing defects.
 Concepcion D, Ross KD, **Hutt KR**, Yeo GW, Hamilton BA. PLoS genetics, 2015
 

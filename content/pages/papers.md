@@ -4,6 +4,10 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ##2018
+* [**Transcriptome–pathology correlation identifies interplay between TDP‑43 and the expression of its kinase CK1E in sporadic ALS**](/papers/2018/Krach_Batra_ActaNeuropathologica_2018.pdf)   
+Krach F, Batra R, Wheeler EC, Vu AQ, Wang R, Hutt K, Rabin SJ, Baughn MW, Libby RT, Diaz‑Garcia S, Stauffer J, Pirie E, Saberi S, Rodriguez M, Madrigal AA, Kohl Z, Winner B, **Yeo GW**, Ravits J.   
+Acta Neuropathologica
+
 * [**Tissue-selective restriction of RNA editing of CaV1.3 by splicing factor SRSF9**](/papers/2018/SRSF9_NuclicAcids_2018.pdf)      
 Huang H, Kapeli K, Jin W, Wong YP, Arumugam TV, Koh JH, Srimasorn S, Mallilankaraman K, Chua JJE, **Yeo GW**, Soong TW.  
 Nucleic Acids Res
@@ -11,8 +15,9 @@ Nucleic Acids Res
 * [**Integrin Activation Controls Regulatory T Cell-Mediated
 Peripheral Tolerance**](/papers/2018/Klann_JIummnol_2018.pdf)    
 Klann JE, Kim SH, Remedios KA, He Z, Metz PJ, Lopez J, Tysl T, Olvera JG, Ablack JN, Cantor JM, Boland BS, **Yeo G**, Zheng Y, Lu LF, Bui JD, Ginsberg MH, Petrich BG, Chang JT.  
-J Immunol
-S
+J Immunol 
+
+
 * [**Systematic Discovery of RNA Binding Proteins that Regulate MicroRNA Levels**](/papers/2018/Julia_molecularcell_2018.pdf)   
 Nussbacher JK, **Yeo GW**  
 Molecular Cell

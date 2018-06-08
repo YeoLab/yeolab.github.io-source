@@ -19,6 +19,9 @@ B.S., Biochemistry: Cell Biology, University of California, San Diego, 2008<br>
 Anthony Vu received his B.S. in Biochemistry: Cell Biology from the UCSD in 2008. He earned his M.S. degree a year later from UCSD working in Dr. Fred H. Gage's lab at the Salk Institute for Biological Studies where he characterized the nuclear and cytoplasmic roles of the transcription factor REST in hESC and hESC derived human NPCs. Currently, as a staff associate in Dr. Gene Yeo's lab, Anthony works on investigating the roles of RNA binding proteins in neurodegenerative diseases using human iPSCs.
 
 ##Publications
+Transcriptome–pathology correlation identifies interplay between TDP‑43 and the expression of its kinase CK1E in sporadic ALS. Krach F, Batra R, Wheeler EC, **Vu AQ**, Wang R, Hutt K, Rabin SJ, Baughn MW, Libby RT, Diaz‑Garcia S, Stauffer J, Pirie E, Saberi S, Rodriguez M, Madrigal AA, Kohl Z, Winner B, Yeo GW, Ravits J. Acta Neuropathologica, 2018. [[PDF]](/papers/2018/Krach_Batra_ActaNeuropathologica_2018.pdf)  
+
+
 Divergent roles of ALS-linked proteins FUS/TLS and TDP-43 intersect in processing long pre-mRNAs.Lagier-Tourenne C, Polymenidou M, Hutt KR, **Vu AQ**, Baughn M, Huelga SC, Clutario KM, Ling SC, Liang TY, Mazur C, Wancewicz E, Kim AS, Watt A, Freier S, Hicks GG, Donohue JP, Shiue L, Bennett CF, Ravits J, Cleveland DW & Yeo GW. Nature Neuroscience, 2012. [[PDF]](/papers/2016/katannya_naturecommuicate_2016.pdf)
 
 LIN28 binds messenger RNAs at GGAGA motifs and regulates splicing factor abundance. Wilbert MW, Huelga SC, Kapeli K, Stark TJ, Liang TY, Chen SX, Yan BY, Nathanson JL, Hutt KR, Lovci MT, Kazan H, **Vu AQ**, Massirer KB, Morris Q, Hoon S, Yeo GW. Molecular Cell, 2012. [[Mol Cell](http://www.cell.com/molecular-cell/abstract/S1097-2765(12)00690-9)]
