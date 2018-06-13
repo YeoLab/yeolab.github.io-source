@@ -26,10 +26,9 @@ Molecular Cell
 Markmiller S, Soltanieh S, Server KL, Mak R, Jin W, Fang MY, Luo E-C, Krach F, Yang D, Sen A, Fulzele A, Wozniak J, Gonzalez DJ, Kankel MW, Gao F-B, Bennet EJ, Lecuyer E, **Yeo GW**.  
 Cell   
 [[UCSD News](http://ucsdhealthsciences.tumblr.com/post/170125529485/knowing-how-your-neurons-respond-to-stress-could)]
-[[ALS Association](https://alsadotorg.wordpress.com/2018/03/02/ice-bucket-dollars-at-work-als-stress-granule-components-uncovered/)]
+[[ALS Association](https://alsadotorg.wordpress.com/2018/03/02/ice-bucket-dollars-at-work-als-stress-granule-components-uncovered/)] 
  <a href="https://f1000.com/prime/732571452" target="_blank"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
- 
- https://f1000.com/prime/732571452
+
 
 * [**Self-Transfecting Micellar RNA: Modulating Nanoparticle Cell Interactions via High Density Display of Small Molecule Ligands on Micelle Coronas.**](/papers/2018/Roloff_BioconjugChem_2018.pdf)  
 Roloff A, Nelles DA, Thompson MP, **Yeo GW**, Gianneschi NC  
