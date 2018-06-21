@@ -19,5 +19,6 @@ Jonathan is a PhD student in the Bioengineering Program at UC San Diego. He grad
 
 
 ## Publications
-* S. M. Grist, **J. C. Schmok**, A. D. Gaxiola and K. C. Cheung, "Microfluidic platform with integrated thin-film optical oxygen sensors for transient hypoxia," 2016 14th IEEE International New Circuits and Systems Conference (NEWCAS), Vancouver, BC, 2016, pp. 1-4.  
-* * S. M. Grist, **J. C. Schmok**, M. -C. A. Liu, L. Chrostowski, and K. C. Cheung, “Designing a Microfluidic Device with Integrated Ratiometric Oxygen Sensors for the Long-Term Control and Monitoring of Chronic and Cyclic Hypoxia,” Sensors 2015, 15, 20030-20052.
+* S. M. Grist, **J. C. Schmok**, A. D. Gaxiola and K. C. Cheung, "Microfluidic platform with integrated thin-film optical oxygen sensors for transient hypoxia," 2016 14th IEEE International New Circuits and Systems Conference (NEWCAS), Vancouver, BC, 2016, pp. 1-4.     
+
+* S. M. Grist, **J. C. Schmok**, M. -C. A. Liu, L. Chrostowski, and K. C. Cheung, “Designing a Microfluidic Device with Integrated Ratiometric Oxygen Sensors for the Long-Term Control and Monitoring of Chronic and Cyclic Hypoxia,” Sensors 2015, 15, 20030-20052.
