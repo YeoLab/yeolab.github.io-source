@@ -4,6 +4,10 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ##2018
+* [**Sequence, Structure and Context Preferences of Human RNA binding proteins**](/papers/2018/Dominguez_molCell_2018.pdf)    
+Dominguez D, Freese P, Alexis MS, Su A, Hochman M, Palden T, Bazile C, Lambert NJ, Van Nostrand EL, Pratt GA, **Yeo GW**, Graveley BR, Burge CB.   
+Molecular Cell
+
 * [**Transcriptome–pathology correlation identifies interplay between TDP‑43 and the expression of its kinase CK1E in sporadic ALS**](/papers/2018/Krach_Batra_ActaNeuropathologica_2018.pdf)   
 Krach F, Batra R, Wheeler EC, Vu AQ, Wang R, Hutt K, Rabin SJ, Baughn MW, Libby RT, Diaz‑Garcia S, Stauffer J, Pirie E, Saberi S, Rodriguez M, Madrigal AA, Kohl Z, Winner B, **Yeo GW**, Ravits J.   
 Acta Neuropathologica
