@@ -3,7 +3,7 @@ Date: 2018-06-26
 Position: Staff
 Position_suffix: Research Associate I
 Affiliation:
-Email: a8shankar at ucsd.edu
+Email: jmueller at ucsd.edu
 Fellowship:
 Headshot: /images/people/jasmine_mueller.jpg
 Template: person
