@@ -7,8 +7,8 @@ Fellowship:
 Headshot: /images/people/sarah_barnhill.JPG
 Template: person
 Current_position: 
-alumni_or_current: Current
-End_date: 
+alumni_or_current: alumni
+End_date: 2018-07-06
 
 ## Degrees
 Ph.D. Chemistry, University of California, San Diego
