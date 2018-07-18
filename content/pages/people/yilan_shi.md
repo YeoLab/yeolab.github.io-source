@@ -3,7 +3,7 @@ Date: 2018-07-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Biomedical Sciences
-Email:  at ucsd.edu
+Email: yis215 at ucsd.edu
 Fellowship:
 Alumni_or_current: Current
 Headshot: /images/people/yilan_shi.jpg
