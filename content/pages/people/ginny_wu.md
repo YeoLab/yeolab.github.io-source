@@ -7,9 +7,9 @@ Email: g8wu at ucsd.edu
 Fellowship:
 Headshot: /images/people/ginny_wu.jpg
 Template: person
-Alumni_or_current: Current
+Alumni_or_current: Alumni
 Current_position: UCSD, CA
-End_date: 
+End_date: 2018-06-31
 <!-- Status: draft -->
 
 ## Degrees
