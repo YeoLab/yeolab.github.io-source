@@ -4,10 +4,11 @@ Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
 Email: jnussbac at ucsd.edu
 Fellowship:
-Alumni_or_current: Current
+Alumni_or_current: Alumni
 Headshot: /images/people/julia_nussbacher.jpg
-Current_position: 
+Current_position: Post-Doctoral Fellow, Novartis 
 Template: person
+End_date: 2018-08-10
 
 <!-- Status: draft -->
 
