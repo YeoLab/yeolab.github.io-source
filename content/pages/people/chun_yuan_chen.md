@@ -5,7 +5,7 @@ Position_suffix:
 Affiliation: Cellular and Molecular Medicine
 Email: chc022 at ucsd.edu 
 Fellowship: 
-Headshot: /images/people/chun-yuan_chen.jpg
+Headshot: /images/people/chunyuan_chen.jpg
 Template: person
 alumni_or_current: Current
 Current_position: 
