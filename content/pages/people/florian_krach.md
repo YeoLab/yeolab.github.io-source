@@ -7,7 +7,9 @@ Email: fkrach at ucsd.edu
 Fellowship:
 Headshot: /images/people/florian_krach.jpg
 Template: person
-Alumni_or_current: Current
+Alumni_or_current: Alumni
+Current_position: 
+End_date: 2018-08-27
 <!-- Status: draft -->
 
 ## Degrees
