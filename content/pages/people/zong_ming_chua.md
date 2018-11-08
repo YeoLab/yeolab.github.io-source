@@ -1,4 +1,4 @@
-Title: Zong Ming 
+Title: Zong Ming Chua
 Date: 2018-08-01
 Position: Staff
 Position_suffix: Research Associate I
