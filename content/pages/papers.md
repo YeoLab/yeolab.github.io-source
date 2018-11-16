@@ -4,6 +4,12 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ##2018
+
+* [**RBP-Maps enables robust generation of splicing regulatory maps**](/papers/2018/BrianYee-rna.pdf)     
+Yee BA, Pratt GA, Graveley BR, Van Nostrand EL§, **Yeo GW**§ (§ co-corresponding )     
+RNA
+
+
 * [**Sequence, Structure and Context Preferences of Human RNA binding proteins**](/papers/2018/Dominguez_molCell_2018.pdf)    
 Dominguez D, Freese P, Alexis MS, Su A, Hochman M, Palden T, Bazile C, Lambert NJ, Van Nostrand EL, Pratt GA, **Yeo GW**, Graveley BR, Burge CB.   
 Molecular Cell
