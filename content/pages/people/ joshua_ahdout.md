@@ -3,7 +3,7 @@ Date: 2018-10-15
 Position: Undergraduate Student
 Position_suffix: Biology
 Affiliation:(Kristopher Brannan)
-Email: 
+Email: jahdout at ucsd.edu
 Fellowship:
 Headshot: /images/people/joshua_ahdout.jpg
 Template: person
