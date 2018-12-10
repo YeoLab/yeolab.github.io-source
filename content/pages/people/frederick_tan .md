@@ -20,6 +20,8 @@ Fred received his B.S. in Biology and Chemical Engineering from MIT. As an under
 
 ## Publications
 
+Mol Cell. 2018 Dec A Transcriptome-wide Translational Program Defined by LIN28B Expression Level. **Tan FE** §, Sathe S §, Wheeler EC, Nussbacher JK, Peter S, Yeo GW (§ co-first author )
+
 Mol Cell. 2016 Jan 7;61(1):1-2. Blurred Boundaries: The RNA Binding Protein Lin28A Is Also an Epigenetic Regulator. **Tan FE**, Yeo GW.
 
 Proc Natl Acad Sci U S A. 2014 Apr 29;111(17):E1740-8.

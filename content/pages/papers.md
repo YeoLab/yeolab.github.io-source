@@ -4,6 +4,9 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ##2018
+* [**A Transcriptome-wide Translational Program Defined by LIN28B Expression Level**](/papers/2018/Fred_molecularCell_2018.pdf)]   
+Tan FE, Sathe S, Wheeler EC, Nussbacher JK, Peter S, **Yeo GW**   
+Molecular Cell
 
 * [**RBP-Maps enables robust generation of splicing regulatory maps**](/papers/2018/BrianYee-rna.pdf)     
 Yee BA, Pratt GA, Graveley BR, Van Nostrand EL§, **Yeo GW**§ (§ co-corresponding )     
@@ -24,7 +27,7 @@ Nucleic Acids Res
 
 * [**Integrin Activation Controls Regulatory T Cell-Mediated
 Peripheral Tolerance**](/papers/2018/Klann_JIummnol_2018.pdf)    
-Klann JE, Kim SH, Remedios KA, He Z, Metz PJ, Lopez J, Tysl T, Olvera JG, Ablack JN, Cantor JM, Boland BS, **Yeo G**, Zheng Y, Lu LF, Bui JD, Ginsberg MH, Petrich BG, Chang JT.  
+Klann JE, Kim SH, Remedios KA, He Z, Metz PJ, Lopez J, Tysl T, Olvera JG, Ablack JN, Cantor JM, Boland BS, **Yeo GW**, Zheng Y, Lu LF, Bui JD, Ginsberg MH, Petrich BG, Chang JT.  
 J Immunol 
 
 

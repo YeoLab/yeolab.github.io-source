@@ -17,6 +17,8 @@ Coming Soon!!
 Coming Soon!!
 ## Publications
 
+* Tan FE §, **Sathe S** §, Wheeler EC, Nussbacher JK, Peter S, Yeo GW . A Transcriptome-wide Translational Program Defined by LIN28B Expression Level.  Mol Cell. 2018 Dec (§ co-first author )
+
 * Lardelli RM, Schaffer AE, Eggens VR, Zaki MS, Grainger S, **Sathe S**, Van Nostrand EL, Schlachetzki Z, Rosti B, Akizu N, Scott E, Silhavy JL, Heckman LD,
 Rosti RO, Dikoglu E, Gregor A, Guemez-Gamboa A, Musaev D, Mande R, Widjaja A, Shaw TL, Markmiller S, Marin-Valencia I, Davies JH, de Meirleir L, Kayserili H,
 Altunoglu U, Freckmann ML, Warwick L, Chitayat D, Blaser S, Çağlayan AO, Bilguvar K, Per H, Fagerberg C, Christesen HT, Kibaek M, Aldinger KA, Manchester D,
