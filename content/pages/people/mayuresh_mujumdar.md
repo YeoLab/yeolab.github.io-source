@@ -1,4 +1,4 @@
-Title: Mayuresh Mujumdar
+Title: Mayuresh<br>Mujumdar
 Date: 2018-02-01
 Position: Undergraduate Student
 Position_suffix: (Kristopher Brannan)
