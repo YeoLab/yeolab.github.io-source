@@ -13,8 +13,8 @@ End_date:
 <!-- Status: draft -->
 
 ## Degrees
-B.S. in Biomedicine, Sao Paulo State University, 2013
-M.S. in Genetic and Molecular Biology, University of Campinas (UNICAMP), 2016
+B.S. in Biomedicine, Sao Paulo State University, 2013 <br>
+M.S. in Genetic and Molecular Biology, University of Campinas (UNICAMP), 2016 <br>
 
 
 ## Summary
