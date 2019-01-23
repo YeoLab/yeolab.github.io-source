@@ -4,7 +4,7 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ##2018
-* [**A Transcriptome-wide Translational Program Defined by LIN28B Expression Level**](/papers/2018/Fred_molecularCell_2018.pdf)]   
+* [**A Transcriptome-wide Translational Program Defined by LIN28B Expression Level**](/papers/2018/Fred_molecularCell_2018.pdf)   
 Tan FE, Sathe S, Wheeler EC, Nussbacher JK, Peter S, **Yeo GW**   
 Molecular Cell
 
