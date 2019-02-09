@@ -3,7 +3,7 @@ Date: 2018-11-19
 Position: Post-Doctoral Fellow
 Position_suffix: 
 Affiliation: Cellular and Molecular Medicine
-Email: iachaim at ucsd.edu 
+Email: jsxiang at ucsd.edu 
 Fellowship: 
 Headshot: /images/people/shengnan_joy_xiang.jpg
 Template: person
