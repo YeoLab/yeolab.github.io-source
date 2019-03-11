@@ -3,7 +3,7 @@ Date: 2019-01-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Chemistry and Biochemistry 
-Email: q2liang@ucsd.edu at ucsd.edu
+Email: q2liang at ucsd.edu
 Fellowship: 
 Headshot: /images/people/qishan_liang.jpg
 Template: person
