@@ -20,6 +20,11 @@ S.B. (Biology) Massachusetts Institute of Technology, 2005<br>
 Eric Van Nostrand received his S.B. in Biology from MIT in 2005, with research experience in Dr. Chris Burge’s lab on computational and experimental analysis of alternative splicing regulation. After spending a year with Dr. Fred Gage & Dr. Gene Yeo at the Salk Institute for Biological Studies, Eric attended Stanford University for graduate school, joining Dr. Stuart Kim’s lab. Eric’s thesis work focused on genomic, genetic, and molecular analysis of aging in *C. elegans*, identifying novel regulators of transcriptional changes with age that revealed links between developmental regulators and aging. As a part of this work, Eric identified transcription factor complexity (defined as the number of factors that bind to the same genomic loci) as a significant feature for biological interpretation of ChIP-seq data. Low-complexity binding sites tended to correlate with factor-responsive target expression, whereas analysis of HOT (highly occupied target regions) bound by 65% or more of factors revealed a potential novel regulatory mechanism for highly expressed, essential, ubiquitous genes. In 2013, Eric joined the Yeo lab to perform postdoctoral research on general RNA binding protein regulatory networks as well as identification and characterization of critical RNA binding proteins in neuronal stem cell maintenance and differentiation.
 
 ## Publications
+* Quinones-Valdez G, Tran SS, Jun HI, Bahn JH, Yang EW, Zhan L, Brümmer A, Wei X, **Van Nostrand EL**, Pratt GA, *eo GW, Graveley BR, Xiao X.Regulation of RNA editing by RNA-binding proteins in human cells. Commun Biol. 2019 [[PDF](/papers/2019/Quinones-Valdes_CommunBiol_2019.pdf)]
+
+* Tran SS, Jun HI, Bahn JH, Azghadi A, Ramaswami G, **Van Nostrand EL**, Nguyen TB, Hsiao YE, Lee C, Pratt GA, Martínez-Cerdeño V, Hagerman RJ, Yeo GW, Geschwind DH, Xiao X. Widespread RNA editing dysregulation in brains from autistic individuals. Nat Neurosci. 2018
+[[PDF](/papers/2018/Tran_NatureNeuronscience_2018.pdf)] 
+
 * Yee BA, Pratt GA, Graveley BR, **Van Nostrand EL**§, Yeo GW§. RBP-Maps enables robust generation of splicing regulatory maps. RNA. 2018 Nov 16 (§ co-corresponding) [[PDF](/papers/2018/BrianYee-rna.pdf)]
 
 

@@ -3,7 +3,17 @@ Date: 2017-02-20
 icon: mdi mdi-file-multiple
 
 # Papers
+##2019
+
+* [**Regulation of RNA editing by RNA-binding proteins in human cells**](/papers/2019/Quinones-Valdes_CommunBiol_2019.pdf)   
+Quinones-Valdez G, Tran SS, Jun HI, Bahn JH, Yang EW, Zhan L, Brümmer A, Wei X, Van Nostrand EL, Pratt GA, **Yeo GW**, Graveley BR, Xiao X.   
+Commun Biol.
+
 ##2018
+* [**Widespread RNA editing dysregulation in brains from autistic individuals**](/papers/2018/Tran_NatureNeuronscience_2018.pdf)  
+Tran SS, Jun HI, Bahn JH, Azghadi A, Ramaswami G, Van Nostrand EL, Nguyen TB, Hsiao YE, Lee C, Pratt GA, Martínez-Cerdeño V, Hagerman RJ, **Yeo GW**, Geschwind DH, Xiao X  
+Nat Neurosci.
+
 * [**A Transcriptome-wide Translational Program Defined by LIN28B Expression Level**](/papers/2018/Fred_molecularCell_2018.pdf)   
 Tan FE, Sathe S, Wheeler EC, Nussbacher JK, Peter S, **Yeo GW**   
 Molecular Cell

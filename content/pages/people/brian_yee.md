@@ -17,6 +17,7 @@ B.S. Bioinformatics, UCSD<br>M.S. Bioinformatics, Johns Hopkins University<br>
 Brian is a bioinformatics software developer in the Yeolab focused on building tools for large scale analysis projects such as ENCODE and the U19 metadata database initiative. Initially joining the lab with a background working with non model assemblies, Brian is actively developing software for downstream processing and analysis of CLIP SEQ, bulk and single cell RNA SEQ data.
 
 ## Publications
+
 * RBP-Maps enables robust generation of splicing regulatory maps. **Yee BA**, Pratt GA, Graveley BR, Van Nostrand EL§, Yeo GW§ (§ co-corresponding ). RNA. 2018 Nov 16
 
 * Short poly(A) tails are a conserved feature of highly expressed genes. Lima SA, Chipman LB, Nicholson AL, Chen YH, **Yee BA**, Yeo GW, Coller J, Pasquinelli AE.
