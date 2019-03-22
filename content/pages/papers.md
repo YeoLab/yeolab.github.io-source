@@ -4,6 +4,10 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ##2019
+* [**Allele-specific binding of RNA-binding proteinsreveals functional genetic variants in the RNA**](/papers/2019_yang_neuronCommu.pdf)  
+Yang E-W, Bahn JH, Hsiao EY-H, Tan BX, Sun Y, Fu T, Zhou B, Graveley BR, Burge CB, **Yeo GW**, Xiao X   
+Nature Communications  
+
 
 * [**Regulation of RNA editing by RNA-binding proteins in human cells**](/papers/2019/Quinones-Valdes_CommunBiol_2019.pdf)   
 Quinones-Valdez G, Tran SS, Jun HI, Bahn JH, Yang EW, Zhan L, Brümmer A, Wei X, Van Nostrand EL, Pratt GA, **Yeo GW**, Graveley BR, Xiao X.   
