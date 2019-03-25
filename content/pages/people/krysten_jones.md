@@ -1,7 +1,7 @@
 Title: Krysten Jones   
 Date: 2019-03-20
 Position: Visiting Graduate Student
-Position_suffix: Cell and Molecular Biology
+Position_suffix: 
 Affiliation: (Ryan Marina)
 Email: kjones44 at calpoly.edu
 Fellowship: CIRM Intern
