@@ -22,16 +22,19 @@ Julia comes to us with experience in both academia and industry, in fields rangi
 
 ## Publications
 
-**Nussbacher JK**, Yeo GW Systematic Discovery of RNA Binding Proteins that Regulate MicroRNA Levels. Molecular Cell 2018.
+* **Nussbacher JK**. Tabet R, Yeo GW, Lagier-Tourenne C. Disruption of RNA Metabolism in Neurological Diseases and Emerging Therapeutic Interventions. Neuron 2019.
+
+* Tan FE* , Sathe S* , Wheeler EC, **Nussbacher JK**, Peter S, Yeo GW. A Transcriptome-wide Translational Program Defined by LIN28B Expression Level. Molecular Cell 2019.
+
+* **Nussbacher JK** and Yeo GW. Systematic Discovery of RNA Binding Proteins that Regulate MicroRNA Levels. Molecular Cell 2018.
 
 
-Rodvold JJ, Chiu KT, Hiramatsu N, **Nussbacher JK**; Galimberti V, Mahadevan NR, Willert K, Lin JH, Zanetti M, Intercellular transmission of the unfolded protein response promotes survival and drug resistance in cancer cells. Sci Signal 2017.
+* Rodvold JJ, Chiu KT, Hiramatsu N, **Nussbacher JK**, Galimberti V, Mahadevan NR, Willert K, Lin JH, Zanetti M, Intercellular transmission of the unfolded protein response promotes survival and drug resistance in cancer cells. Science Signal 2017.
 
-Martinez FJ, Pratt GA, Van Nostrand EL, Batra R, Huelga SC, Kapeli K, Freese P, Chun SJ, Ling K, Gelboin-Burkhart C, Fijany L, Wang HC, **Nussbacher JK**, Broski   SM, Kim HJ, Lardelli R, Sundararaman B, Donohue JP, Javaherian A, Lykke-Andersen J, Finkbeiner S, Bennett CF, Ares M Jr, Burge CB, Taylor JP, Rigo F, Yeo GW. Protein-RNA Networks Regulated by Normal and ALS-Associated Mutant HNRNPA2B1 in the Nervous System. Neuron. 2016. 
+* Martinez FJ, Pratt GA, Van Nostrand EL, Batra R, Huelga SC, Kapeli K, Freese P, Chun SJ, Ling K, Gelboin-Burkhart C, Fijany L, Wang HC, **Nussbacher JK**, Broski SM, Kim HJ, Lardelli R, Sundararaman B, Donohue JP, Javaherian A, Lykke-Andersen J, Finkbeiner S, Bennett CF, Ares M Jr, Burge CB, Taylor JP, Rigo F, Yeo GW. Protein-RNA Networks Regulated by Normal and ALS-Associated Mutant HNRNPA2B1 in the Nervous System. Neuron. 2016.
 
+* Bos TJ, **Nussbacher JK**, Aigner S, Yeo GW, Tethered Function Assays as Tools to Elucidate the Molecular Roles of RNA-Binding Proteins. Advances in Experimental Medicine and Biology 2016.
 
-Bos TJ, **Nussbacher JK**; Aigner S, Yeo GW, Tethered Function Assays as Tools to Elucidate the Molecular Roles of RNA-Binding Proteins. Adv Exp Med Biol 2016.
+* **Nussbacher JK**, Batra R; Lagier-Tourenne C, Yeo GW, RNA-binding proteins in neurodegeneration: Seq and you shall receive. Trends in Neurosciences 2015.
 
-**Nussbacher JK**; Batra R; Lagier-Tourenne C, Yeo GW, RNA-binding proteins in neurodegeneration: Seq and you shall receive. Trends in neurosciences 2015.
-
-Axelsson H, Xu D, Kang BN, **Nussbacher JK**, Handel TM, Ley K, Sriramarao P, and Esko JD. Inactivation of heparan sulfate 2-O-sulfotransferase accentuates neutrophil infiltration during acute inflammation in mice. Blood 2012.
+* Axelsson H, Xu D, Kang BN, **Nussbacher JK**, Handel TM, Ley K, Sriramarao P, and Esko JD. Inactivation of heparan sulfate 2-O-sulfotransferase accentuates neutrophil infiltration during acute inflammation in mice. Blood 2012.
