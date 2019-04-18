@@ -13,7 +13,7 @@ End_date: 2018-08-10
 <!-- Status: draft -->
 
 ## Degrees
-
+Ph.D., Biomedical Sciences, University of California San Diego, 2017<br>
 Sc.B Biochemistry, Brown University, 2010<br>
 
 ## Summary
