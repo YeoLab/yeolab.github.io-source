@@ -458,7 +458,7 @@ Van Nostrand EL, Gelboin-Burkhart C, Wang R, Pratt GA, Blue SM, and **Yeo GW**. 
   Polymenidou M * , Lagier-Tourenne C * , Hutt KR * , Huelga SC, Moran J, Liang TY, Ling SC, Sun E, Wancewicz E, Mazur C, Kordasiewicz H, Sedaghat Y, Donohue JP, Shiue L, Bennett CF, **Yeo GW**§, and Cleveland DW§ ( * co-first authors; § co-corresponding)   
   *Nature Neuroscience*     
   <a href="http://f1000.com/prime/10067966"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>  
-[[Data](https://storage.googleapis.com/yeolab_ucsd_edu/LabWebsite/Paper%20Data/TDP43data.zip)]
+[[Data](s3://yeolab.github.io-data/data/2011/TDP43data.zip)]
 
 * [**RNA-seq analysis of gene expression and alternative splicing by double-random priming strategy**](/papers/2011/LovciYeoRNA_seq.pdf)    
   Lovci MT, Li HR, Fu XD, and **Yeo GW**.   
