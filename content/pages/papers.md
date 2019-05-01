@@ -4,6 +4,13 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ##2019
+* [**Active Protein Neddylation or Ubiquitylation Is
+Dispensable for Stress Granule Dynamics**](/papers/2019_Sebastian_CellReport.pdf)   
+Markmiller S, Fulzele A, Higgins R, Leonard M, Yeo GW§, Bennett EJ§. (§ co-corresponding)      
+Cell Reports  
+  
+
+
 * [**Allele-specific binding of RNA-binding proteinsreveals functional genetic variants in the RNA**](/papers/2019_yang_neuronCommu.pdf)  
 Yang E-W, Bahn JH, Hsiao EY-H, Tan BX, Sun Y, Fu T, Zhou B, Graveley BR, Burge CB, **Yeo GW**, Xiao X   
 Nature Communications  
@@ -212,8 +219,8 @@ Van Nostrand EL, Gelboin-Burkhart C, Wang R, Pratt GA, Blue SM, and **Yeo GW**. 
 
 
 * [**Dysregulation of RBFOX2 is an early event in cardiac pathogenesis of diabetes**](/papers/2016/Nutter_CellReports_2016.pdf)  
-  Nutter CA, Jaworski EA, Verma SK, Deshmukh V, Wang Q, Botvinnik OB, Lozano MJ, Abass IJ, Ijaz T, Brasier AR, Garg NJ, Wehrens XH, and **Yeo GW**, and Kuyumcu-Martinez MN.  
-  Cell Reports
+  Nutter CA, Jaworski EA, Verma SK, Deshmukh V, Wang Q, Botvinnik OB, Lozano MJ, Abass IJ, Ijaz T, Brasier AR, Garg NJ, Wehrens XH, and **Yeo GW**, and Kuyumcu-Martinez MN.     
+Cell Reports
 
 
 
