@@ -4,14 +4,17 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ##2019
+* [**Disruption of RNA Metabolism in Neurological Diseases and Emerging Therapeutic Interventions**](/papers/2019/2019_Nussbacher_neuron_review.pdf)   
+Nussbacher JK, Tabet R, **Yeo GW**§, Lagier-Tourenne C§. (§ co-corresponding)     
+Neuron 
+
 * [**Active Protein Neddylation or Ubiquitylation Is
-Dispensable for Stress Granule Dynamics**](/papers/2019_Sebastian_CellReport.pdf)   
+Dispensable for Stress Granule Dynamics**](/papers/2019/2019_Sebastian_CellReport.pdf)   
 Markmiller S, Fulzele A, Higgins R, Leonard M, Yeo GW§, Bennett EJ§. (§ co-corresponding)      
 Cell Reports  
   
-
-
-* [**Allele-specific binding of RNA-binding proteinsreveals functional genetic variants in the RNA**](/papers/2019_yang_neuronCommu.pdf)  
+  
+* [**Allele-specific binding of RNA-binding proteinsreveals functional genetic variants in the RNA**](/papers/2019/2019_yang_neuronCommu.pdf)  
 Yang E-W, Bahn JH, Hsiao EY-H, Tan BX, Sun Y, Fu T, Zhou B, Graveley BR, Burge CB, **Yeo GW**, Xiao X   
 Nature Communications  
 
@@ -57,7 +60,7 @@ Nussbacher JK, **Yeo GW**
 Molecular Cell
 
 * [**Context-Dependent and Disease-Specific Diversity in Protein Interactions within Stress Granules**](/papers/2018/Sebastian_2018_cell.pdf)  
-Markmiller S, Soltanieh S, Server KL, Mak R, Jin W, Fang MY, Luo E-C, Krach F, Yang D, Sen A, Fulzele A, Wozniak J, Gonzalez DJ, Kankel MW, Gao F-B, Bennet EJ, Lecuyer E, **Yeo GW**.  
+Markmiller S, Soltanieh S, Server KL, Mak R, Jin W, Fang MY, Luo E-C, Krach F, Yang D, Sen A, Fulzele A, Wozniak J, Gonzalez DJ, Kankel MW, Gao F-B, Bennett EJ, Lecuyer E, **Yeo GW**.  
 Cell   
 [[UCSD News](http://ucsdhealthsciences.tumblr.com/post/170125529485/knowing-how-your-neurons-respond-to-stress-could)]
 [[ALS Association](https://alsadotorg.wordpress.com/2018/03/02/ice-bucket-dollars-at-work-als-stress-granule-components-uncovered/)] 
