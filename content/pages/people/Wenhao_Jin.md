@@ -3,7 +3,7 @@ Date: 2019-01-05
 Position: Post-Doctoral Fellow
 Position_suffix: 
 Affiliation: Cellular and Molecular Medicine
-Email: vincenzojin at gmail.com 
+Email: w2jin at ucsd dot edu
 Fellowship: 
 Headshot: /images/people/wenhao_jin.png
 Template: person
