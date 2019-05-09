@@ -24,6 +24,11 @@ Quinones-Valdez G, Tran SS, Jun HI, Bahn JH, Yang EW, Zhan L, Brümmer A, Wei X,
 Commun Biol.
 
 ##2018
+
+* [**Patch-Seq Protocol to Analyze the Electrophysiology, Morphology and Transcriptome of Whole Single Neurons Derived From Human Pluripotent Stem Cells**](/papers/2018/Hurk_FrontMolNeurosci_2018.pdf)  
+van den Hurk M, Erwin JA, **Yeo GW**, Gage FH, Bardy C.  
+Front Mol Neurosci.
+
 * [**Widespread RNA editing dysregulation in brains from autistic individuals**](/papers/2018/Tran_NatureNeuronscience_2018.pdf)  
 Tran SS, Jun HI, Bahn JH, Azghadi A, Ramaswami G, Van Nostrand EL, Nguyen TB, Hsiao YE, Lee C, Pratt GA, Martínez-Cerdeño V, Hagerman RJ, **Yeo GW**, Geschwind DH, Xiao X  
 Nat Neurosci.
