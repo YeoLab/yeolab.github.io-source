@@ -5,7 +5,7 @@ Position_suffix: Bioinformatics Analyst
 Affiliation:
 Email: jwilliams at ucsd.edu
 Fellowship:
-Headshot: /images/people/mstile-310x310.png
+Headshot: /images/people/john_williams.jpg
 Template: person
 Alumni_or_current: Current
 <!-- Status: draft -->
