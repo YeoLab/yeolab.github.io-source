@@ -423,7 +423,7 @@ Cell Reports
 * [**Circadian oscillations of protein-coding and regulatory RNAs in a highly dynamic mammalian liver epigenome**](/papers/2012/Cell2012.pdf)   
   Vollmers C, Schmitz RJ, Nathanson J, **Yeo GW**, Ecker JR, and Panda S.   
   *Cell Metabolism*    
-[[Data](https://storage.googleapis.com/yeolab_ucsd_edu/LabWebsite/Paper%20Data/Vollmers_smRNA_data.zip)]  
+[[Data](https://s3-us-west-2.amazonaws.com/yeolab.github.io-data/data/2012/Vollmers_smRNA_data.zip)]  
  
 
 
@@ -449,7 +449,7 @@ Cell Reports
   Vu AQ, Massirer KB, Morris Q, Hoon S, and **Yeo GW**.   
   *Molecular Cell*       
   <a href="http://f1000.com/prime/717964369"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>   
-    [[ES CLIP Clusters](https://storage.googleapis.com/yeolab_ucsd_edu/LabWebsite/Paper%20Data/LIN28ES_CLIPseq_clusters.BED)] [[293 CLIP clusters](https://storage.googleapis.com/yeolab_ucsd_edu/LabWebsite/Paper%20Data/LIN28V5_CLIPseq_clusters.BED)]
+    [[ES CLIP Clusters](https://s3-us-west-2.amazonaws.com/yeolab.github.io-data/data/2012/LIN28ES_CLIPseq_clusters.BED.txt)] [[293 CLIP clusters](https://s3-us-west-2.amazonaws.com/yeolab.github.io-data/data/2012/LIN28V5_CLIPseq_clusters.BED.txt)]
 
 * [**Misregulated RNA processing in amyotrophic lateral sclerosis**](/papers/2012/Magdalini_Polymenidou.pdf)  
   Polymenidou M, Lagier-Tourenne C, Hutt KR, Bennett CF, Cleveland DW, and **Yeo GW**.    
@@ -500,7 +500,7 @@ Cell Reports
 * [**Comprehensive discovery of endogenous argonaute binding sites in Caenorhabditis elegans**](/papers/2010/nsmb.1745.pdf)    
   Zisoulis DG, Lovci MT, Wilbert ML, Hutt KR, Liang YL, Pasquinelli AE, and **Yeo GW**.  
   *Nature Structural and Molecular Biology*       
-  [[Fasta](https://storage.googleapis.com/yeolab_ucsd_edu/LabWebsite/Paper%20Data/ALG1_MT-WT_raw.tar.gz)] [[Data](https://storage.googleapis.com/yeolab_ucsd_edu/LabWebsite/Paper%20Data/NSMB_012010.tar.gz)] [[Array Data](https://storage.googleapis.com/yeolab_ucsd_edu/LabWebsite/Paper%20Data/alg1_arraydata.zip)]
+  [[Fasta](https://s3-us-west-2.amazonaws.com/yeolab.github.io-data/data/2010/ALG1_MT-WT_raw.tar)] [[Data](https://s3-us-west-2.amazonaws.com/yeolab.github.io-data/data/2010/NSMB_012010.tar)] [[Array Data](https://s3-us-west-2.amazonaws.com/yeolab.github.io-data/data/2010/alg1_arraydata.zip)]
   
 * [**A model for neural development and treatment of Rett syndrome using human induced pluripotent stem cells.**](/papers/2010/cell_2010.pdf)  
   Marchetto MC, Carromeu C, Acab A, Yu D, **Yeo GW**, Mu Y, Chen G, Gage FH, and Muotri AR.  
@@ -556,7 +556,7 @@ Cell Reports
 * [**Determination of tag density required for digital transcriptome analysis: Application to an androgen-sensitive prostate cancer model**](/papers/2008/Lovci_RNAseq_PNAS_2008.pdf)  
   Li H, Lovci MT, Kwon Y-S, Rosenfeld MG, Fu, X-D§, and **Yeo GW**§. (§ co-corresponding)   
   *Proceedings of the National Academy of Sciences USA*       
-  [[Data](https://storage.googleapis.com/yeolab_ucsd_edu/LabWebsite/Paper%20Data/seqs.tar.gz)]
+  [[Fasta](https://s3-us-west-2.amazonaws.com/yeolab.github.io-data/data/2008/Lovci_RNAseq_PNAS_2008_data.tar.gz)]
   
 
 * [**Divergent transcription from active promoters**](/papers/2008/Divergent_seila_2008.pdf)  
@@ -585,12 +585,13 @@ Cell Reports
 * [**Alternative events identified in human embryonic stem cells and neural progenitors**](/papers/2007/Yeo_PlosCompBiol07.pdf)  
    **Yeo GW**§ , Xiang-dong X, Liang YT, Muotri AM, Carson C, Coufal N, and Gage FH§.  (§ co-corresponding)   
   *PLoS Computational Biology*     
-  [[Data](https://storage.googleapis.com/yeolab_ucsd_edu/LabWebsite/Paper%20Data/Suppl_Data.tar.gz)]  
+  [[Data](https://s3-us-west-2.amazonaws.com/yeolab.github.io-data/data/2007/Yeo_PlosCompBiol07_data.tar)]  
   
 
 * [**Discovery and analysis of evolutionarily conserved intronic splicing regulatory elements in mammalian genomes**](/papers/2007/DiscoveryandAnalysis_2007.pdf)  
   **Yeo GW**§, Van Nostrand EL, and Liang YT.   (§ corresponding)   
-  *PLoS Genetics*     
+  *PLoS Genetics*       
+  [[Data](https://s3-us-west-2.amazonaws.com/yeolab.github.io-data/data/2007/DiscoveryandAnalysis_data_2007.tar)]
 
 
 * [**Immunoglobulin light chains in zebrafish: genomic configurations and inversional rearrangements between (V(L)-J(L)C(L)) gene clusters**](/papers/2007/sdarticle.pdf)  
