@@ -478,7 +478,7 @@ Cell Reports
 * [**RNA-seq analysis of gene expression and alternative splicing by double-random priming strategy**](/papers/2011/LovciYeoRNA_seq.pdf)    
   Lovci MT, Li HR, Fu XD, and **Yeo GW**.   
   *Methods in Molecular Biology*       
-  [[Example](https://storage.googleapis.com/yeolab_ucsd_edu/LabWebsite/Paper%20Data/EXAMPLE.xls)]
+  [[Example](https://s3-us-west-2.amazonaws.com/yeolab.github.io-data/data/2011/EXAMPLE.xls)]
  
 
 * [**Genome-wide approaches in the study of microRNA biology**](/papers/2011/128_fta.pdf)  
@@ -596,8 +596,7 @@ Cell Reports
 
 * [**Immunoglobulin light chains in zebrafish: genomic configurations and inversional rearrangements between (V(L)-J(L)C(L)) gene clusters**](/papers/2007/sdarticle.pdf)  
   Zimmerman AM, **Yeo GW**, Howe K, Maddox BJ, and Steiner LA.  
-  *Developmental and Comparative Immunology*    
-  [[Data](/papers/2007DiscoveryandAnalysis_data_2007.tar)]    
+  *Developmental and Comparative Immunology*      
  
 
 * [**The EJC factor eIFAIII modulates synaptic strength and neuronal protein expression**](/papers/2007/CorinnaGiorgi_Cell_2007.pdf)  
