@@ -5,9 +5,11 @@ Position_suffix: (M.D.Ph.D.)
 Affiliation: UCSD School of Medicine       
 Email: mfang at ucsd.edu
 Fellowship:
-Alumni_or_current: Current
+Alumni_or_current: Alumni
 Headshot: /images/people/mark_fang.jpg
 Template: person
+Current_position: Medical School, UCSD
+End_date: 2019-05-31
 <!-- Status: draft -->
 
 ## Degrees
