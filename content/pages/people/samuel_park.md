@@ -1,7 +1,7 @@
 Title: Samuel S. Park
 Date: 2019-04-01
 Position: Staff
-Position_suffix:
+Position_suffix: Research Associate I
 Affiliation:  Bioengineering: Biotechnology
 Email: ssp045 at ucsd.edu
 Fellowship:

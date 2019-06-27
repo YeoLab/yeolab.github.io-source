@@ -10,7 +10,7 @@ Neuron
 
 * [**Active Protein Neddylation or Ubiquitylation Is
 Dispensable for Stress Granule Dynamics**](/papers/2019/2019_Sebastian_CellReport.pdf)   
-Markmiller S, Fulzele A, Higgins R, Leonard M, Yeo GW§, Bennett EJ§. (§ co-corresponding)      
+Markmiller S, Fulzele A, Higgins R, Leonard M, **Yeo GW**§, Bennett EJ§. (§ co-corresponding)      
 Cell Reports  
   
   

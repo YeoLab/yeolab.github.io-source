@@ -1,8 +1,8 @@
 Title: Krysten Jones   
 Date: 2019-03-20
-Position: Visiting Graduate Student
-Position_suffix: 
-Affiliation: (Ryan Marina)
+Position: Staff
+Position_suffix: Research Associate I
+Affiliation:
 Email: kjones44 at calpoly.edu
 Fellowship: CIRM Intern
 Headshot: /images/people/krysten_jones.jpg
