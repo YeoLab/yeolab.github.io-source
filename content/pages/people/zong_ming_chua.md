@@ -7,9 +7,9 @@ Email: zmchua at ucsd.edu
 Fellowship:
 Headshot: /images/people/zong_ming.png
 Template: person
-Alumni_or_current: Current
-Current_position: UCSD, CA
-End_date: 
+Alumni_or_current: Alumni
+Current_position: PhD student,Sanford Burnham Prebys Medical Discovery Institute , CA
+End_date: 2019-06-16
 <!-- Status: draft -->
 
 ## Degrees

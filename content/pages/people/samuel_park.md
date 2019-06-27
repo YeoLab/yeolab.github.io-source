@@ -1,6 +1,6 @@
 Title: Samuel S. Park
 Date: 2019-04-01
-Position: Undergraduate Student
+Position: Staff
 Position_suffix:
 Affiliation:  Bioengineering: Biotechnology
 Email: ssp045 at ucsd.edu
