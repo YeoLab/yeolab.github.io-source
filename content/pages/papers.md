@@ -4,6 +4,12 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ##2019
+* [**Small-Molecule Modulation of TDP-43 Recruitment to Stress Granules Prevents Persistent TDP-43 Accumulation in ALS/FTD**](/papers/2019/2019_MarkFang_Neruon.pdf)  
+Fang M, Markmiller S, Vu AQ, Javaherian A, Dowdle WE, Jolivet P, Bushway PJ, Castello NA, Baral A, Chan MY, Linsley JW, Linsley D, Mercola M, Finkbeiner S, Lecuyer E, Lewcock JW, **Yeo GW**.   
+Neuron    
+[[UCSD News](https://health.ucsd.edu/news/releases/Pages/2019-07-01-protein-clumps-in-als-neurons-provide-potential-therapy-targets.aspx?fbclid=IwAR0Y6yVIRu2WKT-EtjdThBnJbULENPCl6PBMnlA795T-qkuEdBAQC--YffM)]
+
+
 * [**Disruption of RNA Metabolism in Neurological Diseases and Emerging Therapeutic Interventions**](/papers/2019/2019_Nussbacher_neuron_review.pdf)   
 Nussbacher JK, Tabet R, **Yeo GW**§, Lagier-Tourenne C§. (§ co-corresponding)     
 Neuron 
