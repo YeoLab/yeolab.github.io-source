@@ -8,6 +8,7 @@ icon: mdi mdi-file-multiple
 Fang M, Markmiller S, Vu AQ, Javaherian A, Dowdle WE, Jolivet P, Bushway PJ, Castello NA, Baral A, Chan MY, Linsley JW, Linsley D, Mercola M, Finkbeiner S, Lecuyer E, Lewcock JW, **Yeo GW**.   
 Neuron    
 [[UCSD News](https://health.ucsd.edu/news/releases/Pages/2019-07-01-protein-clumps-in-als-neurons-provide-potential-therapy-targets.aspx?fbclid=IwAR0Y6yVIRu2WKT-EtjdThBnJbULENPCl6PBMnlA795T-qkuEdBAQC--YffM)]
+ <a href="https://f1000.com/prime/736084882?bd=1" target="_blank"><img src="https://s3.amazonaws.com/cdn.f1000.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
 
 * [**Disruption of RNA Metabolism in Neurological Diseases and Emerging Therapeutic Interventions**](/papers/2019/2019_Nussbacher_neuron_review.pdf)   
