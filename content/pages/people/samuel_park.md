@@ -15,7 +15,18 @@ B.S. Bioengineering: Biotechnology, University of California, San Diego, 2019 <b
 A.S. Biology, Physics, Mathematics, Glendale Community College, 2017 <br>
 
 ## Summary
-Samuel S. Park is a recent Bioengineering undergraduate from UCSD. He previously worked on generating the CRISPRi library for JCVI’s synthetic organism, “The Minimal Cell,” working under Dr. Yo Suzuki. Looking to the future his interests lies in four fields: 1. Fusing Synthetic Biology with Microbiome Research 2. Treat Superbugs with Bacteriophages  3. Guiding Cancer cells back to normalcy via Directed Mutagenesis (in vivo).   4. Utilizing Prion proteins as a therapeutic . One day, Samuel hopes to research one of these topics in depth during his PhD. Outside the lab, Samuel enjoys rock climbing, surfing and playing Pokémon Go!
+Samuel S. Park is a recent Bioengineering undergraduate from UCSD. Previously worked on generating the CRISPRi library for JCVI’s synthetic organism, “The Minimal Cell,” working with Dr. Yo Suzuki.
+
+Looking to the future his interests lies in… 
+
+1. Consistent/Selective manipulation of Gut Microbiome composition. 
+2. Determining optimal personalized Gut Microbiome composition. 
+3. Streamlining FMT for post Antibiotic Therapy 
+4. Fusing Synthetic Biology with Microbiome Research. 
+5. Treat Malicious Microbes with Bacteriophages. 
+6. Guiding Cancer cells back to normalcy via Directed Mutagenesis (in vivo). 
+7. Utilizing Prion proteins as a therapeutic . 
+
 
 ##Publications
 Coming Soon!
