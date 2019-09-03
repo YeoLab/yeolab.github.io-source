@@ -4,6 +4,10 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ##2019
+* [**Complex Oscillatory Waves Emerging from Cortical Organoids Model Early Human Brain Network Development**](/papers/2019/Trujillo_CellStemCell2019.pdf)   
+Trujillo CA, Gao R, Negraes PD, Gu J, Buchanan J, Preissl S, Wang A, Wu W, Haddard GG, Chaim IA, Domissy A, Vandenberghe M, Devor A, **Yeo GW**, Voytek B, Muotri AR.    
+Cell Stem Cell, 2019
+
 * [**Small-Molecule Modulation of TDP-43 Recruitment to Stress Granules Prevents Persistent TDP-43 Accumulation in ALS/FTD**](/papers/2019/2019_MarkFang_Neruon.pdf)  
 Fang M, Markmiller S, Vu AQ, Javaherian A, Dowdle WE, Jolivet P, Bushway PJ, Castello NA, Baral A, Chan MY, Linsley JW, Linsley D, Mercola M, Finkbeiner S, Lecuyer E, Lewcock JW, **Yeo GW**.   
 Neuron    
