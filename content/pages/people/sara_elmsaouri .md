@@ -11,7 +11,7 @@ Template: person
 <!-- Status: draft -->
 
 ## Degrees
-B.A. Biological Sciences,Cornell University  2015<br>
+B.A. Biological Sciences, Cornell University, 2015<br>
 
 
 ## Summary
