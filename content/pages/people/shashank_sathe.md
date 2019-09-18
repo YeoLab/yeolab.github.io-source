@@ -11,10 +11,18 @@ Alumni_or_current: Current
 <!-- Status: draft -->
 
 ## Degrees
-Coming Soon!!
+B.Tech, Bioinformatics, D.Y.Patil University, Mumbai, India, 2010<br>
+M.S, Bioinformatics, San Diego State University, San Diego, USA, 2015<br>
+
 
 ## Summary
-Coming Soon!!
+
+Shashank received his Bachelor of Technology degree in Bioinformatics from the Dr.D.Y.Patil University in Mumbai, India in 2010. He moved to USA to pursue graduate studies in Bioinformatics at the San Diego State University in 2011 and achieved his Master's degree in 2015.
+
+Shashank started his Bioinformatics career in 2013 as an Intern at the Allen Lab in J.Craig Venter Institute, where he performed transcriptomic analyses on marine species such as diatoms. In 2014, Shashank joined Dr. Yeo's group as a Bioinformatics staff member, focused on analyzing RNA processing data using computational methods.
+
+Currently, Shashank works on studying RNA subcellular localization and RNA-RBP interactions under stress, developmental and diseased conditions.
+
 ## Publications
 
 * Tan FE §, **Sathe S** §, Wheeler EC, Nussbacher JK, Peter S, Yeo GW . A Transcriptome-wide Translational Program Defined by LIN28B Expression Level.  Mol Cell. 2018 Dec (§ co-first author )
