@@ -4,6 +4,19 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ##2019
+* [**Pervasive Chromatin-RNA binding protein interactions enable RNA-based Regulation of Transcription**]()   
+Xiao R, Chen JY, Liang Z, Luo D, Chen G, Lu ZJ, Chen Y, Zhou B, Li H, Du X, Yang Y, San M, Wei X, Liu W, Lécuyer E, Graveley BR, **Yeo GW**, Burge CB, Zhang MQ, Zhou Y, Fu XD.
+Cell
+
+* [**Peptide Brush Polymers for Efficient Delivery of a Gene Editing Protein to Stem Cells**](/papers/2019/Blum_et_al-2019-Angewandte_Chemie_International_Edition.pdf)  
+Blum AP, Nelles DA, Hidalgo FJ, Touve MA, Sim DS, Madrigal AA, **Yeo GW**, Gianneschi NC.
+Angew Chem Int Ed Engl
+
+* [**A protein-RNA interaction atlas of the ribosome biogenesis factor AATF**](/papers/2019/Kaiser_sciRep.2019.pdf)   
+Kaiser RWJ, Ignarski M, Van Nostrand EL, Frese CK, Jain M, Cukoski S, Heinen H, Schaechter M, Seufert L, Bunte K, Frommolt P, Keller P, Helm M, Bohl K, Höhne M, Schermer B, Benzing T, Höpker K, Dieterich C, **Yeo GW**, Müller RU, Fabretti F.  
+Sci Rep
+
+
 * [**Complex Oscillatory Waves Emerging from Cortical Organoids Model Early Human Brain Network Development**](/papers/2019/Trujillo_CellStemCell2019.pdf)   
 Trujillo CA, Gao R, Negraes PD, Gu J, Buchanan J, Preissl S, Wang A, Wu W, Haddard GG, Chaim IA, Domissy A, Vandenberghe M, Devor A, **Yeo GW**, Voytek B, Muotri AR.    
 Cell Stem Cell, 2019
