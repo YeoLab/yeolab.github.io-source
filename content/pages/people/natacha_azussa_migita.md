@@ -7,8 +7,8 @@ Email: nazussamigita at ucsd.edu
 Fellowship: Brazilian Federal Government Fellow
 Headshot: /images/people/natacha_azussa_migita.jpg
 Template: person
-Alumni_or_current: current
-Current_position: 
+Alumni_or_current: Alumni
+Current_position: Graduate Student in Brazil
 End_date:
 <!-- Status: draft -->
 
