@@ -20,6 +20,9 @@ Stefan received his PhD in Chemistry and Biochemistry from the University of Col
 
 
 ## Publications
+Di Stefano B, Luo EC, Haggerty C, **Aigner S**, Charlton J, Brumbaugh J, Ji F, Rabano Jiménez I, Clowers KJ, Huebner AJ, Clement K, Lipchina I, de Kort MAC,Anselmo A, Pulice J, Gerli MFM, Gu H, Gygi SP, Sadreyev RI, Meissner A, Yeo GW, Hochedlinger K. The RNA Helicase DDX6 Controls Cellular Plasticity by Modulating P-Body Homeostasis. Cell Stem Cell. 2019 Sep 27. doi:
+10.1016/j.stem.2019.08.018.
+
  Kathuria A, Nowosiad P, Jagasia R, **Aigner S**, Taylor RD, Andreae LC, Gatford NJF, Lucchesi W, Srivastava DP, Price J. Stem cell-derived neurons from autistic individuals with SHANK3 mutation show morphogenetic abnormalities during early development. Mol Psychiatry. 2017 Sep 26. doi: 10.1038/mp.2017.185.
 
 Batra R, Nelles DA, Pirie E, Blue SM, Marina RJ, Wang H, Chaim IA, Thomas JD, Zhang N, Nguyen V, **Aigner S**, Markmiller S, Xia G, Corbett KD, Swanson MS, Yeo GW. Elimination of Toxic Microsatellite Repeat Expansion RNA by RNA-Targeting Cas9. Cell. 2017 Aug 10. doi: 10.1016/j.cell.2017.07.010.
