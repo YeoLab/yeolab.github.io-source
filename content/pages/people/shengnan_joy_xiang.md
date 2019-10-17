@@ -14,7 +14,7 @@ End_date:
 ## Degrees
 Ph.D. in Bioengineering, Stanford University, 2018<br>
 M.S. in Biological Engineering, Stanford University, 2014<br>
-MBSc Eng in  Biomedical Engineering, Duke University 2011<br>
+MBSc Eng in  Biomedical Engineering, Duke University, 2011<br>
 
 ## Summary
 
