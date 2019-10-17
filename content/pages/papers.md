@@ -9,7 +9,7 @@ Di Stefano B, Luo EC, Haggerty C, Aigner S, Charlton J, Brumbaugh J, Ji F, Raban
 Cell Stem Cell. 
 
 
-* [**Pervasive Chromatin-RNA binding protein interactions enable RNA-based Regulation of Transcription**]()   
+* [**Pervasive Chromatin-RNA binding protein interactions enable RNA-based Regulation of Transcription**](/papers/2019/2019_Xiao_cell.pdf)   
 Xiao R, Chen JY, Liang Z, Luo D, Chen G, Lu ZJ, Chen Y, Zhou B, Li H, Du X, Yang Y, San M, Wei X, Liu W, Lécuyer E, Graveley BR, **Yeo GW**, Burge CB, Zhang MQ, Zhou Y, Fu XD.   
 Cell
 
