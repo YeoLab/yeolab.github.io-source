@@ -21,4 +21,6 @@ Jackie is a PhD student in the Bioengineering department at UCSD. She graduated 
 
 
 ## Publications
+* Lorenz DA, Sathe S, *Einstein JM*, Yeo GW. Direct RNA sequencing enables m6A detection in endogenous transcript isoforms at base specific resolution. RNA. 2019 Oct 
+
 * **Einstein JM**, Yeo GW. [**Making the cut in the dark genome**](/papers/2016/Jaclyn_Science_2016.pdf). Science. 2016 Nov 11;354(6313):705-706. 

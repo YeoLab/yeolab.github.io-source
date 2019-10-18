@@ -6,7 +6,7 @@ icon: mdi mdi-file-multiple
 ##2019
 
 * [**Direct RNA sequencing enables m6A detection in endogenous transcript isoforms at base specific resolution**]((/papers/2019/2019-Lorenz-RNA.pdf)     
-Lorenz DA, Sathe S, Einstein JM, Yeo GW     
+Lorenz DA, Sathe S, Einstein JM, **Yeo GW**    
 RNA
 
 * [**The RNA Helicase DDX6 Controls Cellular Plasticity by Modulating P-Body Homeostasis**](/papers/2019/Stefano_Enching_cellstemmcell_2019.pdf)   

@@ -25,6 +25,8 @@ Currently, Shashank works on studying RNA subcellular localization and RNA-RBP i
 
 ## Publications
 
+* Lorenz DA  §, **Sathe S**  §, Einstein JM, Yeo GW. Direct RNA sequencing enables m6A detection in endogenous transcript isoforms at base specific resolution. RNA. 2019 (§ co-first author )
+
 * Tan FE §, **Sathe S** §, Wheeler EC, Nussbacher JK, Peter S, Yeo GW . A Transcriptome-wide Translational Program Defined by LIN28B Expression Level.  Mol Cell. 2018 Dec (§ co-first author )
 
 * Lardelli RM, Schaffer AE, Eggens VR, Zaki MS, Grainger S, **Sathe S**, Van Nostrand EL, Schlachetzki Z, Rosti B, Akizu N, Scott E, Silhavy JL, Heckman LD,
