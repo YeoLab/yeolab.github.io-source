@@ -4,10 +4,14 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ##2019
+
+* [**Direct RNA sequencing enables m6A detection in endogenous transcript isoforms at base specific resolution**]((/papers/2019/2019-Lorenz-RNA.pdf)     
+Lorenz DA, Sathe S, Einstein JM, Yeo GW     
+RNA
+
 * [**The RNA Helicase DDX6 Controls Cellular Plasticity by Modulating P-Body Homeostasis**](/papers/2019/Stefano_Enching_cellstemmcell_2019.pdf)   
 Di Stefano B, Luo EC, Haggerty C, Aigner S, Charlton J, Brumbaugh J, Ji F, Rabano Jiménez I, Clowers KJ, Huebner AJ, Clement K, Lipchina I, de Kort MAC, Anselmo A, Pulice J, Gerli MFM, Gu H, Gygi SP, Sadreyev RI, Meissner A, **Yeo GW §**, Hochedlinger K§. (§ co-corresponding)       
-Cell Stem Cell. 
-
+Cell Stem Cell     
 
 * [**Pervasive Chromatin-RNA binding protein interactions enable RNA-based Regulation of Transcription**](/papers/2019/2019_Xiao_cell.pdf)   
 Xiao R, Chen JY, Liang Z, Luo D, Chen G, Lu ZJ, Chen Y, Zhou B, Li H, Du X, Yang Y, San M, Wei X, Liu W, Lécuyer E, Graveley BR, **Yeo GW**, Burge CB, Zhang MQ, Zhou Y, Fu XD.   
