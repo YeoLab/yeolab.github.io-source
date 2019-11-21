@@ -5,7 +5,7 @@ icon: mdi mdi-file-multiple
 # Papers
 ##2019
 
-* [**Direct RNA sequencing enables m6A detection in endogenous transcript isoforms at base specific resolution**](/papers/2019/2019-Lorenz-RNA.pdf)     
+* [**Direct RNA sequencing enables m6A detection in endogenous transcript isoforms at base specific resolution**](/papers/2019/2019-Lorenz-RNA.pdf )     
 Lorenz DA, Sathe S, Einstein JM, **Yeo GW**    
 RNA
 
