@@ -5,9 +5,10 @@ Position_suffix: (Ph.D.)
 Affiliation: Biomedical Sciences
 Email: yis215 at ucsd.edu
 Fellowship:
-Alumni_or_current: Current
+Alumni_or_current: Alumni
 Headshot: /images/people/yilan_shi.jpg
 Template: person
+End_date: 2019-11-31
 <!-- Status: draft -->
 
 ## Degrees
