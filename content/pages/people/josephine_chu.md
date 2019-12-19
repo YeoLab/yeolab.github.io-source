@@ -7,9 +7,9 @@ Email: jchu at sdsu.edu
 Fellowship: CIRM
 Headshot: /images/people/josephine_chu.jpg
 Template: person
-Alumni_or_current: Current
+Alumni_or_current: Alumni
 Current_position: SDSU, CA
-End_date: 
+End_date: 2019-12-18
 <!-- Status: draft -->
 
 ## Degrees
