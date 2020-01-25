@@ -3,31 +3,45 @@ Date: 2017-02-20
 icon: mdi mdi-file-multiple
 
 # Papers
-##2019
+### 2020
+
+* [**The mRNA decay factor CAR-1/LSM14 regulates axon regeneration via mitochondrial calcium dynamics**](/papers/2020/Tang_CurrentBiology2020.pdf)   
+Tang NH, Kim KW, Xu S, Blazie SM, Yee BA, **Yeo GW**, Jin Y, Chisholm AD   
+Current Biology   
+ 
+ 
+ 
+### 2019
 
 * [**Direct RNA sequencing enables m6A detection in endogenous transcript isoforms at base specific resolution**](/papers/2019/2019-Lorenz-RNA.pdf)     
 Lorenz DA, Sathe S, Einstein JM, **Yeo GW**    
 RNA
 
+
 * [**The RNA Helicase DDX6 Controls Cellular Plasticity by Modulating P-Body Homeostasis**](/papers/2019/Stefano_Enching_cellstemmcell_2019.pdf)   
 Di Stefano B, Luo EC, Haggerty C, Aigner S, Charlton J, Brumbaugh J, Ji F, Rabano Jiménez I, Clowers KJ, Huebner AJ, Clement K, Lipchina I, de Kort MAC, Anselmo A, Pulice J, Gerli MFM, Gu H, Gygi SP, Sadreyev RI, Meissner A, **Yeo GW §**, Hochedlinger K§. (§ co-corresponding)       
 Cell Stem Cell     
+
 
 * [**Pervasive Chromatin-RNA binding protein interactions enable RNA-based Regulation of Transcription**](/papers/2019/2019_Xiao_cell.pdf)   
 Xiao R, Chen JY, Liang Z, Luo D, Chen G, Lu ZJ, Chen Y, Zhou B, Li H, Du X, Yang Y, San M, Wei X, Liu W, Lécuyer E, Graveley BR, **Yeo GW**, Burge CB, Zhang MQ, Zhou Y, Fu XD.   
 Cell
 
+
 * [**Peptide Brush Polymers for Efficient Delivery of a Gene Editing Protein to Stem Cells**](/papers/2019/Blum_et_al-2019-Angewandte_Chemie_International_Edition.pdf)  
 Blum AP, Nelles DA, Hidalgo FJ, Touve MA, Sim DS, Madrigal AA, **Yeo GW**, Gianneschi NC.   
 Angew Chem Int Ed Engl
+
 
 * [**A protein-RNA interaction atlas of the ribosome biogenesis factor AATF**](/papers/2019/Kaiser_sciRep.2019.pdf)   
 Kaiser RWJ, Ignarski M, Van Nostrand EL, Frese CK, Jain M, Cukoski S, Heinen H, Schaechter M, Seufert L, Bunte K, Frommolt P, Keller P, Helm M, Bohl K, Höhne M, Schermer B, Benzing T, Höpker K, Dieterich C, **Yeo GW**, Müller RU, Fabretti F.     
 Sci Rep
 
+
 * [**Complex Oscillatory Waves Emerging from Cortical Organoids Model Early Human Brain Network Development**](/papers/2019/Trujillo_CellStemCell2019.pdf)   
 Trujillo CA, Gao R, Negraes PD, Gu J, Buchanan J, Preissl S, Wang A, Wu W, Haddard GG, Chaim IA, Domissy A, Vandenberghe M, Devor A, **Yeo GW**, Voytek B, Muotri AR.      
 Cell Stem Cell   
+
 
 * [**Small-Molecule Modulation of TDP-43 Recruitment to Stress Granules Prevents Persistent TDP-43 Accumulation in ALS/FTD**](/papers/2019/2019_MarkFang_Neruon.pdf)  
 Fang M, Markmiller S, Vu AQ, Javaherian A, Dowdle WE, Jolivet P, Bushway PJ, Castello NA, Baral A, Chan MY, Linsley JW, Linsley D, Mercola M, Finkbeiner S, Lecuyer E, Lewcock JW, **Yeo GW**.   
@@ -49,7 +63,8 @@ Markmiller S, Fulzele A, Higgins R, Leonard M, **Yeo GW**§, Bennett EJ§. (§ c
 Cell Reports  
   
   
-* [**Allele-specific binding of RNA-binding proteinsreveals functional genetic variants in the RNA**](/papers/2019/2019_yang_neuronCommu.pdf)  
+* [**Allele-specific binding of RNA-binding proteins
+reveals functional genetic variants in the RNA**](/papers/2019/2019_yang_neuronCommu.pdf)  
 Yang E-W, Bahn JH, Hsiao EY-H, Tan BX, Sun Y, Fu T, Zhou B, Graveley BR, Burge CB, **Yeo GW**, Xiao X   
 Nature Communications  
 
@@ -58,7 +73,7 @@ Nature Communications
 Quinones-Valdez G, Tran SS, Jun HI, Bahn JH, Yang EW, Zhan L, Brümmer A, Wei X, Van Nostrand EL, Pratt GA, **Yeo GW**, Graveley BR, Xiao X.   
 Commun Biol.
 
-##2018
+### 2018
 
 * [**Patch-Seq Protocol to Analyze the Electrophysiology, Morphology and Transcriptome of Whole Single Neurons Derived From Human Pluripotent Stem Cells**](/papers/2018/Hurk_FrontMolNeurosci_2018.pdf)  
 van den Hurk M, Erwin JA, **Yeo GW**, Gage FH, Bardy C.  
@@ -72,6 +87,7 @@ Nat Neurosci.
 Tan FE, Sathe S, Wheeler EC, Nussbacher JK, Peter S, **Yeo GW**   
 Molecular Cell
 
+
 * [**RBP-Maps enables robust generation of splicing regulatory maps**](/papers/2018/BrianYee-rna.pdf)     
 Yee BA, Pratt GA, Graveley BR, Van Nostrand EL§, **Yeo GW**§ (§ co-corresponding )     
 RNA
@@ -81,16 +97,18 @@ RNA
 Dominguez D, Freese P, Alexis MS, Su A, Hochman M, Palden T, Bazile C, Lambert NJ, Van Nostrand EL, Pratt GA, **Yeo GW**, Graveley BR, Burge CB.   
 Molecular Cell
 
+
 * [**Transcriptome–pathology correlation identifies interplay between TDP‑43 and the expression of its kinase CK1E in sporadic ALS**](/papers/2018/Krach_Batra_ActaNeuropathologica_2018.pdf)   
 Krach F, Batra R, Wheeler EC, Vu AQ, Wang R, Hutt K, Rabin SJ, Baughn MW, Libby RT, Diaz‑Garcia S, Stauffer J, Pirie E, Saberi S, Rodriguez M, Madrigal AA, Kohl Z, Winner B, **Yeo GW**, Ravits J.   
 Acta Neuropathologica
+
 
 * [**Tissue-selective restriction of RNA editing of CaV1.3 by splicing factor SRSF9**](/papers/2018/SRSF9_NuclicAcids_2018.pdf)      
 Huang H, Kapeli K, Jin W, Wong YP, Arumugam TV, Koh JH, Srimasorn S, Mallilankaraman K, Chua JJE, **Yeo GW**, Soong TW.  
 Nucleic Acids Res
 
-* [**Integrin Activation Controls Regulatory T Cell-Mediated
-Peripheral Tolerance**](/papers/2018/Klann_JIummnol_2018.pdf)    
+
+* [**Integrin Activation Controls Regulatory T Cell-Mediated Peripheral Tolerance**](/papers/2018/Klann_JIummnol_2018.pdf)    
 Klann JE, Kim SH, Remedios KA, He Z, Metz PJ, Lopez J, Tysl T, Olvera JG, Ablack JN, Cantor JM, Boland BS, **Yeo GW**, Zheng Y, Lu LF, Bui JD, Ginsberg MH, Petrich BG, Chang JT.  
 J Immunol 
 
@@ -98,6 +116,7 @@ J Immunol
 * [**Systematic Discovery of RNA Binding Proteins that Regulate MicroRNA Levels**](/papers/2018/Julia_molecularcell_2018.pdf)   
 Nussbacher JK, **Yeo GW**  
 Molecular Cell
+
 
 * [**Context-Dependent and Disease-Specific Diversity in Protein Interactions within Stress Granules**](/papers/2018/Sebastian_2018_cell.pdf)  
 Markmiller S, Soltanieh S, Server KL, Mak R, Jin W, Fang MY, Luo E-C, Krach F, Yang D, Sen A, Fulzele A, Wozniak J, Gonzalez DJ, Kankel MW, Gao F-B, Bennett EJ, Lecuyer E, **Yeo GW**.  
@@ -126,6 +145,7 @@ Nucleic Acids Res
 Deffit SN, Yee BA, Manning AC, Rajendren S, Vadlamani P, Wheeler EC, Domissy A, Washburn MC, **Yeo GW**§, Hundley HA§. (§ co-corresponding )     
 Elife
 
+
 * [**Advances and challenges in the detection of transcriptome-wide protein–RNA interactions**](/papers/2017/Wheeler_Reviews__2017.pdf)   
 Wheeler EC, Van Nostrand EL, **Yeo GW**   
 WILEY INTERDISCIPLINARY REVIEWS: RNA
@@ -138,6 +158,7 @@ Nat Struct Mol Biol
 * [**Variation in single-nucleotide sensitivity of eCLIP derived from reverse transcription conditions**](/papers/2017/Eric_singel_nucelotide_Methods_2017.pdf)  
 Van Nostrand EL, Shishkin AA, Pratt GA, Nguyen TB, **Yeo GW**   
 Methods
+
 
 * [**Elimination of Toxic Microsatellite Repeat Expansion RNA by RNA-Targeting Cas9**](/papers/2017/Ron_cell_2017.pdf)   
 Batra R, Nelles DA, Pirie E, Blue SM, Marina RJ, Wang H, Chaim IA, Thomas JD, Zhang N, Nguygen V, Aigner S, Markmiller S, Xia G, Corbett KD, Swanson MS, **Yeo GW**.   
@@ -152,33 +173,41 @@ Cell
 Van Nostrand EL, Nguyen TB, Gelboin-Burkhart C, Wang R, Blue SM, Pratt GA, Louie AL, **Yeo GW**.  
 Methods Mol Biol.
 
+
 * [**Genetic mutations in RNA‐binding proteins and their roles in ALS**](/papers/2017/Kapeli_Human_Genetics_2017.pdf)   
 Kapeli K, Martinez FJ, **Yeo GW**   
 Human Genetics
+
 
 * [**Single-Cell Alternative Splicing Analysis with Expedition Reveals Splicing Dynamics during Neuron Differentiation**](/papers/2017/Olga_Yan_MolecularCell_2017.pdf)  
 Song Y, Botvinnik OB, Lovci MT, Kakaradov B, Liu PL, Xu JL,**Yeo GW**     
 Molecular Cell
 
+
 * [**Pseudotemporal ordering of single cells reveals metabolic control of postnatal beta-cell proliferation**](/papers/2017/Zeng_C_Cell_Metabolism_2017.pdf)  
   Zeng C, Mulas F, Sui Y, Guan T, Miller N, Tan Y, Liu F, Jin W, Carrano AC, Huising MO, Shirihai OS, **Yeo GW**, and Sander M.   
 Cell Metabolism
+
 
 *  [**iPSCORE: A resource of 222 iPSC lines enabling functional characterization of genetic variation across a variety of cell types**](/papers/2017/Panopoulos_stemcellReports_2017.pdf)   
   Panopoulos AD, D’Antonio M, Benaglio P, Williams R, Hashem SI, Schuldt BM, DeBoever C, Arias AD, Garcia M, Nelson B, Harismendy O, Grinstein JD, Drees F, Okubo J, Diffenderfer KE, Hishida Y, Modesto V, Dargitz CT, Feiring R, Zhao C, McGarry TJ, Matsui H, Reyna J, Aguirre A, Rao F, O’Connor DT, **Yeo GW**, Evans SM, Chi NC, Jepsen K, Nariai N, Müller F-J, Goldstein LSB, Izpisua Belmonte JC, Adler E, Loring JF, Berggren WT, D’Antonio-Chronowska A, Smith EN, and Frazer KA.   
 Stem Cell Reports
 
+
 *  [**High-throughput and cost-effective characterization of induced pluripotent stem cells**](/papers/2017/D_Antonio_stem_cell_reports_2017.pdf)   
  D’Antonio M, Woodruff G, Nathanson JL, D’Antonio-Chronowska A, Arias A, Matsui H, Williams R, Herrera C, Reyna SM, **Yeo GW**, Goldstein LSB, Panopoulos AD, and Frazer KA.   
 Stem Cell Reports
+
 
 * [**Interaction landscape of inherited polymorphisms with somatic events in cancer**](/papers/2017/Carter_Cancer_Discov_2017.pdf)  
   Carter H, Marty R, Hofree M, Gross AM, Jensen J, Fisch KM, Wu X, DeBoever C, Van Nostrand EL, Song Y, Wheeler E, Kreisberg JF, Lippman SM, **Yeo GW**, Gutkind JS, and Ideker T.  
 Cancer Discovery 
 
+
 * [**Biallelic mutations in the 3′ exonuclease TOE1 cause pontocerebellar hypoplasia and uncover a role in snRNA processing**](/papers/2017/Rea_natureGenetics_2017.pdf)    
 Lardelli RM, Schaffer AE, Eggens VR, Zaki MS, Grainger S, Sathe S, Van Nostrand EL, Schlachetzki Z, Rosti B, Akizu N, Scott E, Silhavy JL, Heckman LD, Rosti RO, Dikoglu E, Gregor A, Guemez-Gamboa A, Musaev D, Mande R, Widjaja A, Shaw TL, Markmiller S, Marin-Valencia I, Davies JH, de Meirleir L, Kayserili H, Altunoglu U, Freckmann ML, Warwick L, Chitayat D, Blaser S, Çağlayan AO, Bilguvar K, Per H, Fagerberg C, Christesen HT, Kibaek M, Aldinger KA, Manchester D, Matsumoto N, Muramatsu K, Saitsu H, Shiina M, Ogata K, Foulds N, Dobyns WB, Chi NC, Traver D, Spaccini L, Bova SM, Gabriel SB, Gunel M, Valente EM, Nassogne MC, Bennett EJ, **Yeo GW**, Baas F, Lykke-Andersen J, Gleeson JG.  
 Nature Genetics
+
 
 * [**Early transcriptional and epigenetic regulation of CD8+ T cell differentiation revealed by single-cell RNA sequencing**](/papers/2017/KakaradovNatureImmunology2017.pdf)  
   Kakaradov B , Arsenio J, Widjaja CE, He Z, Aigner S, Metz PJ, Yu B, Wehrens EJ, Lopez J, Kim SH, Zuniga EI, Goldrath AW, Chang
@@ -234,7 +263,6 @@ Van Nostrand EL, Gelboin-Burkhart C, Wang R, Pratt GA, Blue SM, and **Yeo GW**. 
   Scientific Reports  
 
 
-
 * [**Predicting the functional states of human iPSC-derived neurons with single-cell RNA-seq and electrophysiology**](/papers/2016/Bardy_MolecularPsychiatry_2016.pdf)  
   Bardy C§, Hurk M, Kakaradov B, Erwin J, Jaeger B, Hernandez R, Eames T, Paucar A, Gorris M, Marchand C, Jappelli R, Barron J, Bryant A, Kellogg M, Lasken R, Rutten B, Steinbusch H, **Yeo GW**§, and Gage FH§. (§ co-corresponding)   
   Molecular Psychiatry  
@@ -249,7 +277,6 @@ Van Nostrand EL, Gelboin-Burkhart C, Wang R, Pratt GA, Blue SM, and **Yeo GW**. 
 * [**Pairing beyond the seed supports microRNA targeting specificity**](/papers/2016/Jame_MolecularCell_2016.pdf)  
   Broughton JP,Lovci MT, Huang JL, **Yeo GW**, and Pasquinelli AE     
   Molecular Cell
-
 
 
 * [**Genomic analysis of the molecular neuropathology of tuberous sclerosis using a human stem cell model**](/papers/2016/Grabole_GenomeMedicine_2016.pdf)  
