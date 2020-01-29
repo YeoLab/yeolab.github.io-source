@@ -5,6 +5,11 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2020
 
+* [**Longitudinal assessment of tumor development using cancer avatars derived from genetically engineered pluripotent stem cells**](/papers/2020/Koga_NatureComms2020.pdf)  
+Koga T, Chaim IA, Benitez JA, Markmiller S, Parisian AD, Hevner RF, Turner KM, Hessenauer FM, D’Antonio M, Nguyen ND, Saberi S, Ma J, Miki S, Boyer AD, Ravits J, Frazer KA, Bafna V, Chen CC, Mischel PS, **Yeo GW §**, Furnari FB§.(§ co-corresponding)    
+Nature Communications
+
+
 * [**The mRNA decay factor CAR-1/LSM14 regulates axon regeneration via mitochondrial calcium dynamics**](/papers/2020/Tang_CurrentBiology2020.pdf)   
 Tang NH, Kim KW, Xu S, Blazie SM, Yee BA, **Yeo GW**, Jin Y, Chisholm AD   
 Current Biology   
