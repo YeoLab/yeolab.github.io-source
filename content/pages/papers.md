@@ -5,6 +5,11 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2020
 
+* [**RNA-targeting CRISPR systems from metagenomic discovery to transcriptomic engineering**](/papers/2020/Smargon_NCB_2020.pdf)    
+Smargon AA, Shi YJ, **Yeo GW**.    
+Nat Cell Biol.    
+
+
 * [**Longitudinal assessment of tumor development using cancer avatars derived from genetically engineered pluripotent stem cells**](/papers/2020/Koga_NatureComms2020.pdf)  
 Koga T, Chaim IA, Benitez JA, Markmiller S, Parisian AD, Hevner RF, Turner KM, Hessenauer FM, D’Antonio M, Nguyen ND, Saberi S, Ma J, Miki S, Boyer AD, Ravits J, Frazer KA, Bafna V, Chen CC, Mischel PS, **Yeo GW §**, Furnari FB§.(§ co-corresponding)    
 Nature Communications
