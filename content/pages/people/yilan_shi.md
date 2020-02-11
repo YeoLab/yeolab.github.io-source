@@ -24,4 +24,4 @@ Led by her broad interest in technology development and genetics, she is current
 She is also excited to develop her nascent computational and bioinformatics skills from the rich expertise offered by her lab during her PhD training. Outside the laboratory, she enjoys windsurfing, rock climbing, making sushi, and visiting the sunny San Diego beaches. 
 
 ## Publications
-Coming Soon!
+* Smargon AA, Shi YJ, Yeo GW. RNA-targeting CRISPR systems from metagenomic discovery to transcriptomic engineering. Nat Cell Biol. 2020

@@ -23,6 +23,8 @@ Aaron Smargon received his A.B. in Astrophysical Sciences from Princeton Univers
 
 ## Publications
 
+**A.A Smargon**, Y.J. Shi, G.W. Yeo. RNA-targeting CRISPR systems from metagenomic discovery to transcriptomic engineering. 2020. Nat cell Biol.
+
 **A.A. Smargon**§, D.B.T. Cox§ , N.K. Pyzocha§, K. Zheng, I.M. Slaymaker, ..., F. Zhang. Cas13b is a type VI-B CRISPR-associated RNA-guided RNase differentially regulated by accessory proteins Csx27 and Csx28. 2017. Molecular Cell. 65(4), 618.
 S. Shmakov, **A. Smargon**, D. Scott, D. Cox, N. Pyzocha, ..., F. Zhang, E.V. Koonin. Diversity and evolution of class 2 CRISPR–Cas systems. 2017. Nature Reviews Microbiology. 15(3), 169.
 **A. Smargon**, R. Mandelbaum, N. Bahcall, and M. Niederste-Ostholt. Detection of intrinsic cluster alignments to 100h−1 Mpc in the Sloan Digital Sky Survey. 2012. Monthly Notices of the Royal Astronomical Society. 423(1), 856.

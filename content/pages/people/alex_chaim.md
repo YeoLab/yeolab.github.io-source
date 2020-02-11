@@ -19,7 +19,8 @@ B.S. in Biology Universidad Simón Bolívar, 2008<br>
 
 Born and raised in Caracas, Venezuela, Alex graduated from the Universidad Simón Bolívar in Caracas with a B.S. in Biology where he tested novel biodegradable three-dimensional scaffolds for their use in cartilage tissue engineering. Alex joined the Department of Biological Engineering at MIT for his graduate studies. As part of his Ph.D. in Leona D. Samson’s laboratory Alex tried to answer the question: why do some individuals develop cancer and degenerative disease while others remain healthy? He focused on the study of cellular DNA repair capacity to tackle this question and development molecular tools to measure inter-individual differences in DNA repair capacity. Alex’s work focused specifically on the repair of DNA damage caused by endogenous cellular processes such as oxidation, alkylation and deamination, which are repaired by the base excision repair pathway. In 2016 Alex began his postdoctoral research with the Yeo lab, focusing on understanding the effects of nucleic acid damage on RNA Binding Protein biology during the development of neurodegenerative diseases. Alex is also interested in establishing single cell technologies in the lab with a specific focus on utilizing single cell transcriptomics in neurodegeneration models with the goal of identifying cell-specific molecular signatures that could allow for early intervention strategies
 
-##Publications
+## Publications
+
 * Koga T& , **Chaim IA&**, Benitez JA, Markmiller S, Parisian AD, Hevner RF, Turner KM, Hessenauer FM, D’Antonio M, Nguyen ND, Saberi S, Ma J, Miki S, Boyer AD, Ravits J, Frazer KA, Bafna V, Chen CC, Mischel PS, Yeo GW*, Furnari FB. Longitudinal assessment of tumor development using cancer avatars derived from genetically engineered pluripotent stem cells. Nature Communications, 2020. (& Co-authorship). 
 
 * Batra R, Nelles DA, Pirie E, Blue SM, Marina RJ, Wang H, **Chaim IA**, Thomas JD, Zhang N, Nguyen V, Aigner S, Markmiller S, Xia G, Corbett KD, Swanson MS, & Yeo GW (2017) Elimination of Toxic Microsatellite Repeat Expansion RNA by RNA-Targeting Cas9. Cell 170(5):899-912 e810.
@@ -36,8 +37,7 @@ Born and raised in Caracas, Venezuela, Alex graduated from the Universidad Simó
 
 * Nagel ZD, **Chaim IA**, & Samson LD (2014) Inter-individual variation in DNA repair capacity: a need for multi-pathway functional assays to promote translational DNA repair research. DNA Repair (Amst) 19:199-213.
 
-*	Nagel ZD, Margulies CM, **Chaim IA**, McRee SK, Mazzucato P, Ahmad A, Abo RP, Butty VL, Forget AL, & Samson LD (2014) Multiplexed DNA repair assays for multiple lesions and multiple doses via transcription inhibition and transcriptional mutagenesis. Proc Natl Acad Sci U S A 111(18):E1823-1832.
-
+* Nagel ZD, Margulies CM, **Chaim IA**, McRee SK, Mazzucato P, Ahmad A, Abo RP, Butty VL, Forget AL, & Samson LD (2014) Multiplexed DNA repair assays for multiple lesions and multiple doses via transcription inhibition and transcriptional mutagenesis. Proc Natl Acad Sci U S A 111(18):E1823-1832.
 
 * **Chaim IA**, Sabino MA, Mendt M, Muller AJ, & Ajami D (2012) Evaluation of the potential of novel PCL-PPDX biodegradable scaffolds as support materials for cartilage tissue engineering. J Tissue Eng Regen Med 6(4):272-279.
 
