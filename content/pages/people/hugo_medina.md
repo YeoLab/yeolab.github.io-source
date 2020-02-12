@@ -5,7 +5,7 @@ Position_suffix:
 Affiliation: Cellular and Molecular Medicine
 Email: hugo.c.medina at ucsd.edu 
 Fellowship: IRACDA
-Headshot: /images/people/hugo_medina.jpg
+Headshot: /images/people/ hugo_medina.jpg 
 Template: person
 alumni_or_current: Current
 Current_position: 
