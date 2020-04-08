@@ -5,6 +5,10 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2020
 
+* [**How RNA-Binding Proteins Interact with RNA: Molecules and Mechanisms**](/papers/2020/Corley_MolecularCellReview2020.pdf)   
+Corley M, Burns MC, **Yeo GW**.   
+Molecular Cell   
+
 * [**RNA-targeting CRISPR systems from metagenomic discovery to transcriptomic engineering**](/papers/2020/Smargon_NCB_2020.pdf)    
 Smargon AA, Shi YJ, **Yeo GW**.    
 Nat Cell Biol.    
@@ -29,7 +33,7 @@ RNA
 
 
 * [**The RNA Helicase DDX6 Controls Cellular Plasticity by Modulating P-Body Homeostasis**](/papers/2019/Stefano_Enching_cellstemmcell_2019.pdf)   
-Di Stefano B, Luo EC, Haggerty C, Aigner S, Charlton J, Brumbaugh J, Ji F, Rabano Jiménez I, Clowers KJ, Huebner AJ, Clement K, Lipchina I, de Kort MAC, Anselmo A, Pulice J, Gerli MFM, Gu H, Gygi SP, Sadreyev RI, Meissner A, **Yeo GW §**, Hochedlinger K§. (§ co-corresponding)       
+Di Stefano B&, Luo EC&, Haggerty C, Aigner S, Charlton J, Brumbaugh J, Ji F, Rabano Jiménez I, Clowers KJ, Huebner AJ, Clement K, Lipchina I, de Kort MAC, Anselmo A, Pulice J, Gerli MFM, Gu H, Gygi SP, Sadreyev RI, Meissner A, **Yeo GW §**, Hochedlinger K§. (§ co-corresponding)       
 Cell Stem Cell     
 
 
