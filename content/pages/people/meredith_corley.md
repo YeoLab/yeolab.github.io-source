@@ -6,7 +6,10 @@ Email: mecorley at ucsd.edu
 Fellowship: Milton Safenowitz Post Doctoral 
 Headshot: /images/people/meredith_corley.jpg
 Template: person
-Alumni_or_current: Current
+Alumni_or_current: Alumni
+Current_position: Scientist, Ionis Pharmaceuticals.
+End_date: 2020-05-01
+
 
 ## Degrees
 Ph.D. Bioinformatics and Computational Biology, The University of North Carolina at Chapel Hill, 2017   
