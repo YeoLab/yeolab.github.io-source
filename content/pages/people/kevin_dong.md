@@ -7,9 +7,9 @@ Email: kdd004 at ucsd.edu
 Fellowship:
 Headshot: /images/people/kevin_dong.jpg
 Template: person
-Alumni_or_current: Current
-Current_position: UCSD, CA
-End_date: 
+Alumni_or_current:Alumni
+Current_position: PhD student, Harvard University
+End_date: 2020-05-01
 <!-- Status: draft -->
 
 ## Degrees
