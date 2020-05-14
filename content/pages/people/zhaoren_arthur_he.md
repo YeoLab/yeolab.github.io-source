@@ -5,9 +5,11 @@ Position_suffix: (Ph.D.)
 Affiliation: Biomedical Sciences
 Email:
 Fellowship:
-Alumni_or_current: Current
+Alumni_or_current: Alumni
 Headshot: /images/people/zhaoren_he.jpg
+Current_position: Bioinformatics scientist at Guardant Health
 Template: person
+End_date: 2020-04-05
 <!-- Status: draft -->
 
 ## Degrees
