@@ -6,7 +6,9 @@ Email: elvannostrand at ucsd.edu
 Fellowship:
 Headshot: /images/people/eric_van_nostrand.jpg
 Template: person
-Alumni_or_current: Current
+Alumni_or_current: Alumni
+End_date: 2020-05-14
+Current_position: Assistant Professor, Baylor College of Medicine
 
 ## Degrees
 Ph.D. (Genetics), Stanford University School of Medicine, 2012<br>
