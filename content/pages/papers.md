@@ -5,6 +5,10 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2020
 
+* [**Pooled CRISPR screens with image-based phenotyping on microRaft arrays reveals stress granule-regulatory factors**](/papers/2020/Wheeler_et_al-2020-Nature_Methods.pdf)<br>
+Wheeler EC, Vu AQ, Einstein JM, DiSalvo M, Ahmed N, Van Nostrand EL, Shiskin AA, Jin W, Allbrighton NL, **Yeo GW**.<br>
+Nature Methods<br>
+
 * [**How RNA-Binding Proteins Interact with RNA: Molecules and Mechanisms**](/papers/2020/Corley_MolecularCellReview2020.pdf)   
 Corley M, Burns MC, **Yeo GW**.   
 Molecular Cell   
