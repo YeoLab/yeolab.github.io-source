@@ -22,6 +22,11 @@ Emily received her undergraduate degree from Indiana University where she comple
 
 
 ## Publications
+
+* **Wheeler EC** §, Vu A §, Einstein JM, DiSalvo M, Ahmed N, Van Nostrand EL, Shiskin AA, Jin W, Allbrighton NL, Yeo GW. Pooled CRISPR screens with image-based phenotyping on microRaft arrays reveals stress granule-regulatory factors. Nature Methods, 2020. (§ co-first author)
+
+* Van Nostrand EL, Pratt GA, Yee BA, **Wheeler E**, Blue SM, Mueller J, Park SS, Garcia KE, Gelboin-Burkhart C, Nguyen TB, Rabano I, Stanton R, Sundararaman B, Wang R, Fu X-D, Graveley BR, Yeo GW. Principles of RNA processing from analysis of enhanced CLIP maps for 150 RNA binding proteins. Genome Biology, 2020.
+
 *  Tan FE §, Sathe S §, **Wheeler EC**, Nussbacher JK, Peter S, Yeo GW . A Transcriptome-wide Translational Program Defined by LIN28B Expression Level.  Mol Cell. 2018 Dec (§ co-first author )
 
 * Transcriptome–pathology correlation identifies interplay between TDP‑43 and the expression of its kinase CK1E in sporadic ALS. Krach F, Batra R, **Wheeler EC**, Vu AQ, Wang R, Hutt K, Rabin SJ, Baughn MW, Libby RT, Diaz‑Garcia S, Stauffer J, Pirie E, Saberi S, Rodriguez M, Madrigal AA, Kohl Z, Winner B, Yeo GW, Ravits J. Acta Neuropathologica, 2018. 

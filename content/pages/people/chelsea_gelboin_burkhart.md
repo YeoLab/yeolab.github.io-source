@@ -22,6 +22,8 @@ In her free time, Chelsea enjoys salsa dancing, playing with her furry children 
 
 ##Publications
 
+Van Nostrand EL, Pratt GA, Yee BA, Wheeler E, Blue SM, Mueller J, Park SS, Garcia KE, **Gelboin-Burkhart C**, Nguyen TB, Rabano I, Stanton R, Sundararaman B, Wang R, Fu X-D, Graveley BR, Yeo GW. Principles of RNA processing from analysis of enhanced CLIP maps for 150 RNA binding proteins. Genome Biology, 2020.
+
 Van Nostrand EL *, Nguyen TB *, **Gelboin-Burkhart C**, Wang R, Blue SM, Pratt GA, Louie AL, Yeo GW. Robust, Cost-Effective Profiling of RNA Binding Protein Targets
 with Single-end Enhanced Crosslinking and Immunoprecipitation (seCLIP). Methods Mol Biol. 2017  *Co-authorship.
 

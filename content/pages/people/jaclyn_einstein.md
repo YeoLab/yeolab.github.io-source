@@ -21,6 +21,11 @@ Jackie is a PhD student in the Bioengineering department at UCSD. She graduated 
 
 
 ## Publications
+
+* Wheeler EC §, Vu A §, **Einstein JM**, DiSalvo M, Ahmed N, Van Nostrand EL, Shiskin AA, Jin W, Allbrighton NL, Yeo GW. Pooled CRISPR screens with image-based phenotyping on microRaft arrays reveals stress granule-regulatory factors. Nature Methods, 2020. (§ co-first author)
+
+* Van Nostrand EL, Pratt GA, Yee BA, Wheeler E, Blue SM, **Mueller J**, Park SS, Garcia KE, Gelboin-Burkhart C, Nguyen TB, Rabano I, Stanton R, Sundararaman B, Wang R, Fu X-D, Graveley BR, Yeo GW. Principles of RNA processing from analysis of enhanced CLIP maps for 150 RNA binding proteins. Genome Biology, 2020.
+
 * Lorenz DA, Sathe S, *Einstein JM*, Yeo GW. Direct RNA sequencing enables m6A detection in endogenous transcript isoforms at base specific resolution. RNA. 2019 Oct 
 
 * **Einstein JM**, Yeo GW. [**Making the cut in the dark genome**](/papers/2016/Jaclyn_Science_2016.pdf). Science. 2016 Nov 11;354(6313):705-706. 

@@ -22,4 +22,5 @@ As a BMS student in the Yeo Lab, Noorsher is broadly interested in the role RNA 
 Outside of the lab, Noorsher enjoys outdoor activities including surfing, SCUBA diving, hiking and bathing in the San Diego sunlight.
 
 ##Publications
-Coming soon!!
+
+Wheeler EC §, Vu A §, Einstein JM, DiSalvo M, **Ahmed N**, Van Nostrand EL, Shiskin AA, Jin W, Allbrighton NL, Yeo GW. Pooled CRISPR screens with image-based phenotyping on microRaft arrays reveals stress granule-regulatory factors. Nature Methods, 2020. (§ co-first author)

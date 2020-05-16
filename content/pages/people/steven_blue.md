@@ -19,6 +19,9 @@ M.S., Biotechnology, University of California, Irvine, 2012<br>B.S., Biological
 As an undergraduate student at UC Irvine, Steven was a member of Dr. Marcelo Wood’s lab studying the inhibition of histone deacetylation on long-term memory formation and associated drug-seeking behavior in mouse models. In the summer of 2011, he interned at Allergan, Inc., assessing the efficacy of candidate compounds as therapies for macular degeneration. During his graduate studies, Steven conducted research in Dr. Craig Walsh's lab studying the molecular, energetic, and metabolic triggers underlying programmed cell death signaling pathways. In 2013, Steven joined Dr. Gene Yeo’s group to study RNA-protein interactions as a part of the ENCODE project. Specifically, he has been working to characterize antibodies targeting RNA-binding proteins (RBPs) and using them to reveal novel RBP binding targets via CLIP-seq methods. Outside of lab, Steven enjoys playing soccer/tennis, cooking, and reading a good book. 
 
 ##Publications
+
+* Van Nostrand EL, Pratt GA, Yee BA, Wheeler E, **Blue SM**, Mueller J, Park SS, Garcia KE, Gelboin-Burkhart C, Nguyen TB, Rabano I, Stanton R, Sundararaman B, Wang R, Fu X-D, Graveley BR, Yeo GW. Principles of RNA processing from analysis of enhanced CLIP maps for 150 RNA binding proteins. Genome Biology, 2020.
+
 * Batra R, Nelles DA, Pirie E, **Blue SM**, Marina RJ, Wang H, Chaim IA, Thomas JD, Zhang N, Nguyen V, Aigner S, Markmiller S, Xia G, Corbett KD, Swanson MS, Yeo GW. Elimination of Toxic Microsatellite Repeat Expansion RNA by RNA-Targeting Cas9. Cell. 2017 Aug 10. 
 
 

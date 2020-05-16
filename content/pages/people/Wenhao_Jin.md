@@ -21,6 +21,9 @@ Wenhao received his B.S. in Bioinformatics from Zhejiang University in 2014. As 
 
 
 ##Publications
+
+* Wheeler EC §, Vu A §, Einstein JM, DiSalvo M, Ahmed N, Van Nostrand EL, Shiskin AA, **Jin W**, Allbrighton NL, Yeo GW. Pooled CRISPR screens with image-based phenotyping on microRaft arrays reveals stress granule-regulatory factors. Nature Methods, 2020. (§ co-first author)
+
 * Markmiller S, Soltanieh S, Server KL, Mak R, **Jin W**, …, Yeo GW. Context-dependent and disease-specific diversity in protein interactions within stress granules. Cell. 2018 Jan 25;172(3):590-604.
 
 * Huang H, Kapeli K, **Jin W**, Wong YP, Arumugam TV, …, Soong TW. Tissue-selective restriction of RNA editing of CaV1. 3 by splicing factor SRSF9. Nucleic acids research. 2018 May 4;46(14):7323-38.
