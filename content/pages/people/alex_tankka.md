@@ -6,7 +6,7 @@ Affiliation: Biomedical Sciences
 Email: atankka at ucsd.edu
 Fellowship:
 Alumni_or_current: Current
-Headshot: /images/people/
+Headshot: /images/people/alex_tankka.jpg
 Template: person
 <!-- Status: draft -->
 
