@@ -4,8 +4,7 @@ Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Bioengineering
 Email: jeinstei at ucsd.edu
-Fellowship: F31 Ruth L. Kirschstein Predoctoral Individual National Research Service Award 
-CCMI Cancer Systems Biology Training Program
+Fellowship: F31 Ruth L. Kirschstein Predoctoral Individual National Research Service Award and CCMI Cancer Systems Biology Training Program
 Alumni_or_current: Current
 Headshot: /images/people/jaclyn_einstein.jpg
 Template: person
