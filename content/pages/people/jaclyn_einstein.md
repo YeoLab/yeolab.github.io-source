@@ -4,7 +4,7 @@ Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Bioengineering
 Email: jeinstei at ucsd.edu
-Fellowship: F31 Ruth L. Kirschstein Predoctoral Individual National Research Service Award and CCMI Cancer Systems Biology Training Program
+Fellowship:
 Alumni_or_current: Current
 Headshot: /images/people/jaclyn_einstein.jpg
 Template: person
@@ -18,7 +18,11 @@ B.S. Biological Systems Engineering, Virginia Tech 2014
 
 Jackie is a PhD student in the Bioengineering department at UCSD. She graduated from Virginia Tech with a B.S in biological systems engineering and a minor in mathematics in 2014. She completed her undergraduate laboratory and senior design work in Dr. Warren Ruder’s lab studying synthetic biology with application to environmental issues. She focused on learning and understanding natural, microbial biological systems and reengineering those systems to detect contaminants in Virginia’s private water sources. In the Yeo lab, Jackie has constructed an RNA binding protein targeted CRISPR screen to identify RBP knockouts that confer synthetic lethality in Myc-dependent breast cancer using high-throughput sequencing
 
+## Fellowships
 
+* F31 Ruth L. Kirschstein Predoctoral Individual National Research Service Award
+
+* CCMI Cancer Systems Biology Training Program
 
 ## Publications
 
