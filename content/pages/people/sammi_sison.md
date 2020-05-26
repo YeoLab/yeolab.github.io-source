@@ -1,4 +1,4 @@
-Title: Sammi Sisson
+Title: Sammi Sison
 Date: 2020-02-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
