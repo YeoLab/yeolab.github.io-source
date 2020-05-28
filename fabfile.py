@@ -20,12 +20,14 @@ def collectstatic():
         # import sys
         # sys.stderr.write('copying files from \t {}'.format(os.path.getwd()))
         local('mkdir -p {deploy_path}/css/ {deploy_path}/js/ {deploy_path}/fonts/ {deploy_path}/images/ {deploy_path}/singarna-symposium-2016'.format(**env))
+        local('mkdir -p {deploy_path}/css/ {deploy_path}/js/ {deploy_path}/fonts/ {deploy_path}/images/ {deploy_path}/TSCC_Onboarding'.format(**env))
         local('cp -rf twenty-pelican-html5up/static/css/* {deploy_path}/css/'.format(**env))
         local('cp -rf twenty-pelican-html5up/static/js/* {deploy_path}/js/'.format(**env))
         local('cp -rf twenty-pelican-html5up/static/fonts/* {deploy_path}/fonts/'.format(**env))
         local('cp -rf twenty-pelican-html5up/static/images/* {deploy_path}/images/'.format(**env))
         local('cp -rf extras/* {deploy_path}/'.format(**env))
         local('cp -rf content/papers/* {deploy_path}/papers/'.format(**env))
+        local('cp -rf content/pages/singarna-symposium-2016/* {deploy_path}/TSCC_Onboarding/'.format(**env))
         local('cp -rf content/pages/singarna-symposium-2016/* {deploy_path}/singarna-symposium-2016/'.format(**env))
 
 def clean():
