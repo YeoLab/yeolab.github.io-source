@@ -1,3 +1,5 @@
+Title: TSCC Onboarding Date: 2020-05-28 icon: mdi mdi-account-multiple
+
 # TSCC Onboarding
 
 **Authors**: Clarence Mah, Brian Yee<br>
