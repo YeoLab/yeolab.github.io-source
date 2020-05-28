@@ -14,4 +14,4 @@ Check out the [Getting started](http://yeolab.github.io/onboarding/getting_start
 
 ### How do I get my computational environment set up?
 
-Check out the [Getting started (drylab)](http://yeolab.github.io/TSCC%2Onboarding/) section of the onboarding website
+Check out the [Getting started (drylab)](http://yeolab.github.io/TSCC%20Onboarding/) section of the onboarding website
