@@ -1,3 +1,7 @@
+Title: Running the eCLIP Pipeline on TSCC
+Date: 2020-05-28
+icon: mdi mdi-account-multiple
+
 # Running the eCLIP Pipeline on TSCC
 
 **Authors**: Clarence Mah, Brian Yee<br>

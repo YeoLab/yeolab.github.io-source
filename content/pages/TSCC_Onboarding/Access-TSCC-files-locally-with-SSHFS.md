@@ -1,3 +1,7 @@
+Title: Access TSCC files locally with SSHFS
+Date: 2020-05-28
+icon: mdi mdi-account-multiple
+
 # Access TSCC files locally with SSHFS
 
 **Authors**: Clarence Mah, Brian Yee<br>

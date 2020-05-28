@@ -1,3 +1,8 @@
+Title: Manage your compute jobs on TSCC
+Date: 2020-05-28
+icon: mdi mdi-account-multiple
+
+
 # Manage your compute jobs on TSCC
 
 **Authors**: Clarence Mah, Brian Yee<br>

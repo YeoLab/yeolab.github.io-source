@@ -1,3 +1,8 @@
+Title: Make a virtual conda environment on TSCC
+Date: 2020-05-28
+icon: mdi mdi-account-multiple
+
+
 # Make a virtual conda environment on TSCC
 
 **Authors**: Clarence Mah, Brian Yee<br>
