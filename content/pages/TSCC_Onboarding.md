@@ -15,15 +15,15 @@ The main contacts for questions about TSCC are the `dry lab` and `TSCC users` ma
 
 # Additional Guides
 
-[Jupyter notebooks on TSCC](TSCC_Onboarding/Jupyter%20notebooks%20on%20TSCC.md)
+[Jupyter notebooks on TSCC](TSCC_Onboarding/Jupyter-notebooks-on-TSCC.md)
 
-[Manage your compute jobs on TSCC](TSCC_Onboarding/Manage%20your%20compute%20jobs%20on%20TSCC.md)
+[Manage your compute jobs on TSCC](TSCC_Onboarding/Manage-your-compute-jobs-on-TSCC.md)
 
-[Access TSCC files locally with SSHFS](TSCC_Onboarding/Access%20TSCC%20files%20locally%20with%20SSHFS.md)
+[Access TSCC files locally with SSHFS](TSCC_Onboarding/Access-TSCC-files-locally-with-SSHFS.md)
 
-[Make a virtual conda environment on TSCC](TSCC_Onboarding/Make%20a%20virtual%20conda%20environment%20on%20TSCC.md)
+[Make a virtual conda environment on TSCC](TSCC_Onboarding/Make-a-virtual-conda-environment-on-TSCC.md)
 
-[Running the eCLIP Pipeline on TSCC](TSCC_Onboardingg/Running%20the%20eCLIP%20Pipeline%20on%20TSCC.md)
+[Running the eCLIP Pipeline on TSCC](Running-the-eCLIP-Pipeline-on-TSCC.md)
 
 # Initial Setup
 
