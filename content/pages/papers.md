@@ -4,6 +4,14 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ### 2020
+* [**Heterogenous Populations of Tissue-Resident CD8+ T Cells Are Generated in Response to Infection and Malignancy**](/papers/2020/Milner_2020_Immunity.pdf)<br>
+Milner JJ, Toma C, He Z, Kurd NS, Nguyen QP, McDonald B, Quezada L, Widjaja CE, Witherden DA, Crowl JT, Shaw LA, **Yeo GW**, Chang JT, Omilusik KD, Goldrath AW.<br>
+Immunity<br>
+
+* [**Early precursors and molecular determinants of tissue-resident memory CD8+ T lymphocytes revealed by single-cell RNA sequencing**](/papers/2020/Kurd_2020_Science_Immunology.pdf)<br>
+Kurd NS, He Z, Louis TL, Milner JJ, Omilusik KD, Jin W, Tsai MS, Widjaja CE, Kanbar JN, Olvera JG, Tysl T, Quezada LK, Boland BS, Huang WJ, Murre C, Goldrath AW, **Yeo GW**, Chang JT.<br>
+Science Immunology<br>
+
 * [**Pooled CRISPR screens with image-based phenotyping on microRaft arrays reveals stress granule-regulatory factors**](/papers/2020/Wheeler_et_al-2020-Nature_Methods.pdf)<br>
 Wheeler EC, Vu AQ, Einstein JM, DiSalvo M, Ahmed N, Van Nostrand EL, Shiskin AA, Jin W, Allbrighton NL, **Yeo GW**.<br>
 Nature Methods<br>
