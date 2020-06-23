@@ -1,4 +1,4 @@
-Title: Pratibha Jagannatha
+Title: Pratibha<br>Jagannatha
 Date: 2020-06-23
 Position: Graduate Student
 Position_suffix: (Ph.D.)
