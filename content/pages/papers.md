@@ -4,6 +4,10 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ### 2020
+* [**A role for alternative splicing in circadian control of exocytosis and glucose homeostasis**](/papers/2020/Perelis_genesdev_2020.pdf)<br>
+Marcheva B, Perelis M, Weidemann BJ, Taguchi A, Lin H, Omura C, Kobayashi Y, Newman MV, Wyatt EJ, McNally EM, Manning-Fox JE, Hong H, Shankar A, Wheeler EC, Ramsey KM, MacDonald PE, **Yeo GW**, Bass J.<br>
+Genes & Development 
+
 * [**Heterogenous Populations of Tissue-Resident CD8+ T Cells Are Generated in Response to Infection and Malignancy**](/papers/2020/Milner_2020_Immunity.pdf)<br>
 Milner JJ, Toma C, He Z, Kurd NS, Nguyen QP, McDonald B, Quezada L, Widjaja CE, Witherden DA, Crowl JT, Shaw LA, **Yeo GW**, Chang JT, Omilusik KD, Goldrath AW.<br>
 Immunity<br>
