@@ -4,6 +4,10 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ### 2020
+* [**A large-scale binding and functional map of human RNA-binding proteins**](/papers/2020/Van_Nostrand_2020_nature.pdf)<br>
+Van Nostrand EL, Freese P, Pratt GA, Wang X, Wei X, Xiao R, Blue SM, Chen J-Y, Cody NAL, Dominguez D, Olson S, Sundararaman B, Zhan L, Bazile C, Bouvrette LPB, Bergalet J, Duff MO, Garcia KE, Gelboin-Burkhart C, Hochman M, Lambert NJ, Li H, Nguyen TB, Palden T, Rabano I, Sathe S, Stanton R, Su A, Wang R, Yee BA, Zhou B, Louie AL, Aigner S, Fu X-D, Lécuyer E, Burge CB, Graveley BR, **Yeo GW**.<br>
+Nature<br>
+
 * [**A role for alternative splicing in circadian control of exocytosis and glucose homeostasis**](/papers/2020/Perelis_genesdev_2020.pdf)<br>
 Marcheva B, Perelis M, Weidemann BJ, Taguchi A, Lin H, Omura C, Kobayashi Y, Newman MV, Wyatt EJ, McNally EM, Manning-Fox JE, Hong H, Shankar A, Wheeler EC, Ramsey KM, MacDonald PE, **Yeo GW**, Bass J.<br>
 Genes & Development 
