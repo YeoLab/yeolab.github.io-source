@@ -4,7 +4,7 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ### 2020
-* [**A large-scale binding and functional map of human RNA-binding proteins**](/papers/2020/Van_Nostrand_2020_nature.pdf)<br>
+* [**A large-scale binding and functional map of human RNA-binding proteins**](/papers/2020/Van_Nostrand_2020_Nature.pdf)<br>
 Van Nostrand EL, Freese P, Pratt GA, Wang X, Wei X, Xiao R, Blue SM, Chen J-Y, Cody NAL, Dominguez D, Olson S, Sundararaman B, Zhan L, Bazile C, Bouvrette LPB, Bergalet J, Duff MO, Garcia KE, Gelboin-Burkhart C, Hochman M, Lambert NJ, Li H, Nguyen TB, Palden T, Rabano I, Sathe S, Stanton R, Su A, Wang R, Yee BA, Zhou B, Louie AL, Aigner S, Fu X-D, Lécuyer E, Burge CB, Graveley BR, **Yeo GW**.<br>
 Nature<br>
 
