@@ -7,7 +7,10 @@ Email: e1luo at ucsd.edu
 Fellowship: Taiwanese Government
 Headshot: /images/people/enching.jpg
 Template: person
-Alumni_or_current: Current
+Alumni_or_current: Alumni
+Current_position: Scientist at Ionis
+Template: person
+End_date: 2020-08-04
 <!-- Status: draft -->
 
 ## Degrees
