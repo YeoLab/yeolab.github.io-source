@@ -8,7 +8,7 @@ Fellowship: NSF GRFP
 Alumni_or_current: Alumni
 Headshot: /images/people/emily_wheeler.jpg
 Template: person
-Current_position: Postdoc in Zuzana Tothova's lab at Harvard Medical School
+Current_position: Postdoc in Zuzana Tothova lab at Harvard Medical School
 End_date: 2020-08-04
 <!-- Status: draft -->
 
