@@ -42,6 +42,7 @@ Race, C. M.&, Kwon L.E.&, Foreman M.T., Huang Q., Inan H., Kesiraju S., **Le P.*
 Ma L.&, Tu C.&, **Le P.**, Chitoor S., Lim S.J., Zahid M., Teng K.W., Ge P., Selvin P.R., A.M. Smith. Multidentate Polymer Coatings for Compact and Homogeneous Quantum Dots with Efficient Bioconjugation. Journal of the American Chemical Society 138, 3382-3394 (2016).
 
 Cossu A.&, **Le P.&**, Young G., N. Nitin. Assessment of sanitation efficacy against Escherichia coli O157:H7 by rapid measurement of intracellular oxidative stress, membrane damage or glucose active uptake. Food Control 71, 293-300 (2017)
+
 Lim S.J., Zahid M.U., **Le P.**, Ma L., Entenberg D., Harney A.S., Condeelis J., A.M. Smith. Brightness-equalized quantum dots. Nature Communications 6 (2015).
 
 **Le P.**, Zhang L., Lim V., McCarthy M.J., N. Nitin. A Novel Approach for Measuring Resistance of Escherichia coli and Listeria monocytogenes to Hydrogen Peroxide Using Label-free Magnetic Resonance Imaging and Relaxometry. Food Control 50, 560-567 (2015).
