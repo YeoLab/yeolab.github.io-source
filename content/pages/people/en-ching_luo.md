@@ -7,7 +7,9 @@ Email: e1luo at ucsd.edu
 Fellowship: Taiwanese Government
 Headshot: /images/people/enching.jpg
 Template: person
-Alumni_or_current: Current
+Alumni_or_current: Alumni
+Current_position: Scientist at Ionis
+End_date: 2020-08-04
 <!-- Status: draft -->
 
 ## Degrees
@@ -27,7 +29,7 @@ En-Ching Luo received her master's degree in Physiology from National Taiwan Uni
 
 
 * Markmiller S, Soltanieh S, Server KL, Mak R, Jin W, Fang MY, **Luo EC**, Krach F, Yang D, Sen A, Fulzele A, Wozniak JM, Gonzalez DJ, Kankel MW, Gao FB, Bennett EJ,
-Lécuyer E, Yeo GW. [Context-Dependent and Disease-Specific Diversity in Protein Interactions within Stress Granules](/papers/2018/Roloff_BioconjugChem_2018.pdf). Cell. 2018 Jan 25. doi:10.1016/j.cell.2017.12.032
+Lécuyer E, Yeo GW. [Context-Dependent and Disease-Specific Diversity in Protein Interactions within Stress Granules](/papers/2018/Sebastian_2018_cell.pdf). Cell. 2018 Jan 25. doi:10.1016/j.cell.2017.12.032
 
 * **Luo EC**, Chang YC, Sher YP, Huang WY, Chuang LL, Chiu YC, Tsai MH, Chuang EY, Lai LC. [MicroRNA-769-3p down-regulates NDRG1 and enhances apoptosis in MCF-7 cells during reoxygenation](https://www.nature.com/articles/srep05908). Sci Rep. 2014 Aug 1. doi: 10.1038/srep05908.   
 

@@ -5,11 +5,11 @@ Position_suffix: (M.S.)
 Affiliation: Biomedical Engineering
 Email: w1wei at eng.ucsd.edu
 Fellowship: 
-Alumni_or_current: Current
+Alumni_or_current: Alumni
 Headshot: /images/people/wenyuan_wei.jpg
+Current_position:
 Template: person
-Current_position: 
-End_date:
+End_date: 2020-08-04
 <!-- Status: draft -->
 
 ## Degrees

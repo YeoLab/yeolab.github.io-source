@@ -7,9 +7,9 @@ Email: a8shankar at ucsd.edu
 Fellowship:
 Headshot: /images/people/archana_shankar.jpg
 Template: person
-Alumni_or_current: Current
-Current_position: UCSD, CA
-End_date: 
+Alumni_or_current: Alumni
+Current_position: Graduate student at Stanford
+End_date: 2020-08-04
 <!-- Status: draft -->
 
 ## Degrees

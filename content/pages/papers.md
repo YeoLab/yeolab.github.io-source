@@ -4,6 +4,19 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ### 2020
+
+* [**Perspectives on ENCODE**](/papers/2020/ENCODE_2020b_Nature.pdf)<br>
+ENCODE Project Consortium, Snyder MP, Gingeras TR, Moore JE, Weng Z, Gerstein MB, Ren B, Hardison RC, Stamatoyannopoulos JA, Graveley BR, Feingold EA, Pazin MJ, Pagan M, Gilchrist DA, Hitz BC, Cherry JM, Bernstein BE, Mendenhall EM, Zerbino DR, Frankish A, Flicek P, Myers RM.<br>
+Nature<br>
+
+* [**Expanded encyclopaedias of DNA elements in the human and mouse genomes**](/papers/2020/ENCODE_2020_Nature.pdf)<br>
+ENCODE Project Consortium, Moore JE, Purcaro MJ, Pratt HE, Epstein CB, Shoresh N, Adrian J, Kawli T, Davis CA, Dobin A, Kaul R, Halow J, Van Nostrand EL, Freese P, Gorkin DU, Shen Y, He Y, Mackiewicz M, Pauli-Behn F, Williams BA, Mortazavi A, Keller CA, Zhang XO, Elhajjajy SI, Huey J, Dickel DE, Snetkova V, Wei X, Wang X, Rivera-Mulia JC, Rozowsky J, Zhang J, Chhetri SB, Zhang J, Victorsen A, White KP, Visel A, **Yeo GW**, Burge CB, Lécuyer E, Gilbert DM, Dekker J, Rinn J, Mendenhall EM, Ecker JR, Kellis M, Klein RJ, Noble WS, Kundaje A, Guigó R, Farnham PJ, Cherry JM, Myers RM, Ren B, Graveley BR, Gerstein MB, Pennacchio LA, Snyder MP, Bernstein BE, Wold B, Hardison RC, Gingeras TR, Stamatoyannopoulos JA, Weng Z.<br>
+Nature<br>
+
+* [**A large-scale binding and functional map of human RNA-binding proteins**](/papers/2020/Van_Nostrand_2020_Nature.pdf)<br>
+Van Nostrand EL, Freese P, Pratt GA, Wang X, Wei X, Xiao R, Blue SM, Chen J-Y, Cody NAL, Dominguez D, Olson S, Sundararaman B, Zhan L, Bazile C, Bouvrette LPB, Bergalet J, Duff MO, Garcia KE, Gelboin-Burkhart C, Hochman M, Lambert NJ, Li H, Nguyen TB, Palden T, Rabano I, Sathe S, Stanton R, Su A, Wang R, Yee BA, Zhou B, Louie AL, Aigner S, Fu X-D, Lécuyer E, Burge CB, Graveley BR, **Yeo GW**.<br>
+Nature<br>
+
 * [**A role for alternative splicing in circadian control of exocytosis and glucose homeostasis**](/papers/2020/Perelis_genesdev_2020.pdf)<br>
 Marcheva B, Perelis M, Weidemann BJ, Taguchi A, Lin H, Omura C, Kobayashi Y, Newman MV, Wyatt EJ, McNally EM, Manning-Fox JE, Hong H, Shankar A, Wheeler EC, Ramsey KM, MacDonald PE, **Yeo GW**, Bass J.<br>
 Genes & Development 

@@ -5,9 +5,11 @@ Position_suffix: (Ph.D.)
 Affiliation: Biomedical Sciences
 Email: ecwheele at ucsd.edu
 Fellowship: NSF GRFP
-Alumni_or_current: Current
+Alumni_or_current: Alumni
 Headshot: /images/people/emily_wheeler.jpg
 Template: person
+Current_position: Postdoc in Zuzana Tothova lab at Harvard Medical School
+End_date: 2020-08-04
 <!-- Status: draft -->
 
 ## Degrees
