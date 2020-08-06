@@ -20,10 +20,12 @@ Stefan received his PhD in Chemistry and Biochemistry from the University of Col
 
 
 ## Publications
+Van Nostrand EL, Freese P, Pratt GA, Wang X, Wei X, Xiao R, Blue SM, Chen J-Y, Cody NAL, Dominguez D, Olson S, Sundararaman B, Zhan L, Bazile C, Bouvrette LPB, Bergalet J, Duff MO, Garcia KE, Gelboin-Burkhart C, Hochman M, Lambert NJ, Li H, Nguyen TB, Palden T, Rabano I, Sathe S, Stanton R, Su A, Wang R, Yee BA, Zhou B, Louie AL, **Aigner S**, Fu X-D, Lécuyer E, Burge CB, Graveley BR, Yeo GW. A large-scale binding and functional map of human RNA-binding proteins. Nature. 2020 Jul 29. doi: 10.1038/s41586-020-2077-3
+
 Di Stefano B, Luo EC, Haggerty C, **Aigner S**, Charlton J, Brumbaugh J, Ji F, Rabano Jiménez I, Clowers KJ, Huebner AJ, Clement K, Lipchina I, de Kort MAC,Anselmo A, Pulice J, Gerli MFM, Gu H, Gygi SP, Sadreyev RI, Meissner A, Yeo GW, Hochedlinger K. The RNA Helicase DDX6 Controls Cellular Plasticity by Modulating P-Body Homeostasis. Cell Stem Cell. 2019 Sep 27. doi:
 10.1016/j.stem.2019.08.018.
 
- Kathuria A, Nowosiad P, Jagasia R, **Aigner S**, Taylor RD, Andreae LC, Gatford NJF, Lucchesi W, Srivastava DP, Price J. Stem cell-derived neurons from autistic individuals with SHANK3 mutation show morphogenetic abnormalities during early development. Mol Psychiatry. 2017 Sep 26. doi: 10.1038/mp.2017.185.
+Kathuria A, Nowosiad P, Jagasia R, **Aigner S**, Taylor RD, Andreae LC, Gatford NJF, Lucchesi W, Srivastava DP, Price J. Stem cell-derived neurons from autistic individuals with SHANK3 mutation show morphogenetic abnormalities during early development. Mol Psychiatry. 2017 Sep 26. doi: 10.1038/mp.2017.185.
 
 Batra R, Nelles DA, Pirie E, Blue SM, Marina RJ, Wang H, Chaim IA, Thomas JD, Zhang N, Nguyen V, **Aigner S**, Markmiller S, Xia G, Corbett KD, Swanson MS, Yeo GW. Elimination of Toxic Microsatellite Repeat Expansion RNA by RNA-Targeting Cas9. Cell. 2017 Aug 10. doi: 10.1016/j.cell.2017.07.010.
 
@@ -36,7 +38,6 @@ Kakaradov B, Arsenio J, Widjaja CE, He Z, **Aigner S**, Metz PJ, Yu B, Wehrens E
 Batra R, Stark TJ, Clark E, Belzile JP, Wheeler EC, Yee BA, Huang H, Gelboin-Burkhart C, Huelga SC, **Aigner S**, Roberts BT, Bos TJ, Sathe S, Donohue JP, Rigo F, Ares M Jr, Spector DH, Yeo GW. RNA-binding protein CPEB1 remodels host and viral RNA landscapes. Nat Struct Mol Biol. 2016 Oct 24. doi:10.1038/nsmb.3310. PMID: 27775709.
 
 Grabole N, Zhang JD, **Aigner S**, Ruderisch N, Costa V, Weber FC, Theron M, Berntenis N, Spleiss O, Ebeling M, Yeo GW, Jagasia R, Kiialainen A. Genomic analysis of the molecular neuropathology of tuberous sclerosis using a human stem cell model. Genome Med. 2016 Sep 21;8(1):94. PMID: 27655340
-
 
 Conway AE, Van Nostrand EL, Pratt GA, **Aigner S**, Wilbert ML, Sundararaman B, Freese P, Lambert NJ, Sathe S, Liang TY, Essex A, Landais S, Burge CB, Jones DL, Yeo GW. Enhanced CLIP Uncovers IMP Protein-RNA Targets in Human Pluripotent Stem Cells Important for Cell Adhesion and Survival. Cell Rep. 2016; 15(3):666-79. PMID: 27068461
 
