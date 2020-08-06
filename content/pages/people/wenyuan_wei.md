@@ -7,7 +7,7 @@ Email: w1wei at eng.ucsd.edu
 Fellowship: 
 Alumni_or_current: Alumni
 Headshot: /images/people/wenyuan_wei.jpg
-Current_position:
+Current_position: PhD student at City of Hope
 Template: person
 End_date: 2020-08-04
 <!-- Status: draft -->

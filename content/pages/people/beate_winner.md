@@ -7,9 +7,9 @@ Email: beate.winner at fau.de
 Fellowship: 
 Headshot: /images/people/beat_winner.png
 Template: person
-Alumni_or_current: current
+Alumni_or_current: alumni
 Current_position:  Associate Professor, Friedrich-Alexander-Universität Erlangen-Nürnberg
-End_date: 
+End_date: 2020-08-05
 
 
 ## Degrees
