@@ -3,7 +3,7 @@ Date: 2020-04-01
 Position: Post-Doctoral Fellow
 Position_suffix:
 Affiliation: Cellular and Molecular Medicine
-Email: ple9 at ucsd.edu
+Email: pble at ucsd.edu
 Fellowship: Schmidt Science
 Alumni_or_current: Current
 Headshot: /images/people/phuong_le.jpg
