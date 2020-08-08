@@ -4,7 +4,7 @@ Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Biomedical Sciences
 Email: aqvu at ucsd.edu
-Fellowship: NSF GRFP
+Fellowship: ARCS
 Headshot: /images/people/anthony_vu.jpg
 Template: person
 Alumni_or_current: Current
@@ -20,9 +20,19 @@ Anthony Vu received his B.S. in Biochemistry: Cell Biology from the UCSD in 2008
 
 ##Publications
 
-Wheeler EC §, **Vu A** §, Einstein JM, DiSalvo M, Ahmed N, Van Nostrand EL, Shiskin AA, Jin W, Allbrighton NL, Yeo GW. Pooled CRISPR screens with ima-based phenotyping on microRaft arrays reveals stress granule-regulatory factors. Nature Methods, 2020. (§ co-first author)
+Conserved metabolite regulation of stress granule assembly via AdoMet. Begovich K, **Vu AQ**, Yeo G, Wilhelm JE. J Cell Biol, 2020. 
+
+Pooled CRISPR screens with ima-based phenotyping on microRaft arrays reveals stress granule-regulatory factors. Wheeler EC §, **Vu A** §, Einstein JM, DiSalvo M, Ahmed N, Van Nostrand EL, Shiskin AA, Jin W, Allbritton NL, Yeo GW. Nature Methods, 2020. (§ co-first author)
+
+Small-molecule modulation of TDP-43 recruitment to stress granules prevents persistent TDP-43 accumulation in ALS/FTD.Fang MY, Markmiller S, **Vu AQ**, Javaherian A, Dowdle WE, Jolivet P, Bushway PJ, Castello NA, Baral A, Chan MY, Linsley JW, Linsley D, Mercola M, Finkbeiner S, Lecuyer E, Lewcock JW, Yeo GW. Neuron, 2019.
+
+Glial cells maintain synapses by inhibiting an activity-dependent retrograde protease signal. Gould TW, Dominguez B, de Winter F, Yeo GW, Liu P, Sundararaman B, Stark T, **Vu A**, Degen JL, Lin W, Lee KF. PLoS Genet, 2019.
 
 Transcriptome–pathology correlation identifies interplay between TDP‑43 and the expression of its kinase CK1E in sporadic ALS. Krach F, Batra R, Wheeler EC, **Vu AQ**, Wang R, Hutt K, Rabin SJ, Baughn MW, Libby RT, Diaz‑Garcia S, Stauffer J, Pirie E, Saberi S, Rodriguez M, Madrigal AA, Kohl Z, Winner B, Yeo GW, Ravits J. Acta Neuropathologica, 2018. [[PDF]](/papers/2018/Krach_Batra_ActaNeuropathologica_2018.pdf)  
+
+Distinct and shared functions of ALS-associated proteins TDP-43, FUS and TAF15 revealed by multisystem analyses. Kapeli K, Pratt GA, **Vu AQ**, Hutt KR, Martinez FJ, Sundararaman B, Batra R, Freese P, Lambert NJ, Huelga SC, Chun SJ, Liang TY, Chang J, Donohue JP, Shiue L, Zhang J, Zhu H, Cambi F, Kasarskis E, Hoon S, Ares M Jr, Burge CB, Ravits J, Rigo F, Yeo GW. Nat Commun. 2016.
+
+A novel splice-site mutation in ALS2 establishes the diagnosis of juvenile amyotrophic lateral sclerosis in a family with early onset anarthria and generalized dystonias. Siddiqi S, Nee Foo J, **Vu A**, Azim Saad, Silver DL, Mansoor A, Hong Tay SK, Abbasi S, Hashmi AH, Janjua J, Khalid S, Tai ES, Yeo GW, Khor CC. PLoS One. 2014.
 
 Divergent roles of ALS-linked proteins FUS/TLS and TDP-43 intersect in processing long pre-mRNAs.Lagier-Tourenne C, Polymenidou M, Hutt KR, **Vu AQ**, Baughn M, Huelga SC, Clutario KM, Ling SC, Liang TY, Mazur C, Wancewicz E, Kim AS, Watt A, Freier S, Hicks GG, Donohue JP, Shiue L, Bennett CF, Ravits J, Cleveland DW & Yeo GW. Nature Neuroscience, 2012. [[PDF]](/papers/2016/katannya_naturecommuicate_2016.pdf)
 

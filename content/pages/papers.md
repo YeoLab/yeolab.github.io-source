@@ -30,7 +30,7 @@ Kurd NS, He Z, Louis TL, Milner JJ, Omilusik KD, Jin W, Tsai MS, Widjaja CE, Kan
 Science Immunology<br>
 
 * [**Pooled CRISPR screens with image-based phenotyping on microRaft arrays reveals stress granule-regulatory factors**](/papers/2020/Wheeler_et_al-2020-Nature_Methods.pdf)<br>
-Wheeler EC, Vu AQ, Einstein JM, DiSalvo M, Ahmed N, Van Nostrand EL, Shiskin AA, Jin W, Allbrighton NL, **Yeo GW**.<br>
+Wheeler EC, Vu AQ, Einstein JM, DiSalvo M, Ahmed N, Van Nostrand EL, Shiskin AA, Jin W, Allbritton NL, **Yeo GW**.<br>
 Nature Methods<br>
 
 * [**Principles of RNA processing from analysis of enhanced CLIP maps for 150 RNA binding proteins**](/papers/2020/VanNostrand_GenomeBiology_2020.pdf)   
