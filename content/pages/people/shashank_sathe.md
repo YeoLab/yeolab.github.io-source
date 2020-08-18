@@ -25,6 +25,8 @@ Currently, Shashank works on studying RNA subcellular localization and RNA-RBP i
 
 ## Publications
 
+* Luo EC, Nathanson JL, Tan FE, Schwartz JL, Schmok JC, Shankar A, Markimiller S, Yee BA, **Sathe S**, Pratt GA, Scaletta DB, Ha Y, Hill DE, Aigner S, Yeo GW. Large-scale tethered function assays identify factors that regulate mRNA stability and translation.  Nature Structural and Molecular Biology. 2020.
+
 * Lorenz DA  §, **Sathe S**  §, Einstein JM, Yeo GW. Direct RNA sequencing enables m6A detection in endogenous transcript isoforms at base specific resolution. RNA. 2019 (§ co-first author )
 
 * Tan FE §, **Sathe S** §, Wheeler EC, Nussbacher JK, Peter S, Yeo GW . A Transcriptome-wide Translational Program Defined by LIN28B Expression Level.  Mol Cell. 2018 Dec (§ co-first author )

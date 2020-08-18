@@ -5,6 +5,10 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2020
 
+* [**Large-scale tethered function assays identify factors that regulate mRNA stability and translation**](/papers/2020/Luo_NatStrMolBio_2020.pdf)<br>
+Luo EC, Nathanson JL, Tan FE, Schwartz JL, Schmok JC, Shankar A, Markimiller S, Yee BA, Sathe S, Pratt GA, Scaletta DB, Ha Y, Hill DE, Aigner S, **Yeo GW**.<br>
+Nature Structural and Molecular Biology<br>
+
 * [**Perspectives on ENCODE**](/papers/2020/ENCODE_2020b_Nature.pdf)<br>
 ENCODE Project Consortium, Snyder MP, Gingeras TR, Moore JE, Weng Z, Gerstein MB, Ren B, Hardison RC, Stamatoyannopoulos JA, Graveley BR, Feingold EA, Pazin MJ, Pagan M, Gilchrist DA, Hitz BC, Cherry JM, Bernstein BE, Mendenhall EM, Zerbino DR, Frankish A, Flicek P, Myers RM.<br>
 Nature<br>

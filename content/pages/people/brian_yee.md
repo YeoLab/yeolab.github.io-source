@@ -18,6 +18,8 @@ Brian is a bioinformatics software developer in the Yeolab focused on building t
 
 ## Publications
 
+* Luo EC, Nathanson JL, Tan FE, Schwartz JL, Schmok JC, Shankar A, Markimiller S, **Yee BA**, Sathe S, Pratt GA, Scaletta DB, Ha Y, Hill DE, Aigner S, Yeo GW. Large-scale tethered function assays identify factors that regulate mRNA stability and translation. Nature Structural and Molecular Biology, 2020..
+
 * Van Nostrand EL, Pratt GA, **Yee BA**, Wheeler E, Blue SM, Mueller J, Park SS, Garcia KE, Gelboin-Burkhart C, Nguyen TB, Rabano I, Stanton R, Sundararaman B, Wang R, Fu X-D, Graveley BR, Yeo GW. Principles of RNA processing from analysis of enhanced CLIP maps for 150 RNA binding proteins. Genome Biology, 2020.
 
 * RBP-Maps enables robust generation of splicing regulatory maps. **Yee BA**, Pratt GA, Graveley BR, Van Nostrand EL§, Yeo GW§ (§ co-corresponding ). RNA. 2018 Nov 16

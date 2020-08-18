@@ -20,6 +20,8 @@ Fred received his B.S. in Biology and Chemical Engineering from MIT. As an under
 
 ## Publications
 
+Nat Struct Mol Biol. 2020. Luo EC, Nathanson JL, **Tan FE**, Schwartz JL, Schmok JC, Shankar A, Markimiller S, Yee BA, Sathe S, Pratt GA, Scaletta DB, Ha Y, Hill DE, Aigner S, Yeo GW.
+
 Mol Cell. 2018 Dec A Transcriptome-wide Translational Program Defined by LIN28B Expression Level. **Tan FE** §, Sathe S §, Wheeler EC, Nussbacher JK, Peter S, Yeo GW (§ co-first author )
 
 Mol Cell. 2016 Jan 7;61(1):1-2. Blurred Boundaries: The RNA Binding Protein Lin28A Is Also an Epigenetic Regulator. **Tan FE**, Yeo GW.

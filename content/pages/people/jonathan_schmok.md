@@ -23,8 +23,10 @@ In the Yeo lab, I’m excited to be working with a talented and diverse team on 
 
 ## Publications
 
+* Luo EC, Nathanson JL, Tan FE, Schwartz JL, **Schmok JC**, Shankar A, Markimiller S, Yee BA, Sathe S, Pratt GA, Scaletta DB, Ha Y, Hill DE, Aigner S, Yeo GW. "Large-scale tethered function assays identify factors that regulate mRNA stability and translation." Nature Structural and Molecular Biology 2020.
+
 * S. M. Grist, S. S. Nasseri, L. Laplatine, **J. C. Schmok**, D. Yao, J. Hua, L. Chrostowski, K. C. Cheung, “Long-term monitoring in a microfluidic system to study tumour spheroid response to chronic and cycling hypoxia,” Scientific Reports 2019,  9, 1-13.
 
 * S. M. Grist, **J. C. Schmok**, A. D. Gaxiola and K. C. Cheung, "Microfluidic platform with integrated thin-film optical oxygen sensors for transient hypoxia," 2016 14th IEEE International New Circuits and Systems Conference (NEWCAS), Vancouver, BC, 2016, pp. 1-4.     
 
-* S. M. Grist, **J. C. Schmok**, M. -C. A. Liu, L. Chrostowski, and K. C. Cheung, “Designing a Microfluidic Device with Integrated Ratiometric Oxygen Sensors for the Long-Term Control and Monitoring of Chronic and Cyclic Hypoxia,” Sensors 2015, 15, 20030-20052.
+* S. M. Grist, **J. C. Schmok**, M. -C. A. Liu, L. Chrostowski, and K. C. Cheung, “Designing a Microfluidic Device with Integrated Ratiometric Oxygen Sensors for the Long-Term Control and Monitoring of Chronic and Cyclic Hypoxia,” Sensors 2015, 15, 20030-20052.

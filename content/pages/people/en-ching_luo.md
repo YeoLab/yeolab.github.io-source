@@ -24,6 +24,8 @@ En-Ching Luo received her master's degree in Physiology from National Taiwan Uni
 
 ## Publications
 
+* **Luo EC**, Nathanson JL, Tan FE, Schwartz JL, Schmok JC, Shankar A, Markimiller S, Yee BA, Sathe S, Pratt GA, Scaletta DB, Ha Y, Hill DE, Aigner S, Yeo GW. [Large-scale tethered function assays identify factors that regulate mRNA stability and translation](/papers/2020/Luo_NatStrMolBio_2020.pdf). Nature Structural and Molecular Biology. 2020.
+
 * Di Stefano B§, **Luo EC§**, Haggerty C, Aigner S, Charlton J, Brumbaugh J, Ji F, Rabano Jiménez I, Clowers KJ, Huebner AJ, Clement K, Lipchina I, de Kort MAC, Anselmo A, Pulice J, Gerli MFM, Gu H, Gygi SP, Sadreyev RI, Meissner A, Yeo GW, Hochedlinger K. [The RNA Helicase DDX6 Controls Cellular Plasticity by Modulating P-Body Homeostasis](/papers/2019/Stefano_Enching_cellstemmcell_2019.pdf). Cell Stem Cell. 2019 Sep 27. doi:10.1016/j.stem.2019.08.018. 
 (§ Co-first authors)
 
