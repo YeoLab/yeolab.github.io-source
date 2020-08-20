@@ -5,6 +5,10 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2020
 
+* [**DDX5 promotes oncogene C3 and FABP1 expressions and drives intestinal inflammation and tumorigenesis**](/papers/2020/Abbasi_LSA_2020.pdf)<br>
+Abbasi N, Long T, Li Y, Yee BA, Cho BS, Hernandez JE, Ma E, Patel PR, Sahoo D, Sayed IM, Varki N, Das S, Ghosh P, **Yeo GW**, Huang WJM.<br>
+Life Science Alliance<br>
+
 * [**Large-scale tethered function assays identify factors that regulate mRNA stability and translation**](/papers/2020/Luo_NatStrMolBio_2020.pdf)<br>
 Luo EC, Nathanson JL, Tan FE, Schwartz JL, Schmok JC, Shankar A, Markimiller S, Yee BA, Sathe S, Pratt GA, Scaletta DB, Ha Y, Hill DE, Aigner S, **Yeo GW**.<br>
 Nature Structural and Molecular Biology<br>
