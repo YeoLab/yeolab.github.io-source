@@ -5,14 +5,6 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2020
 
-* [**G4C2 Repeat RNA Initiates a POM121-Mediated Reduction in Specific Nucleoporins in C9orf72 ALS/FTD**](/papers/2020/coyne_2020_neuron.pdf)<br>
-Coyne A, Zaepfel B, Hayes L, Fitchman B, Salzberg Y, Luo EC, Bowen K, Trost H, Aigner S, Rigo F, **Yeo GW**, Harel A, Svendsen CN, Sareen D, Rothstein JD.<br>
-Neuron<br>
-
-* [**Conserved metabolite regulation of stress granule assembly via AdoMet**](/papers/2020/begovich_2020_jcb.pdf)<br>
-Begovich K, Vu AQ, **Yeo GW**, Wilhelm JE.<br>
-Journal of Cell Biology<br>
-
 * [**DDX5 promotes oncogene C3 and FABP1 expressions and drives intestinal inflammation and tumorigenesis**](/papers/2020/Abbasi_LSA_2020.pdf)<br>
 Abbasi N, Long T, Li Y, Yee BA, Cho BS, Hernandez JE, Ma E, Patel PR, Sahoo D, Sayed IM, Varki N, Das S, Ghosh P, **Yeo GW**, Huang WJM.<br>
 Life Science Alliance<br>
