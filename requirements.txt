@@ -1,5 +1,5 @@
 jsonschema
-pelican
+pelican==4.2.0
 Markdown
 fabric==1.14.0
 typogrify
