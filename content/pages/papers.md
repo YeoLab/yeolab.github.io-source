@@ -5,6 +5,15 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2020
 
+* [** Heterogeneity and clonal relationships of adaptive immune cells in ulcerative colitis revealed by single-cell analyses**](/papers/2020/boland_2020_sciimmunology.pdf.pdf)<br>
+Boland B, He ZR, Tsai MS, Olvera JG, Omilusik K, Duong H, Kim E, Limary A, Jin W, Milner JJ, Yu BF, Patel S, Tiani L, Tysl T, Kurd N, Bortnick A, Quezada L, Kanbar J, Miralles A, Huylebroeck D, Valasek MA, Dulai P, Singh S, Lu LF, Bui J, Murre C, Sandborn WJ, Goldrath AW, **Yeo GW §**, Chang JT §.  co-corresponding)<br>
+
+* [**G4C2 Repeat RNA Initiates a POM121-Mediated Reduction in Specific Nucleoporins in C9orf72 ALS/FTD**](/papers/2020/coyne_2020_neuron.pdf)<br>
+Coyne A, Zaepfel B, Hayes L, Fitchman B, Salzberg Y, Luo EC, Bowen K, Trost H, Aigner S, Rigo F, **Yeo GW**, Harel A, Svendsen CN, Sareen D, Rothstein JD.<br>
+
+* [**Conserved metabolite regulation of stress granule assembly via AdoMet**](/papers/2020/begovich_2020_jcb.pdf)<br>
+Begovich K, Vu AQ, **Yeo GW**, Wilhelm JE.<br>
+
 * [**DDX5 promotes oncogene C3 and FABP1 expressions and drives intestinal inflammation and tumorigenesis**](/papers/2020/Abbasi_LSA_2020.pdf)<br>
 Abbasi N, Long T, Li Y, Yee BA, Cho BS, Hernandez JE, Ma E, Patel PR, Sahoo D, Sayed IM, Varki N, Das S, Ghosh P, **Yeo GW**, Huang WJM.<br>
 Life Science Alliance<br>
