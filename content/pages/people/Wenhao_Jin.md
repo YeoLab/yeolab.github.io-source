@@ -21,6 +21,7 @@ Wenhao received his B.S. in Bioinformatics from Zhejiang University in 2014. As 
 
 
 ##Publications
+* Boland B, He ZR, Tsai MS, Olvera JG, Omilusik K, Duong H, Kim E, Limary A, **Jin W**, Milner JJ, Yu BF, Patel S, Tiani L, Tysl T, Kurd N, Bortnick A, Quezada L, Kanbar J, Miralles A, Huylebroeck D, Valasek MA, Dulai P, Singh S, Lu LF, Bui J, Murre C, Sandborn WJ, Goldrath AW, Yeo GW §, Chang JT §. Heterogeneity and clonal relationships of adaptive immune cells in ulcerative colitis revealed by single-cell analyses. Science Immunology, 2020.
 
 * Wheeler EC §, Vu A §, Einstein JM, DiSalvo M, Ahmed N, Van Nostrand EL, Shiskin AA, **Jin W**, Allbrighton NL, Yeo GW. Pooled CRISPR screens with image-based phenotyping on microRaft arrays reveals stress granule-regulatory factors. Nature Methods, 2020. (§ co-first author)
 

@@ -20,6 +20,8 @@ Stefan received his PhD in Chemistry and Biochemistry from the University of Col
 
 
 ## Publications
+Coyne A, Zaepfel B, Hayes L, Fitchman B, Salzberg Y, Luo EC, Bowen K, Trost H, **Aigner S**, Rigo F, Yeo GW, Harel A, Svendsen CN, Sareen D, Rothstein JD. G4C2 Repeat RNA Initiates a POM121-Mediated Reduction in Specific Nucleoporins in C9orf72 ALS/FTD. Neuron. 2020 Sept 23. 
+
 Luo EC, Nathanson JL, Tan FE, Schwartz JL, Schmok JC, Shankar A, Markimiller S, Yee BA, Sathe S, Pratt GA, Scaletta DB, Ha Y, Hill DE, **Aigner S**, Yeo GW. Large-scale tethered function assays identify factors that regulate mRNA stability and translation.  Nature Structural and Molecular Biology. 2020 Aug 17.
 
 Van Nostrand EL, Freese P, Pratt GA, Wang X, Wei X, Xiao R, Blue SM, Chen J-Y, Cody NAL, Dominguez D, Olson S, Sundararaman B, Zhan L, Bazile C, Bouvrette LPB, Bergalet J, Duff MO, Garcia KE, Gelboin-Burkhart C, Hochman M, Lambert NJ, Li H, Nguyen TB, Palden T, Rabano I, Sathe S, Stanton R, Su A, Wang R, Yee BA, Zhou B, Louie AL, **Aigner S**, Fu X-D, Lécuyer E, Burge CB, Graveley BR, Yeo GW. A large-scale binding and functional map of human RNA-binding proteins. Nature. 2020 Jul 29. doi: 10.1038/s41586-020-2077-3
