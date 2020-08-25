@@ -5,7 +5,7 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2020
 
-* [** Heterogeneity and clonal relationships of adaptive immune cells in ulcerative colitis revealed by single-cell analyses**](/papers/2020/boland_2020_sciimmunology.pdf.pdf)<br>
+* [** Heterogeneity and clonal relationships of adaptive immune cells in ulcerative colitis revealed by single-cell analyses**](/papers/2020/boland_2020_sciimmunology.pdf)<br>
 Boland B, He ZR, Tsai MS, Olvera JG, Omilusik K, Duong H, Kim E, Limary A, Jin W, Milner JJ, Yu BF, Patel S, Tiani L, Tysl T, Kurd N, Bortnick A, Quezada L, Kanbar J, Miralles A, Huylebroeck D, Valasek MA, Dulai P, Singh S, Lu LF, Bui J, Murre C, Sandborn WJ, Goldrath AW, **Yeo GW §**, Chang JT § (co-corresponding)<br>
 Science Immunology<br>
 
@@ -22,7 +22,7 @@ Abbasi N, Long T, Li Y, Yee BA, Cho BS, Hernandez JE, Ma E, Patel PR, Sahoo D, S
 Life Science Alliance<br>
 
 * [**Large-scale tethered function assays identify factors that regulate mRNA stability and translation**](/papers/2020/Luo_NatStrMolBio_2020.pdf)<br>
-Luo EC, Nathanson JL, Tan FE, Schwartz JL, Schmok JC, Shankar A, Markimiller S, Yee BA, Sathe S, Pratt GA, Scaletta DB, Ha Y, Hill DE, Aigner S, **Yeo GW**.<br>
+Luo EC, Nathanson JL, Tan FE, Schwartz JL, Schmok JC, Shankar A, Markmiller S, Yee BA, Sathe S, Pratt GA, Scaletta DB, Ha Y, Hill DE, Aigner S, **Yeo GW**.<br>
 Nature Structural and Molecular Biology<br>
 
 * [**Perspectives on ENCODE**](/papers/2020/ENCODE_2020b_Nature.pdf)<br>

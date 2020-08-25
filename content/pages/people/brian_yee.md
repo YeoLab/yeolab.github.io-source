@@ -20,7 +20,7 @@ Brian is a bioinformatics software developer in the Yeolab focused on building t
 
 * Abbasi N, Long T, Li Y, **Yee BA**, Cho BS, Hernandez JE, Ma E, Patel PR, Sahoo D, Sayed IM, Varki N, Das S, Ghosh P, Yeo GW, Huang WJM. DDX5 promotes oncogene C3 and FABP1 expressions and drives intestinal inflammation and tumorigenesis. Life Science Alliance, 2020.
 
-* Luo EC, Nathanson JL, Tan FE, Schwartz JL, Schmok JC, Shankar A, Markimiller S, **Yee BA**, Sathe S, Pratt GA, Scaletta DB, Ha Y, Hill DE, Aigner S, Yeo GW. Large-scale tethered function assays identify factors that regulate mRNA stability and translation. Nature Structural and Molecular Biology, 2020.
+* Luo EC, Nathanson JL, Tan FE, Schwartz JL, Schmok JC, Shankar A, Markmiller S, **Yee BA**, Sathe S, Pratt GA, Scaletta DB, Ha Y, Hill DE, Aigner S, Yeo GW. Large-scale tethered function assays identify factors that regulate mRNA stability and translation. Nature Structural and Molecular Biology, 2020.
 
 * Van Nostrand EL, Pratt GA, **Yee BA**, Wheeler E, Blue SM, Mueller J, Park SS, Garcia KE, Gelboin-Burkhart C, Nguyen TB, Rabano I, Stanton R, Sundararaman B, Wang R, Fu X-D, Graveley BR, Yeo GW. Principles of RNA processing from analysis of enhanced CLIP maps for 150 RNA binding proteins. Genome Biology, 2020.
 

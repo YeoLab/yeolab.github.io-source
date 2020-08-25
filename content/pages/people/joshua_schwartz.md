@@ -21,6 +21,6 @@ Josh graduated magna cum laude with majors in Biology and Chemistry from Transyl
 
 
 ## Publications
-Luo EC, Nathanson JL, Tan FE, **Schwartz JL**, Schmok JC, Shankar A, Markimiller S, Yee BA, Sathe S, Pratt GA, Scaletta DB, Ha Y, Hill DE, Aigner S, Yeo GW. 2020. Large-scale tethered function assays identify factors that regulate mRNA stability and translation.  Nature Structural and Molecular Biology.
+Luo EC, Nathanson JL, Tan FE, **Schwartz JL**, Schmok JC, Shankar A, Markmiller S, Yee BA, Sathe S, Pratt GA, Scaletta DB, Ha Y, Hill DE, Aigner S, Yeo GW. 2020. Large-scale tethered function assays identify factors that regulate mRNA stability and translation.  Nature Structural and Molecular Biology.
 
 Subramanian M, Timmerman CK, **Schwartz JL**, Pham DL, and Meffert MK. 2015. Characterizing autism spectrum disorders by key biochemical pathways. Front. Neurosci. 9:313.

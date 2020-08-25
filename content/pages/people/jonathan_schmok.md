@@ -23,7 +23,7 @@ In the Yeo lab, I’m excited to be working with a talented and diverse team on 
 
 ## Publications
 
-* Luo EC, Nathanson JL, Tan FE, Schwartz JL, **Schmok JC**, Shankar A, Markimiller S, Yee BA, Sathe S, Pratt GA, Scaletta DB, Ha Y, Hill DE, Aigner S, Yeo GW. "Large-scale tethered function assays identify factors that regulate mRNA stability and translation." Nature Structural and Molecular Biology 2020.
+* Luo EC, Nathanson JL, Tan FE, Schwartz JL, **Schmok JC**, Shankar A, Markmiller S, Yee BA, Sathe S, Pratt GA, Scaletta DB, Ha Y, Hill DE, Aigner S, Yeo GW. "Large-scale tethered function assays identify factors that regulate mRNA stability and translation." Nature Structural and Molecular Biology 2020.
 
 * S. M. Grist, S. S. Nasseri, L. Laplatine, **J. C. Schmok**, D. Yao, J. Hua, L. Chrostowski, K. C. Cheung, “Long-term monitoring in a microfluidic system to study tumour spheroid response to chronic and cycling hypoxia,” Scientific Reports 2019,  9, 1-13.
 

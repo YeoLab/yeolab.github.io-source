@@ -21,7 +21,7 @@ Sebastian received his B.S. in Molecular Biotechnology in 2004 and his M.S. in M
 
 ## Publications
 
-* Luo EC, Nathanson JL, Tan FE, Schwartz JL, Schmok JC, Shankar A, **Markimiller S**, Yee BA, Sathe S, Pratt GA, Scaletta DB, Ha Y, Hill DE, Aigner S, Yeo GW. Large-scale tethered function assays identify factors that regulate mRNA stability and translation.  Nature Structural and Molecular Biology, 2020.
+* Luo EC, Nathanson JL, Tan FE, Schwartz JL, Schmok JC, Shankar A, **Markmiller S**, Yee BA, Sathe S, Pratt GA, Scaletta DB, Ha Y, Hill DE, Aigner S, Yeo GW. Large-scale tethered function assays identify factors that regulate mRNA stability and translation.  Nature Structural and Molecular Biology, 2020.
 
 * **Markmiller S**, Fulzele A, Higgins R, Leonard M, Yeo GW§, Bennett EJ§. Active Protein Neddylation or Ubiquitylation Is Dispensable for Stress Granule Dynamics. Cell Reports, 2019 (§ co-corresponding)     
 
