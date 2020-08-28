@@ -5,6 +5,18 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2020
 
+* [** An in vivo genome-wide CRISPR screen identifies the RNA-binding protein Staufen2 as a key regulator of myeloid leukemia **](/papers/2020/bajaj_natcan_2020.pdf)<br>
+Bajaj J, Hamilton M, Shima Y, Chambers K, Spinler K, Van Nostrand E, Yee BA, Blue SM, Chen M, Rizzeri D, Chuah C, Oehler VG, Broome HE, Sasik R, Scott-Browne J, Rao A, **Yeo GW**, Reya T.<br>
+Nature Cancer<br> 
+
+* [** The sustained expression of Cas9 targeting toxic RNAs reverses disease phenotypes in mouse models of myotonic dystrophy type 1 **]<br>
+ Batra R, Nelles DA, Roth DM, Krach F, Nutter CA, Tadokoro T, Thomas JD, Sznajder L, Blue SM, Gutierrez H, Liu P, Aigner S, Platoshyn O, Miyanohara A, Marsala M, Swanson MS, **Yeo GW**.<br>
+Nature Biomedical Engineering, in press<br>
+
+* [**Transcriptome-wide analysis of PGC-1a-binding RNAs identifies genes linked to glucagon metabolic action **](/papers/2020/tavares_pnas_2020.pdf)<br>
+Tavares CD§, Aigner S§, Sharabi K, Sathe S, Mutli B, **Yeo GW**, Puigserver P. (§ co-first author)
+Proceedings of the National Academy of Sciences<br>
+
 * [** Heterogeneity and clonal relationships of adaptive immune cells in ulcerative colitis revealed by single-cell analyses**](/papers/2020/boland_2020_sciimmunology.pdf)<br>
 Boland B, He ZR, Tsai MS, Olvera JG, Omilusik K, Duong H, Kim E, Limary A, Jin W, Milner JJ, Yu BF, Patel S, Tiani L, Tysl T, Kurd N, Bortnick A, Quezada L, Kanbar J, Miralles A, Huylebroeck D, Valasek MA, Dulai P, Singh S, Lu LF, Bui J, Murre C, Sandborn WJ, Goldrath AW, **Yeo GW §**, Chang JT § (co-corresponding)<br>
 Science Immunology<br>

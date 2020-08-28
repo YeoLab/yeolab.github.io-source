@@ -20,6 +20,10 @@ Stefan received his PhD in Chemistry and Biochemistry from the University of Col
 
 
 ## Publications
+Batra R, Nelles DA, Roth DM, Krach F, Nutter CA, Tadokoro T, Thomas JD, Sznajder L, Blue SM, Gutierrez H, Liu P, **Aigner S**, Platoshyn O, Miyanohara A, Marsala M, Swanson MS, Yeo GW. The sustained expression of Cas9 targeting toxic RNAs reverses disease phenotypes in mouse models of myotonic dystrophy type 1. Nature Biotechnology. In press. 
+
+Tavares CDJ§, **Aigner S§**, Sharabi K, Sathe S, Mutli B, Yeo GW, Puigserver P. Transcriptome-wide analysis of PGC-1a-binding RNAs identifies genes linked to glucagon metabolic action. PNAS. 2020 July 23. (co-first author)
+
 Coyne A, Zaepfel B, Hayes L, Fitchman B, Salzberg Y, Luo EC, Bowen K, Trost H, **Aigner S**, Rigo F, Yeo GW, Harel A, Svendsen CN, Sareen D, Rothstein JD. G4C2 Repeat RNA Initiates a POM121-Mediated Reduction in Specific Nucleoporins in C9orf72 ALS/FTD. Neuron. 2020 Sept 23. 
 
 Luo EC, Nathanson JL, Tan FE, Schwartz JL, Schmok JC, Shankar A, Markmiller S, Yee BA, Sathe S, Pratt GA, Scaletta DB, Ha Y, Hill DE, **Aigner S**, Yeo GW. Large-scale tethered function assays identify factors that regulate mRNA stability and translation.  Nature Structural and Molecular Biology. 2020 Aug 17.

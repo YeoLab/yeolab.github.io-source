@@ -24,6 +24,7 @@ Shashank started his Bioinformatics career in 2013 as an Intern at the Allen Lab
 Currently, Shashank works on studying RNA subcellular localization and RNA-RBP interactions under stress, developmental and diseased conditions.
 
 ## Publications
+*Tavares CDJ§, **Aigner S§**, Sharabi K, Sathe S, Mutli B, Yeo GW, Puigserver P. Transcriptome-wide analysis of PGC-1a-binding RNAs identifies genes linked to glucagon metabolic action. PNAS. 2020
 
 * Luo EC, Nathanson JL, Tan FE, Schwartz JL, Schmok JC, Shankar A, Markmiller S, Yee BA, **Sathe S**, Pratt GA, Scaletta DB, Ha Y, Hill DE, Aigner S, Yeo GW. Large-scale tethered function assays identify factors that regulate mRNA stability and translation.  Nature Structural and Molecular Biology. 2020.
 
