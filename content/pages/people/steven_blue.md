@@ -20,6 +20,10 @@ As an undergraduate student at UC Irvine, Steven was a member of Dr. Marcelo Woo
 
 ##Publications
 
+* Batra R, Nelles DA, Roth DM, Krach F, Nutter CA, Tadokoro T, Thomas JD, Sznajder L, **Blue SM**, Gutierrez H, Liu P, Aigner S, Platoshyn O, Miyanohara A, Marsala M, Swanson MS, Yeo GW. The sustained expression of Cas9 targeting toxic RNAs reverses disease phenotypes in mouse models of myotonic dystrophy type 1. Nature Biomedical Engineering, in press.
+
+* Bajaj J, Hamilton M, Shima Y, Chambers K, Spinler K, Van Nostrand E, Yee BA, **Blue SM**, Chen M, Rizzeri D, Chuah C, Oehler VG, Broome HE, Sasik R, Scott-Browne J, Rao A, Yeo GW, Reya T. An in vivo genome-wide CRISPR screen identifies the RNA-binding protein Staufen2 as a key regulator of myeloid leukemia. Nature Cancer, 2020.
+
 * Van Nostrand EL, Pratt GA, Yee BA, Wheeler E, **Blue SM**, Mueller J, Park SS, Garcia KE, Gelboin-Burkhart C, Nguyen TB, Rabano I, Stanton R, Sundararaman B, Wang R, Fu X-D, Graveley BR, Yeo GW. Principles of RNA processing from analysis of enhanced CLIP maps for 150 RNA binding proteins. Genome Biology, 2020.
 
 * Batra R, Nelles DA, Pirie E, **Blue SM**, Marina RJ, Wang H, Chaim IA, Thomas JD, Zhang N, Nguyen V, Aigner S, Markmiller S, Xia G, Corbett KD, Swanson MS, Yeo GW. Elimination of Toxic Microsatellite Repeat Expansion RNA by RNA-Targeting Cas9. Cell. 2017 Aug 10. 
