@@ -5,7 +5,7 @@ Position_suffix: Research Associate I
 Affiliation:  Bioengineering: Biotechnology
 Email: ssp045 at ucsd.edu
 Fellowship:
-Headshot: /images/people/samuel_park.jpg
+Headshot: /images/people/sam_park.png
 Template: person
 Alumni_or_current: Current
 <!-- Status: draft -->
