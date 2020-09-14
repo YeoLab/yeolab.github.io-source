@@ -5,9 +5,9 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2020
 
-* [** The sustained expression of Cas9 targeting toxic RNAs reverses disease phenotypes in mouse models of myotonic dystrophy type 1 **]<br>
+* [** The sustained expression of Cas9 targeting toxic RNAs reverses disease phenotypes in mouse models of myotonic dystrophy type 1 **](/papers/2020/Batra_2020_nat_bioeng.pdf)<br>
 Batra R, Nelles DA, Roth DM, Krach F, Nutter CA, Tadokoro T, Thomas JD, Sznajder L, Blue SM, Gutierrez H, Liu P, Aigner S, Platoshyn O, Miyanohara A, Marsala M, Swanson MS, **Yeo GW**.<br>
-Nature Biomedical Engineering, in press<br>
+Nature Biomedical Engineering<br>
 
 * [** An in vivo genome-wide CRISPR screen identifies the RNA-binding protein Staufen2 as a key regulator of myeloid leukemia **](/papers/2020/bajaj_natcan_2020.pdf)<br>
 Bajaj J, Hamilton M, Shima Y, Chambers K, Spinler K, Van Nostrand E, Yee BA, Blue SM, Chen M, Rizzeri D, Chuah C, Oehler VG, Broome HE, Sasik R, Scott-Browne J, Rao A, **Yeo GW**, Reya T.<br>
