@@ -7,7 +7,9 @@ Email: jwilliams at ucsd.edu
 Fellowship:
 Headshot: /images/people/john_williams.jpg
 Template: person
-Alumni_or_current: Current
+Alumni_or_current: Alumni
+End_date: 2020-09-01
+Current_position: Software Developer, Lowe's, Charlotte NC
 <!-- Status: draft -->
 
 ## Degrees
