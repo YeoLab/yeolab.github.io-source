@@ -3,7 +3,7 @@ Date: 2020-02-01
 Position: Post-Doctoral Fellow
 Position_suffix: 
 Affiliation: Cellular and Molecular Medicine
-Email: hugo.c.medina at ucsd.edu 
+Email: hmedina at health.ucsd.edu 
 Fellowship: IRACDA
 Headshot: /images/people/hugo_medina.png 
 Template: person
@@ -22,4 +22,4 @@ Hugo is a postdoctoral fellow in the Department of Cellular and Molecular Medici
 Before his graduate training, Hugo completed a B.A. in Biology at California State University, Northridge. During his undergraduate training, Hugo researched bacterial morphology and physiology in the laboratory of Dr. Michael L. Summers. In 2010, he traveled to the Leloir Foundation Institute in Buenos Aires, Argentina, to study bacterial pathogenesis in the laboratory of Dr. Angeles Zorreguieta.
 
 ##Publications
-* Medina-Muñoz, HC, Lapointe, CP, Porter, DF, and Wickens, M. Records of RNA localization through covalent tagging. bioRxiv. 2019:785816 (Under Review)
+* **Medina-Muñoz, HC**, Lapointe, CP, Porter, DF, and Wickens, M. Records of RNA localizations in living yeast revealed through covalent marks. Proceedings of the National Academy of Sciences, 201921408, doi:10.1073/pnas.1921408117 (2020).
