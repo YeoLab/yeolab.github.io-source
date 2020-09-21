@@ -67,7 +67,8 @@ Nature Methods<br>
 
 * [**Principles of RNA processing from analysis of enhanced CLIP maps for 150 RNA binding proteins**](/papers/2020/VanNostrand_GenomeBiology_2020.pdf)   
 Van Nostrand EL, Pratt GA, Yee BA, Wheeler E, Blue SM, Mueller J, Park SS, Garcia KE, Gelboin-Burkhart C, Nguyen TB, Rabano I, Stanton R, Sundararaman B, Wang R, Fu X-D, Graveley BR, **Yeo GW**.   
-Genome Biology   
+Genome Biology  
+[5mer motifs used for eCLIP analysis](https://www.dropbox.com/s/mjolukoif8qym0v/ecliplogo5mers.zip?dl=0) 
 
 * [**How RNA-Binding Proteins Interact with RNA: Molecules and Mechanisms**](/papers/2020/Corley_MolecularCellReview2020.pdf)   
 Corley M, Burns MC, **Yeo GW**.   
