@@ -48,6 +48,7 @@ Nature<br>
 * [**A large-scale binding and functional map of human RNA-binding proteins**](/papers/2020/VanNostrand_Nature2020.pdf)<br>
 Van Nostrand EL, Freese P, Pratt GA, Wang X, Wei X, Xiao R, Blue SM, Chen J-Y, Cody NAL, Dominguez D, Olson S, Sundararaman B, Zhan L, Bazile C, Bouvrette LPB, Bergalet J, Duff MO, Garcia KE, Gelboin-Burkhart C, Hochman M, Lambert NJ, Li H, Nguyen TB, Palden T, Rabano I, Sathe S, Stanton R, Su A, Wang R, Yee BA, Zhou B, Louie AL, Aigner S, Fu X-D, Lécuyer E, Burge CB, Graveley BR, **Yeo GW**.<br>
 Nature<br>
+[5mer motifs used for eCLIP analysis](https://www.dropbox.com/s/mjolukoif8qym0v/ecliplogo5mers.zip?dl=0)
 
 * [**A role for alternative splicing in circadian control of exocytosis and glucose homeostasis**](/papers/2020/Perelis_genesdev_2020.pdf)<br>
 Marcheva B, Perelis M, Weidemann BJ, Taguchi A, Lin H, Omura C, Kobayashi Y, Newman MV, Wyatt EJ, McNally EM, Manning-Fox JE, Hong H, Shankar A, Wheeler EC, Ramsey KM, MacDonald PE, **Yeo GW**, Bass J.<br>
@@ -68,7 +69,6 @@ Nature Methods<br>
 * [**Principles of RNA processing from analysis of enhanced CLIP maps for 150 RNA binding proteins**](/papers/2020/VanNostrand_GenomeBiology_2020.pdf)   
 Van Nostrand EL, Pratt GA, Yee BA, Wheeler E, Blue SM, Mueller J, Park SS, Garcia KE, Gelboin-Burkhart C, Nguyen TB, Rabano I, Stanton R, Sundararaman B, Wang R, Fu X-D, Graveley BR, **Yeo GW**.   
 Genome Biology  
-[5mer motifs used for eCLIP analysis](https://www.dropbox.com/s/mjolukoif8qym0v/ecliplogo5mers.zip?dl=0) 
 
 * [**How RNA-Binding Proteins Interact with RNA: Molecules and Mechanisms**](/papers/2020/Corley_MolecularCellReview2020.pdf)   
 Corley M, Burns MC, **Yeo GW**.   
