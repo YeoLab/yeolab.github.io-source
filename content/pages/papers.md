@@ -5,6 +5,18 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2020
 
+* [**The Thermus thermophilus DEAD-box protein Hera is a general RNA binding protein and plays a key role in tRNA metabolism**](/papers/2020/Donsbach_RNA.pdf)<br>
+Donsbach P, Yee BA, Sanchez-Hevia D, Berenguer J, Aigner S, **Yeo GW**, Klostermeier D.<br>
+RNA<br>
+
+* [**Context-dependent functional compensation between Ythdf m6a reader proteins**](/papers/2020/Lasman_GenesDev.pdf)<br>
+Lasman L, Krupalnik V, Viukov S, Mor N, Aguilera-Castrejon A, Schneir D, Bayerl J, Mizrahi O, Peles S, Tawil S, Sathe S, Nachshon A, Shani T, Zerbib M, Kilimnik I, Aigner S, Shankar A, Mueller JR, Schwartz S, Stern-Ginossar N, **Yeo GW**, Geula S, Novershtern N, Hanna JH.<br>
+Genes & Development<br>
+
+* [**AMPK regulation of Raptor and TSC2 mediate metformin effects on transcriptional control of anabolism and inflammation**](/papers/2020/VanNostrand_GenesDev.pdf)<br>
+Van Nostrand JL, Hellberg K, Luo E-C, Van Nostrand EL, Dayn A, Yu J, Shokhirev MN, Dayn Y, **Yeo GW**, Shaw RJ.<br>
+Genes & Development<br>
+
 * [** The sustained expression of Cas9 targeting toxic RNAs reverses disease phenotypes in mouse models of myotonic dystrophy type 1 **](/papers/2020/Batra_2020_nat_bioeng.pdf)<br>
 Batra R, Nelles DA, Roth DM, Krach F, Nutter CA, Tadokoro T, Thomas JD, Sznajder L, Blue SM, Gutierrez H, Liu P, Aigner S, Platoshyn O, Miyanohara A, Marsala M, Swanson MS, **Yeo GW**.<br>
 Nature Biomedical Engineering<br>

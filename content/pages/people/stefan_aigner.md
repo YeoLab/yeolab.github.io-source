@@ -20,7 +20,11 @@ Stefan received his PhD in Chemistry and Biochemistry from the University of Col
 
 
 ## Publications
-Batra R, Nelles DA, Roth DM, Krach F, Nutter CA, Tadokoro T, Thomas JD, Sznajder L, Blue SM, Gutierrez H, Liu P, **Aigner S**, Platoshyn O, Miyanohara A, Marsala M, Swanson MS, Yeo GW. The sustained expression of Cas9 targeting toxic RNAs reverses disease phenotypes in mouse models of myotonic dystrophy type 1. Nature Biotechnology. In press. 
+Donsbach P, Yee BA, Sanchez-Hevia D, Berenguer J, **Aigner S**, Yeo GW, Klostermeier D. The Thermus thermophilus DEAD-box protein Hera is a general RNA binding protein and plays a key role in tRNA metabolism. RNA, 2020.
+
+Lasman L, Krupalnik V, Viukov S, Mor N, Aguilera-Castrejon A, Schneir D, Bayerl J, Mizrahi O, Peles S, Tawil S, Sathe S, Nachshon A, Shani T, Zerbib M, Kilimnik I, **Aigner S**, Shankar A, Mueller JR, Schwartz S, Stern-Ginossar N, Yeo GW, Geula S, Novershtern N, Hanna JH. Context-dependent functional compensation between Ythdf m6a reader proteins. Genes & Dev, 2020.
+
+Batra R, Nelles DA, Roth DM, Krach F, Nutter CA, Tadokoro T, Thomas JD, Sznajder L, Blue SM, Gutierrez H, Liu P, **Aigner S**, Platoshyn O, Miyanohara A, Marsala M, Swanson MS, Yeo GW. The sustained expression of Cas9 targeting toxic RNAs reverses disease phenotypes in mouse models of myotonic dystrophy type 1. Nature Biomedical Engineering, 2020.
 
 Tavares CDJ§, **Aigner S§**, Sharabi K, Sathe S, Mutli B, Yeo GW, Puigserver P. Transcriptome-wide analysis of PGC-1a-binding RNAs identifies genes linked to glucagon metabolic action. PNAS. 2020 July 23. (co-first author)
 
