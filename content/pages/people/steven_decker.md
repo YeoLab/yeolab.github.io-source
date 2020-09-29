@@ -8,7 +8,6 @@ Fellowship:
 Headshot: /images/people/steven_decker.jpg
 Template: person
 Alumni_or_current: Current
-Current Position: UCSD, CA
 End_date:
 <!-- Status: draft -->
 
