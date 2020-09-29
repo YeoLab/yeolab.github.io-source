@@ -1,13 +1,15 @@
 Title: Steven Decker
 Date: 2020-09-01
-Position: Undergraduate
-Position_suffix:
-Affiliation:
+Position: Undergraduate Student
+Position_suffix: (Ryan Marina)
+Affiliation: San Diego State University
 Email: stevendecker99 at gmail.com
 Fellowship:
 Headshot: /images/people/steven_decker.jpg
 Template: person
 Alumni_or_current: Current
+Current Position:
+End_date:
 <!-- Status: draft -->
 
 ## Degrees
