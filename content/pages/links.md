@@ -3,8 +3,9 @@ Date: 2016-04-21
 icon: mdi mdi-link
 
 ## The Toughest Challenge for The Hardest Fight
-[This year, Target ALS and Spartan Races have teamed up to launch a new global campaign to raise funds for brreakthrough ALS research. Help us raise funds to fuel innovative research programs for ALS!](https://toughestchallenge.com/page/RNAWarriors)
-[![RNA Warriors](../images/links/RNAWarriors.jpg)](https://toughestchallenge.com/page/RNAWarriors)
+[This year, Target ALS and Spartan Races have teamed up to launch a new global campaign to raise funds for breakthrough ALS research. Help us raise funds to fuel innovative research programs for ALS!](https://toughestchallenge.com/page/RNAWarriors)
+
+<a href="RNA Warriors"><img src="../images/links/RNAWarriors.jpg" align="center" height="250" width="250" ></a>
 
 ## FAQ
 
@@ -17,3 +18,7 @@ icon: mdi mdi-link
 ## Meetings
 
 [SingaRNA Symposium 2016](http://yeolab.github.io/singarna-symposium-2016/)
+
+
+
+
