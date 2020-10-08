@@ -12,7 +12,7 @@ Template: person
 
 ## Degrees
 
-B.S. Biological Systems Engineering, Virginia Tech 2014
+B.S. Biological Systems Engineering, Virginia Tech 2014<br>
 PhD Bioengineering, University of California San Diego 2020
 
 ## Summary
