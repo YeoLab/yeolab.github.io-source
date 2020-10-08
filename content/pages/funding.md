@@ -12,11 +12,11 @@ icon: mdi mdi-currency-usd
 }
 </style>
 
-<a href="Allen Distinguished Investigator"><img src="../images/funding/allen.png" align="center" height="250" width="250" ></a>
-<a href="CDMRP Department of Defense"><img src="../images/funding/DOD.jpg" align="center" height="250" width="250" ></a>
-<a href="National Institutes of Health"><img src="../images/funding/NIH.png" align="center" height="250" width="250" ></a>
-<a href="Takeda"><img src="../images/funding/takeda.png" align="center" height="250" width="250" ></a>
-<a href="Chan Zuckerberg Initiative"><img src="../images/funding/zuckerberg.png" align="center" height="250" width="250" ></a>
+<a href="Allen Distinguished Investigator"><img src="../images/funding/allen.png" align="center" height="200" width="360" ></a>
+<a href="CDMRP Department of Defense"><img src="../images/funding/DOD.jpg" align="center" height="150" width="533" ></a>
+<a href="National Institutes of Health"><img src="../images/funding/NIH.png" align="center" height="200" width="266" ></a>
+<a href="Takeda"><img src="../images/funding/takeda.png" align="center" height="150" width="431" ></a>
+<a href="Chan Zuckerberg Initiative"><img src="../images/funding/zuckerberg.png" align="center" height="175" width="395" ></a>
 
 ## Grants
 
