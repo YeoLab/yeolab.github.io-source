@@ -1,8 +1,8 @@
 Title: Jaclyn Einstein
 Date: 2020-05-21
-Position: Graduate Student
-Position_suffix: (Ph.D.)
-Affiliation: Bioengineering
+Position: Post-Doctoral Fellow
+Position_suffix:
+Affiliation: Cellular and Molecular Medicine
 Email: jeinstei at ucsd.edu
 Fellowship:
 Alumni_or_current: Current
@@ -13,10 +13,11 @@ Template: person
 ## Degrees
 
 B.S. Biological Systems Engineering, Virginia Tech 2014
+PhD Bioengineering, University of California San Diego 2020
 
 ## Summary
 
-Jackie is a PhD student in the Bioengineering department at UCSD. She graduated from Virginia Tech with a B.S in biological systems engineering and a minor in mathematics in 2014. She completed her undergraduate laboratory and senior design work in Dr. Warren Ruder’s lab studying synthetic biology with application to environmental issues. She focused on learning and understanding natural, microbial biological systems and reengineering those systems to detect contaminants in Virginia’s private water sources. In the Yeo lab, Jackie has constructed an RNA binding protein targeted CRISPR screen to identify RBP knockouts that confer synthetic lethality in Myc-dependent breast cancer using high-throughput sequencing
+Jackie graduated from Virginia Tech with a B.S in biological systems engineering and a minor in mathematics in 2014. She completed her undergraduate laboratory and senior design work in Dr. Warren Ruder’s lab studying synthetic biology with application to environmental issues. She focused on learning and understanding natural, microbial biological systems and reengineering those systems to detect contaminants in Virginia’s private water sources. Jackie earned her PhD in the Yeo Lab where she developed and applied an RNA binding protein targeted CRISPR-Cas9 screen to identify RBP knockouts that confer synthetic lethality in MYC-dependent breast cancer using high-throughput sequencing. As a postdoctoral researcher, Jackie is interested in translating her basic science discoveries into clinical utility through drug discovery.
 
 ## Fellowships
 
