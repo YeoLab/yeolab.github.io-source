@@ -12,6 +12,8 @@ icon: mdi mdi-currency-usd
 }
 </style>
 
+<a href="Allen Distinguished Investigator"><img src="../images/funding/allen.png" align="center" ></a>
+
 ## Grants
 
 ###**Current:**
