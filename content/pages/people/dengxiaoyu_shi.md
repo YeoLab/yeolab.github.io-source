@@ -5,7 +5,8 @@ Position_suffix: (Daniel Lorenz)
 Affiliation:  Bioinformatics and Clinical Psychology
 Email: des024 at ucsd.edu
 Fellowship:
-Alumni_or_current: Current
+Alumni_or_current: Alumni
+End_date: 2020-10-16
 Headshot: /images/people/dengxiaoyu_shi.jpg
 Template: person
 <!-- Status: draft -->
