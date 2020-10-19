@@ -12,7 +12,7 @@ icon: mdi mdi-currency-usd
 }
 </style>
 
-<img src="../images/funding/allen.png" align="center" height="100" width="180" >
+<img src="../images/funding/allen.png" align="center" height="120" width="216" >
 <img src="../images/funding/NIH.png" align="center" height="100" width="132" >
 <img src="../images/funding/zuckerberg.png" align="center" height="87" width="197" >
 <img src="../images/funding/DOD.jpg" align="center" height="75" width="266" >
