@@ -5,6 +5,10 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2020
 
+* [**Base editing: advances and therapeutic opportunities**](/papers/2020/Porto_NatRevDD.pdf)<br>
+Porto EM, Komor AC, Slaymaker IM, **Yeo GW**.<br>
+Nature Reviews Drug Discovery<br>
+
 * [**The Thermus thermophilus DEAD-box protein Hera is a general RNA binding protein and plays a key role in tRNA metabolism**](/papers/2020/Donsbach_RNA_final.pdf)<br>
 Donsbach P, Yee BA, Sanchez-Hevia D, Berenguer J, Aigner S, **Yeo GW**, Klostermeier D.<br>
 RNA<br>
