@@ -12,11 +12,11 @@ icon: mdi mdi-currency-usd
 }
 </style>
 
-<img src="../images/funding/allen.png" align="center" height="200" width="360" >
-<img src="../images/funding/DOD.jpg" align="center" height="150" width="533" >
-<img src="../images/funding/NIH.png" align="center" height="200" width="266" >
-<img src="../images/funding/takeda.png" align="center" height="150" width="431" >
-<img src="../images/funding/zuckerberg.png" align="center" height="175" width="395" >
+<img src="../images/funding/allen.png" align="center" height="100" width="180" >
+<img src="../images/funding/NIH.png" align="center" height="100" width="132" >
+<img src="../images/funding/zuckerberg.png" align="center" height="87" width="197" >
+<img src="../images/funding/DOD.jpg" align="center" height="75" width="266" >
+<img src="../images/funding/takeda.png" align="center" height="75" width="215" >
 
 ## Grants
 
