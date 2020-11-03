@@ -17,6 +17,8 @@ B.A. MCD Biology/ Biochemistry, University of Colorado at Boulder, 2007
 Kristopher completed his B.A. in Biochemistry at the University of Colorado Boulder with Dr. Jens Lykke-Andersen’s lab, studying mammalian gene expression regulation by mRNA turnover.  Kristopher conducted his thesis research at the University of Colorado School of Medicine with Dr. David Bentley focusing on the molecular mechanisms of RNA Polymerase II (pol II) transcription termination and elongation in mammalian systems.  This research uncovered a role for termination factors at gene promoter regions, and showed that these factors cooperate with decapping factors in the nucleus to elicit widespread premature termination of transcription important for limiting pol II elongation away from promoter proximal pause regions.  In 2014 Kristopher began his postdoctoral research with the Yeo lab, focusing on protein-protein and protein-RNA interactions important for controlling mRNA fate in the context of neuronal development and neurodegenerative disease.  
 
 ## Publications
+Marina RJ, **Brannan KW**, Dong KD, Yee BA, Yeo GW. 2020. [Evaluation of Engineered CRISPR-Cas-Mediated Systems for Site-Specific RNA Editing.](/papers/2020/Marina_2020_Cell.pdf) Cell Reports.
+
 **Brannan, K.W.**, Yeo, GW. 2016. [**From Protein-RNA Predictions toward a Peptide-RNA Code**](/papers/2016/BrannanYeo_Preview2016.pdf). Mol Cell. doi:10.1016/j.molcel.2016.10.023  
 
 

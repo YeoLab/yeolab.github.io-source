@@ -18,6 +18,8 @@ Brian is a bioinformatics software developer in the Yeolab focused on building t
 
 ## Publications
 
+* Marina RJ, Brannan KW, Dong KD, **Yee BA**, Yeo GW. Evaluation of Engineered CRISPR-Cas-Mediated Systems for Site-Specific RNA Editing. Cell Reports, 2020.
+
 * Bajaj J, Hamilton M, Shima Y, Chambers K, Spinler K, Van Nostrand E, **Yee BA**, Blue SM, Chen M, Rizzeri D, Chuah C, Oehler VG, Broome HE, Sasik R, Scott-Browne J, Rao A, Yeo GW, Reya T. An in vivo genome-wide CRISPR screen identifies the RNA-binding protein Staufen2 as a key regulator of myeloid leukemia. Nature Cancer, 2020.
 
 * Abbasi N, Long T, Li Y, **Yee BA**, Cho BS, Hernandez JE, Ma E, Patel PR, Sahoo D, Sayed IM, Varki N, Das S, Ghosh P, Yeo GW, Huang WJM. DDX5 promotes oncogene C3 and FABP1 expressions and drives intestinal inflammation and tumorigenesis. Life Science Alliance, 2020.
