@@ -5,7 +5,7 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2020
 
-* [**Evaluation of Engineered CRISPR-Cas-Mediated Systems for Site-Specific RNA Editing**](/papers/2020/Marina_2020_Cell.pdf)<br>
+* [**Evaluation of Engineered CRISPR-Cas-Mediated Systems for Site-Specific RNA Editing**](/papers/2020/Marina_Cell_2020.pdf)<br>
 Marina RJ, Brannan KW, Dong KD, Yee BA, **Yeo GW**.<br>
 Cell Reports<br>
 
