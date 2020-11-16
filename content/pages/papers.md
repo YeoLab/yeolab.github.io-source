@@ -5,6 +5,14 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2020
 
+* [**Repeat RNA expansion disorders of the nervous system: post-transcriptional mechanisms and therapeutic strategies.**](/papers/2020/Schwartz_CritRev_2020.pdf)<br>
+Schwartz JL, Jones KL, **Yeo GW**<br>
+Critical Reviews in Biochemistry and Molecular Biology<br>
+
+* [**Zmat3 is a Key Splicing Regulatory in the p53 Tumor Suppression Program**](/papers/2020/Bieging_MolCell_2020.pdf)<br>
+Bieging-Rolett KT, Kaiser AM, Morgens DW, Boutelle AM, Seoane JA, Van Nostrand EL, Zhu C, Houlihan SL, Mello SS, Yee BA, McClendon J, Pierce SE, Winters IP, Wang M, Connolly AJ, Lowe SW, Curtis C, **Yeo GW**, Winslow MM, Bassik MC, Attardi LD.<br>
+Molecular Cell<br>
+
 * [**Evaluation of Engineered CRISPR-Cas-Mediated Systems for Site-Specific RNA Editing**](/papers/2020/Marina_Cell_2020.pdf)<br>
 Marina RJ, Brannan KW, Dong KD, Yee BA, **Yeo GW**.<br>
 Cell Reports<br>
