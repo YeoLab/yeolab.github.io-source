@@ -5,6 +5,10 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2020
 
+* [**Footprinting SHAPE-eCLIP Reveals Transcriptome-wide Hydrogen Bonds at RNA-protein Interfaces**](/papers/2020/Corley_MolCell_2020.pdf)<br>
+Corley M, Flynn RA, Lee B, Blue SM, Chang HY, **Yeo GW**<br>
+Molecular Cell<br>
+
 * [**Repeat RNA expansion disorders of the nervous system: post-transcriptional mechanisms and therapeutic strategies.**](/papers/2020/Schwartz_CritRev_2020.pdf)<br>
 Schwartz JL, Jones KL, **Yeo GW**<br>
 Critical Reviews in Biochemistry and Molecular Biology<br>

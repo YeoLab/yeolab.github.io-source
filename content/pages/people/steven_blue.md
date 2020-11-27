@@ -20,7 +20,9 @@ As an undergraduate student at UC Irvine, Steven was a member of Dr. Marcelo Woo
 
 ##Publications
 
-* Batra R, Nelles DA, Roth DM, Krach F, Nutter CA, Tadokoro T, Thomas JD, Sznajder L, **Blue SM**, Gutierrez H, Liu P, Aigner S, Platoshyn O, Miyanohara A, Marsala M, Swanson MS, Yeo GW. The sustained expression of Cas9 targeting toxic RNAs reverses disease phenotypes in mouse models of myotonic dystrophy type 1. Nature Biomedical Engineering, in press.
+* Corley M, Flynn RA, Lee B, **Blue SM**, Chang HY, Yeo GW. Footprinting SHAPE-eCLIP Reveals Transcriptome-wide Hydrogen Bonds at RNA-protein Interfaces. Molecular Cell, 2020.
+
+* Batra R, Nelles DA, Roth DM, Krach F, Nutter CA, Tadokoro T, Thomas JD, Sznajder L, **Blue SM**, Gutierrez H, Liu P, Aigner S, Platoshyn O, Miyanohara A, Marsala M, Swanson MS, Yeo GW. The sustained expression of Cas9 targeting toxic RNAs reverses disease phenotypes in mouse models of myotonic dystrophy type 1. Nature Biomedical Engineering, 2020.
 
 * Bajaj J, Hamilton M, Shima Y, Chambers K, Spinler K, Van Nostrand E, Yee BA, **Blue SM**, Chen M, Rizzeri D, Chuah C, Oehler VG, Broome HE, Sasik R, Scott-Browne J, Rao A, Yeo GW, Reya T. An in vivo genome-wide CRISPR screen identifies the RNA-binding protein Staufen2 as a key regulator of myeloid leukemia. Nature Cancer, 2020.
 
