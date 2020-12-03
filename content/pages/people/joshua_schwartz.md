@@ -21,6 +21,8 @@ Josh graduated magna cum laude with majors in Biology and Chemistry from Transyl
 
 
 ## Publications
+**Schwartz JL**, Jones KL, Yeo GW. 2020. Repeat RNA expansion disorders of the nervous system: post-transcriptional mechanisms and therapeutic strategies. Critical Reviews in Biochemistry and Molecular Biology.
+
 Luo EC, Nathanson JL, Tan FE, **Schwartz JL**, Schmok JC, Shankar A, Markmiller S, Yee BA, Sathe S, Pratt GA, Scaletta DB, Ha Y, Hill DE, Aigner S, Yeo GW. 2020. Large-scale tethered function assays identify factors that regulate mRNA stability and translation.  Nature Structural and Molecular Biology.
 
 Subramanian M, Timmerman CK, **Schwartz JL**, Pham DL, and Meffert MK. 2015. Characterizing autism spectrum disorders by key biochemical pathways. Front. Neurosci. 9:313.

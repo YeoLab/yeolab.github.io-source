@@ -23,4 +23,4 @@ Krysten received her bachelor's degree in Biological Sciences with a concentrati
 
 ##publications
 
-Coming soon!! 
+Schwartz JL, **Jones KL**, Yeo GW. 2020. Repeat RNA expansion disorders of the nervous system: post-transcriptional mechanisms and therapeutic strategies. Critical Reviews in Biochemistry and Molecular Biology. 
