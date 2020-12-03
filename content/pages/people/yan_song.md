@@ -7,7 +7,9 @@ Email: yasong at mail.ucsd.edu
 Fellowship: 
 Headshot: /images/people/yan_song.jpg
 Template: person
-alumni_or_current: Current
+alumni_or_current:Alumni
+Current_position: Senior Scientist, Takeda
+End_date: 2020-12-02
 
 ## Degrees
 

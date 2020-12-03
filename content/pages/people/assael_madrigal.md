@@ -7,14 +7,14 @@ Email: aamadrig at ucsd.edu
 Fellowship:
 Headshot: /images/people/assael_madrigal.jpg
 Template: person
-Alumni_or_current: Current
-Current_position: UCSD, CA
-End_date: 
+Alumni_or_current: Alumni
+Current_position:
+End_date: 2020-12-02
 <!-- Status: draft -->
 
 ## Degrees
 B.S., Biochemistry & Cell Biology, UC San Diego, 2016<br>
-A.S., Mathematics, Palomar College, 2013 <br>
+A.S., Mathematics, Palomar College, 2013 <br>
 
 ## Summary
 Raised in Tijuana, Mexico, Assael graduated from the University of California, San Diego with a B.S. in Biochemistry and Cell Biology where researched exosomal biomarkers in the O’Brien Center for Acute Kidney Injury biomarker center led by Dr. Rao. He is interested in statistics, molecular biology and is learning to analyze transcriptomic data obtained from sc-RNA seq in the Yeo Lab.He enjoys tennis, hiking, and listening to the stories of the grad students in the lab.
