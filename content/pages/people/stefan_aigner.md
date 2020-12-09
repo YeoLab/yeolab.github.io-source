@@ -20,6 +20,8 @@ Stefan received his PhD in Chemistry and Biochemistry from the University of Col
 
 
 ## Publications
+Okholm TLH, Sathe S, Park SS, Kamstrup AB, Rasmussen AM, Shankar A, Chua ZM, Fristrup N, Nielsen MM, Vang S, Dyrskjor L, **Aigner S**, Damgaard CK, Yeo GW, Pedersen JS. Transcriptome-wide profiles of circular RNA and RNA-binding protein interactions review effects on circular RNA biogenesis and cancer pathway expression. Genome Medicine, 2020.
+
 Donsbach P, Yee BA, Sanchez-Hevia D, Berenguer J, **Aigner S**, Yeo GW, Klostermeier D. The Thermus thermophilus DEAD-box protein Hera is a general RNA binding protein and plays a key role in tRNA metabolism. RNA, 2020.
 
 Lasman L, Krupalnik V, Viukov S, Mor N, Aguilera-Castrejon A, Schneir D, Bayerl J, Mizrahi O, Peles S, Tawil S, Sathe S, Nachshon A, Shani T, Zerbib M, Kilimnik I, **Aigner S**, Shankar A, Mueller JR, Schwartz S, Stern-Ginossar N, Yeo GW, Geula S, Novershtern N, Hanna JH. Context-dependent functional compensation between Ythdf m6a reader proteins. Genes & Dev, 2020.

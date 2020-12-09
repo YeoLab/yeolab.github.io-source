@@ -5,6 +5,11 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2020
 
+
+* [**Transcriptome-wide profiles of circular RNA and RNA-binding protein interactions reveal effects on circular RNA biogenesis and cancer pathway expression**](/papers/2020/Okholm_GenMed_2020.pdf)<br>
+Okholm TLH, Sathe S, Park SS, Kamstrup AB, Rasmussen AM, Shankar A, Chua ZM, Fristrup N, Nielsen MM, Vang S, Dyrskjor L, Aigner S, Damgaard CK, **Yeo GW**, Pedersen JS<br>
+Genome Medicine<br>
+
 * [**Footprinting SHAPE-eCLIP Reveals Transcriptome-wide Hydrogen Bonds at RNA-protein Interfaces**](/papers/2020/Corley_MolCell_2020.pdf)<br>
 Corley M, Flynn RA, Lee B, Blue SM, Chang HY, **Yeo GW**<br>
 Molecular Cell<br>
