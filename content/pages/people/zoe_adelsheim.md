@@ -1,11 +1,11 @@
-Title: Zoe Adelheim
+Title: Zoe Adelsheim
 Date: 2020-12-10
 Position: Undergraduate Student
 Position_suffix: (Sammi Sison)
 Affiliation: Neurobiology
 Email: zadelshe at ucsd.edu
 Fellowship:
-Headshot: /images/people/zoe_adelheim.jpg
+Headshot: /images/people/zoe_adelsheim.jpg
 Template: person
 Alumni_or_current: Current
 Current_position: UCSD, CA
