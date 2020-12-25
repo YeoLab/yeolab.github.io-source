@@ -20,6 +20,8 @@ Maya received her B.S. in Neuroscience and Molecular Genetics from the Ohio Stat
 
 ## Publications
 
+Wei Z, Fang Y, **Gosztyla ML**, Li A, Huang W, LeClair CA, Simeonov A, Tao D, Xia M (2021). A direct peptide reactivity assay using a high-throughput mass spectrometry screening platform for detection of skin sensitizers. Toxicology Letters, 338, 67-77. doi:10.1016/j.toxlet.2020.12.002.
+
 Roth JS, Lee TD, Cheff DM, **Gosztyla ML**, Asawa R, Danchik C, Michael S, Simeonov S, Klumpp-Thomas C, Wilson K, Hall MD (2020). Keeping it clean: the cell culture quality control experience at the National Center for Advancing Translational Sciences. SLAS Discovery, doi:10.1177/2472555220911451.
 
 **Gosztyla ML**, Brothers HM, Robinson SR (2018). Alzheimer’s Amyloid-ß is an Antimicrobial Peptide: A Review of the Evidence. Journal of Alzheimer’s Disease, 62(4), 1495-1506.
